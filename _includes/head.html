@@ -76,7 +76,25 @@
         margin-top: 2rem;
         max-width: 50vw;
     }
+    .iframecontainer {
+        overflow: hidden;
+        position: relative;
+        width:100%;
+    }
 
+    .iframecontainer::after {
+        padding-top: 56.25%;
+        display: block;
+        content: '';
+    }
+
+    .iframecontainer iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 </style>
 
 <div id="bump">
