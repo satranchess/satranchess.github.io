@@ -97,7 +97,7 @@ acele etmiyor.
 (48.Fe3 Sf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49.Kxd7 Vxd7 50.Fc5+ Sg8 51.Ah6+; )
 (48.Fe3 Ae6 49.Vxh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
-<iframe id="8974175" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=8974175"></iframe><script>window.addEventListener("message",e=>{e['data']&&"8974175"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin_2022.pgn" style="max-width:100%;"></div>
 
 
 **Wojtazsek - Rapport** **2022 Fide GP 1.Tur**
@@ -111,6 +111,7 @@ data-legend="Siyah Oynar">
 
 Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır hale geldi. Bunun nedeni elbette Beyazlarla 1.d4'lü açılışların git gide daha fazla oynanması ve Siyahların da genellikle sağlam Vezir Gambiti sularında gezinmesi. Bu konumu bizim için ilginç yapan şeyse siyahın bu sağlamlığını kırma arayışlarının zenginliği. Beyazın ağır taşları açıkça daha aktif d ve c-dikeylerinde rakipsiz gibiler, ancak siyahın da epey sağlam durduğu söylenebilir. Wojtazsek bize çok güzel bir şeyi hatırlatıyor. Uzun çaprazdaki fille ve f6-daki atla baş etmenin en temel yöntemi e4-f3 piyon zinciri ile onları kısıtlamak. Vezir Gambiti için tipik olan bu fikrin uygulanışı bize hafif taşların ele alınışı bakımından önemli dersler sunabilir.
 
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtazsek_Rapport_2022.pgn" style="max-width:100%;"></div>
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
 
@@ -126,18 +127,6 @@ Potansiyel geçer konusuna dair izlenebilecek videolar:
 ----
 
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin_2022.pgn" style="max-width:100%;"></div>
+
 
 <div class="cbreplay">
-
-[Event "World Championship 28th"]
-[White "Spassky, Boris V"]
-[Black "Fischer, Robert James"]
-[Site "Reykjavik"]
-[Result "1–0"]
-[Date "1972.08.06"]
-[WhiteElo "2660"]
-[BlackElo "2785"]
-
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 h5 12. 0-0 Nc6 13. Kh1 Bd7 14. Nb1 Qb4 15. Qe3 d5 16. exd5 Ne7 17. c4 Nf5 18. Qd3 h4 19. Bg4 Nd6 20. N1d2 f5 21. a3 Qb6 22. c5 Qb5 23. Qc3 fxg4 24. a4 h3 25. axb5 hxg2+ 26. Kxg2 Rh3 27. Qf6 Nf5 28. c6 Bc8 29. dxe6 fxe6 30. Rfe1 Be7 31. Rxe6
-</div>
