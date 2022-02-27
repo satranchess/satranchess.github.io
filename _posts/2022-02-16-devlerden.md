@@ -121,11 +121,11 @@ Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır h
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
 
-1.- Nepomniachtchi - Wang Hao, 2020 Fide Adaylar Turnuvası
+1. Nepomniachtchi - Wang Hao, 2020 Fide Adaylar Turnuvası
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GsmVARqW-Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-1.Meier - Carlsen, 2014 Dünya Yıldırım Şampiyonası
+2. Meier - Carlsen, 2014 Dünya Yıldırım Şampiyonası
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUmni0d8MRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
