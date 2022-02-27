@@ -97,9 +97,7 @@ acele etmiyor.
 (48.Fe3 Sf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49.Kxd7 Vxd7 50.Fc5+ Sg8 51.Ah6+; )
 (48.Fe3 Ae6 49.Vxh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
-<div class="iframecontainer"><iframe src="https://lichess.org/study/embed/RG8lM4fF/YmwxlTfS"></iframe></div>
-
-
+<iframe id="8974175" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=8974175"></iframe><script>window.addEventListener("message",e=>{e['data']&&"8974175"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 
 **Wojtazsek - Rapport** **2022 Fide GP 1.Tur**
@@ -113,7 +111,6 @@ data-legend="Siyah Oynar">
 
 Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır hale geldi. Bunun nedeni elbette Beyazlarla 1.d4'lü açılışların git gide daha fazla oynanması ve Siyahların da genellikle sağlam Vezir Gambiti sularında gezinmesi. Bu konumu bizim için ilginç yapan şeyse siyahın bu sağlamlığını kırma arayışlarının zenginliği. Beyazın ağır taşları açıkça daha aktif d ve c-dikeylerinde rakipsiz gibiler, ancak siyahın da epey sağlam durduğu söylenebilir. Wojtazsek bize çok güzel bir şeyi hatırlatıyor. Uzun çaprazdaki fille ve f6-daki atla baş etmenin en temel yöntemi e4-f3 piyon zinciri ile onları kısıtlamak. Vezir Gambiti için tipik olan bu fikrin uygulanışı bize hafif taşların ele alınışı bakımından önemli dersler sunabilir.
 
-<iframe width=600 height=371 src="https://lichess.org/study/embed/RG8lM4fF/cgC9Az4Y" frameborder=0></iframe>
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
 
