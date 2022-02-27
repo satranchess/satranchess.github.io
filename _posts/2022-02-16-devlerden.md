@@ -4,7 +4,7 @@ title: "Devlerden Öğrenmek (1)"
 tagline: "En üst düzeyde oynayan sporcuların strateji konusunu ele alışlarını makinelerle ve genel satranç prensipleri ile değerlendirmeye çalışmak eğlenceli bir uğraş olabilir. Özellikle öğrenmek için hevesiniz varsa."
 tag: haber
 date: 2022-02-16
-image: https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkpUYLd.png
+image: "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkpUYLd.png"
 ---
 
 ## Devlerden Öğrenmek (1)
@@ -116,6 +116,8 @@ Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır h
 
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport_2022.pgn" style="max-width:100%;"></div>
+
+
 
 
 
