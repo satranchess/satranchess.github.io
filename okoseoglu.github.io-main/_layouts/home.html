@@ -1,0 +1,199 @@
+{% include head.html %}
+
+<section class="article">
+
+    {% if page.image %}
+    <div class="overlay"></div>
+    {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
+    <div class="featured-image" style="background-image: url({{ page.image }})"></div>
+    {% else %}
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image }})"></div>
+    {% endif %}
+    {% else %}
+    <div class="overlay"></div>
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/banner.jpg)"></div>
+    {% endif %}
+
+    <div class="center">
+        <p>{% if page.description %} {{ page.description }} {% else %} {{ page.title}} {% endif %}</p>
+    </div>
+
+    <article class="archive-wrap">
+        <ol class="post-list">
+
+            {% if page.title == "Ana Sayfa" %}
+            {% for post in site.posts %}
+
+            <li>
+                <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                    <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+
+                    <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d. %m. %Y" }}</time></p>
+
+                    {% if post.video %}
+                    <style>
+                        .embed-container {
+                            position: relative;
+                            padding-bottom: 56.25%;
+                            height: 0;
+                            overflow: hidden;
+                            max-width: 100%;
+                            margin-bottom: 1rem;
+                        }
+
+                        .embed-container iframe,
+                        .embed-container object,
+                        .embed-container embed {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            height: 100%;
+                        }
+
+                    </style>
+                    <div class='embed-container'><iframe src='https://www.youtube.com/embed/{{ post.video }}' frameborder='0' allowfullscreen></iframe></div>
+                    {% endif %}
+
+                    {% if post.image %}
+                    <img src="{{ post.image }}" style="max-width:100%;margin-bottom:1rem;">
+                    {% endif %}
+
+                    {% if post.diagram %}
+                    <div style="margin-left:-3.5rem;">
+                        <div class=" cbdiagram" data-size="400" data-fen="{{ post.diagram }}" data-buttons="0" style="font-size:1.5rem;">
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    <p class="">{% if post.tagline %} {{ post.tagline }} {% else %} {{ post.description }} {% endif %}
+                        <button class="readlink" onclick="location.href='{{ site.url }}{{ post.url }}'" type="button">⤴</button></p>
+                </div>
+            </li>
+            {% endfor %}
+            {% endif %}
+
+            <style>
+                .readlink {
+                    background: none;
+                    color: inherit;
+                    border: none;
+                    padding: 0;
+                    font: inherit;
+                    cursor: pointer;
+                    outline: inherit;
+                }
+
+            </style>
+
+            {% if page.title == "Haberler" %}
+            {% for post in site.tags.haber %}
+
+            <li>
+                <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                    <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+
+                    <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d. %m. %Y" }}</time></p>
+
+                    {% if post.video %}
+                    <style>
+                        .embed-container {
+                            position: relative;
+                            padding-bottom: 56.25%;
+                            height: 0;
+                            overflow: hidden;
+                            max-width: 100%;
+                            margin-bottom: 1rem;
+                        }
+
+                        .embed-container iframe,
+                        .embed-container object,
+                        .embed-container embed {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            height: 100%;
+                        }
+
+                    </style>
+                    <div class='embed-container'><iframe src='https://www.youtube.com/embed/{{ post.video }}' frameborder='0' allowfullscreen></iframe></div>
+                    {% endif %}
+
+                    {% if post.image %}
+                    <img src="{{ post.image }}" style="max-width:100%;margin-bottom:1rem;">
+                    {% endif %}
+
+                    {% if post.diagram %}
+                    <div style="margin-left:-3.5rem;">
+                        <div class=" cbdiagram" data-size="400" data-fen="{{ post.diagram }}" data-buttons="0" style="font-size:1.5rem;">
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    <p class="">{% if post.tagline %} {{ post.tagline }} {% else %} {{ post.description }} {% endif %}</p>
+                </div>
+            </li>
+
+            {% endfor %}
+            {% endif %}
+
+            {% if page.title == "Dersler" %}
+            {% for post in site.tags.ders %}
+
+            <li>
+                <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                    <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+
+                    <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d. %m. %Y" }}</time></p>
+
+                    {% if post.video %}
+                    <style>
+                        .embed-container {
+                            position: relative;
+                            padding-bottom: 56.25%;
+                            height: 0;
+                            overflow: hidden;
+                            max-width: 100%;
+                            margin-bottom: 1rem;
+                        }
+
+                        .embed-container iframe,
+                        .embed-container object,
+                        .embed-container embed {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            height: 100%;
+                        }
+
+                    </style>
+                    <div class='embed-container'><iframe src='https://www.youtube.com/embed/{{ post.video }}' frameborder='0' allowfullscreen></iframe></div>
+                    {% endif %}
+
+                    {% if post.image %}
+                    <img src="{{ post.image }}" style="max-width:100%;margin-bottom:1rem;">
+                    {% endif %}
+
+                    {% if post.diagram %}
+                    <div style="margin-left:-3.5rem;">
+                        <div class=" cbdiagram" data-size="400" data-fen="{{ post.diagram }}" data-buttons="0" style="font-size:1.5rem;">
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    <p class="">{% if post.tagline %} {{ post.tagline }} {% else %} {{ post.description }} {% endif %}</p>
+                </div>
+            </li>
+
+            {% endfor %}
+            {% endif %}
+
+        </ol>
+    </article>
+</section>
+
+</div>
+
+{% include footer.html %}

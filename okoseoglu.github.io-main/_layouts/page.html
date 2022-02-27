@@ -1,0 +1,30 @@
+{% include head.html %}
+
+<section class="article">
+
+    {% if page.image %}
+    <div class="overlay"></div>
+    {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
+    <div class="featured-image" style="background-image: url({{ page.image }})"></div>
+    {% else %}
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image }})"></div>
+    {% endif %}
+    {% else %}
+    <div class="overlay"></div>
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/banner.jpg)"></div>
+    {% endif %}
+
+    <div class="center">
+        <p>{{ page.title }}</p>
+    </div>
+
+    <article class="wrap post" style="margin-top:3rem;">
+
+        {{ content }}
+
+    </article>
+
+</section>
+</div>
+
+{% include footer.html %}

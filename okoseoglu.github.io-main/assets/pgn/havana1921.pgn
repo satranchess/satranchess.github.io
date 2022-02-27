@@ -1,0 +1,248 @@
+[Event "MODERN SATRANC"]
+[Site "lichess.org"]
+[Date "2021.10.05"]
+[White "MAX LANGE ATAK"]
+[Black "Hamle Sıralaması 3...Fc5"]
+[Result "1-0"]
+[Annotator "Nazmi Can Dogan"]
+[UTCDate "2021.10.05"]
+[UTCTime "06:56:47"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Deutz Gambit"]
+
+{ [%evp 0,52,32,13,24,24,33,4,4,-21,-21,-21,39,42,57,50,55,-71,60,-33,143,-12,
+-4,0,164,104,160,52,33,4,17,17,60,15,109,47,82,92,-3,0,68,39,44,44,115,63,89,
+89,129,102,102,139,134,134,134] }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 { İki At
+Savunması ve İtalyan Açılışı hamle sıralaması bazı önemli
+farklılıklar barındırıyor. } 4. O-O Nf6 5. d4 { Bir başka hamle
+sıralaması. Max Lange Atak için bilinmesi gereken en basit şey Siyahın
+neden atla alamadığı olmalı. } 5... Bxd4! { Siyahın en önemli seçeneği ve
+İki At Savunması hamle sıralaması buna müsade etmiyor. } (5... Nxd4? 6. Nxe5! O-O (6... d5? 7. exd5 Nxd5 (7... O-O 8. Be3 $18) 8. c3 $18) 7. Be3! Ne6 8. Bxe6! Bxe3 9. Bxf7+! Rxf7 (9... Kh8 10. Bb3 $18 { Siyah Nf7 ve fxe3
+hamlelerine çare bulamaz. }) 10. Nxf7 Kxf7 11. fxe3 $18 { Bu satıları yazarı
+2012'de bunu oynama şansı bulmuştı. Dogan - Akbaba, Adana 2012. }) 6. Nxd4 Nxd4 (6... exd4 7. e5 Nxe5 (7... d5 8. exf6 dxc4 9. fxg7 Rg8 10. Qh5 $16) 8. Re1 { ve f4! }) 7. Bg5!? { [#] Oldukça kurnaz bir hamle sıralaması ile Beyaz
+bazı tehlikelerin üstesinden gelmeye çalışabilir. } (7. f4 { Ana varyant
+olmasına rağmen 7.Bg5 ile ortak yanları vardır. } 7... d6 8. fxe5 dxe5 9. Bg5 Qe7 10. c3 Be6 11. Na3 Nc6 12. Kh1 Rd8 13. Qe2 h6 14. Bxf6 gxf6 $16 { Max Lange
+Atak kullanılarak oynanmış en meşhur üst düzey oyunlardan biri. Beyazın
+avantajı önceden görüğümüz gibi, Siyahın uyumsuz ordusu ve merkezde
+kalmış şahı ve yıkılmış piyon formasyonudur. Movsesian,S (2751)-Adams,
+M (2712) Wijk aan Zee 2009 }) 7... h6 8. Bh4 d6! (8... g5? { Klasik bir tuzak! } 9. f4!! { Bilinmesi gereken önemli bir hamle! Siyahın bu tuzağa
+sayısız defa düştüğünü belirtmekte fayda var. } 9... d6 (9... gxh4 10. fxe5) 10. fxg5 $18 { Büyükusta 10 hamlede kendini kayıp konumda buluyor. Chizhikov,
+V (2305) -Michalik,P (2557) Pardubice 2017 }) 9. f4 Bg4! (9... Be6 10. Na3 Qe7 11. fxe5 dxe5 12. Bxf6 gxf6 13. c3 Bxc4 14. Nxc4 Ne6 15. b4 $44 { Beyazın
+piyona karşı belirli bir baskısı vardır. Ne3-f5 manevrası ve Siyahın
+fena piyon yapısı Beyaza güzel bir oyun imkanı verecek. } 15... Rg8 16. Kh1 Rg6 17. Ne3 c6 18. Nf5 Qd7 19. Qf3 Ng5 20. Qe2 Rd8 21. Rad1 Qc7 22. Rxd8+ Qxd8 23. Rd1 $18 { Tahtadaki taş sayısı azalmıştır ancak Siyahın uyumsuz
+güçleri Beyazın tek vücut ordusu karşısında çaresizdir. Martic,I (2386)
+-Djordjevic,D (2014) Belgrade 2014 }) 10. Qd2!? (10. Bxf6 Bxd1 11. Bxd8 Rxd8 12. Rxd1 Nxc2 13. Nc3 Nxa1 14. Rxa1 exf4 15. Nd5 $13 { Dengesiz bu konumu
+denemek serbest, sonuçları bildirirseniz sevinirim. }) 10... g5 11. fxe5 dxe5 12. Bg3 Qe7 13. Nc3 O-O-O { Siyahın bir sorunu olduğunu düşünmek zor ancak
+Beyazın da fazla riskli bir durumu yok gibi görünüyor. Piyon yakın
+zamanda geri alınacak ama avantaj var mı orası şüpheli. } 14. Qf2 Qc5 15. Bxf7 Nh5 16. Bxh5 Bxh5 17. Kh1 Rhf8 18. Qg1 b6 19. Rxf8 Rxf8 20. Rf1 { Kotzem,E
+(2409)-Just,J (2224) GER email 2015 } 1-0
+
+
+[Event "NaSil's Study: MAX LANGE ATAK - Ana Varyant"]
+[Site "lichess.org"]
+[Date "2021.10.05"]
+[White "MAX LANGE ATAK"]
+[Black "Ana Varyant"]
+[Result "1-0"]
+[Annotator "Nazmi Can Dogan"]
+[UTCDate "2021.10.05"]
+[UTCTime "06:56:48"]
+[Variant "Standard"]
+[ECO "C55"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack, Long Variation"]
+
+{ [%evp 0,52,32,13,24,24,33,4,4,-21,-21,-21,39,42,57,50,55,-71,60,-33,143,-12,
+-4,0,164,104,160,52,33,4,17,17,60,15,109,47,82,92,-3,0,68,39,44,44,115,63,89,
+89,129,102,102,139,134,134,134] }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 { ve Max Lange Atak! Bu hamle sıralamasıyla gidildiğinde Siyahın
+önemli bir seçeneği dışarıda kalıyor. } 6. e5 d5! { Tek hamle! } (6... Ne4?? { Siyah hemen kaybeder. } 7. Qe2 d5 8. exd6 { Geçerken alma olmasaydı
+Siyahın konumu oldukça iyi olurdu! } 8... Bf5 9. Nbd2 O-O 10. Nxe4 Re8 11. Bxf7+!! Kxf7 12. Neg5+! (12. Qc4+! { Bu hamle de yeterliydi. }) 12... Kf8 13. Qc4 Bg6 (13... Qd7 14. Qxc5) 14. Nh4 { 1-0 (14) Ponec,J (2068)-De Almeida,J (1742) Mogi
+das Cruzes 2012 }) 7. exf6 dxc4 8. Re1+ (8. fxg7!? { Sürpriz silah ve konumsal
+bir tuzak hazırlıyor! } 8... Rg8 9. Bg5 Be7 10. Bxe7 Kxe7! { Siyahın bu hamleyi
+bulması (bilmesi) gerekiyor. } (10... Nxe7?! 11. Qxd4 Qxd4 12. Nxd4 $16)  (10... Qxe7 11. Nxd4 $16) 11. Re1+ Kf6! { Beyazın skorunun iyi olduğu
+belirsiz bir konum. Siyah ilk firsatta şahını güvenli bir yere koymaya çalışacak. } { [%cal Gf6g7,Gg7h8] }) 8... Be6 (8... Kf8!? 9. Nbd2 (9. Bg5!? gxf6 (9... Qd7 10. Bh6 gxh6 11. Qd2) 10. Bh6+ Kg8 11. Nc3 Bf8 (11... Bg4 12. Ne4 Bf8 (12... Bb6 13. Qd2) 13. Bxf8 Kxf8 14. Qd2 Kg7 15. Qf4 { [%cal Ge4g3,Gh4f5] })) 9... Qd5 (9... Qxf6 10. Ne4 Qf5 11. Nxc5 Qxc5 12. b4!! { Siyah Sah merkezde ve fil etkili bir şekikde oyuna giriyor! } 12... Nxb4 (12... Qb6 13. b5 Qxb5 14. Ba3+ $18) 13. Nxd4 h6 14. Ba3)  (9... gxf6 10. Ne4 Be7 11. Bh6+ Kg8 12. Qd2 { ve Qf4 }) 10. Ne4 Bf5 11. fxg7+ Kxg7 12. Bh6+ Kxh6 13. Qd2+ Kg7 14. Qg5+ Kf8 15. Qh6+ Ke7 16. Qh4+ Kf8 17. Qh6+ Ke7 18. Nxc5+ Be6 19. Rxe6+ { Ponkratov,P (2603)-Shinkevich,V (2468) Khanty-Mansiysk 2013 1-0 }) 9. Ng5! { Tuzak alarmı! f6-piyonu zehirlidir. } (9. fxg7!? { Yine bir sürpriz silah! } 9... Rg8 10. Bg5 Be7 11. Bxe7 Qxe7 { Normal tercih. } (11... Kxe7 { En popüler hamle. } 12. Re4 d3 13. Nbd2 Qd5 14. Rxc4 Rxg7 15. cxd3 Qxd3 16. Rc3 Qf5 17. Qe2 Re8 18. Ne4 $16 { Keller,H (2406)-MacKintosh,I (2377) ICCF email 2007 }) 12. Nxd4 Rd8 13. c3 Rxg7 (13... Nxd4 { Beyazın seçeneklerini arttırır. } 14. cxd4 Rxg7 15. Nc3 c6 16. Re4) 14. Qf3 { Yeni bir hamle ve pratik değeri olabilir. } (14. Nxe6!? Rxd1 15. Nxg7+ Kf8 16. Rxd1 Kxg7 17. Nd2 Qe2 $13 { Denemesi bedava bir başka
+seçenek. }) 14... Nxd4 15. cxd4 c6 16. Nc3 Rxd4 17. Rad1 Rxd1 18. Qxd1 { Beyaz Qd4-Ne4 ile baskı kurmayı düşlüyor ve Siyahın piyon fazlalığı
+henüz o kadar önemli değil; denemesi bedava bir başka tavsiye olarak
+düşünülebilir. }) 9... Qd5 (9... Qxf6?? { Bu hamle belki de satranç tarihinde en sık yapılan hatalardan birini bize gösterir :) An itibariyle lichess'te bu konuma 17 bin kez ulaşılmış! } 10. Nxe6 fxe6 11. Qh5+ { Bu konuma
+ulaşan 140 kayıtlı parti var. Binlerce oyunda kaç kişinin canının
+yandığını kim bilebilir? }) 10. Nc3! { Yine minik bir tuzak. } 10... Qf5 11. Nce4 O-O-O 12. g4! { Tuzak alarmı! } 12... Qe5 { Elbette tek hamledir. } (12... Qxg4+ 13. Qxg4 Bxg4 14. Nxf7! (14. Nxc5?? { Ava giden avlanabilirdi. } 14... gxf6 15. Nxf7 Rhg8 { ve Siyah kazanır. } 16. Nxd8?? Be2+ { ve mat ile biterdi. }))  (12... Qd5?? { Başına geleceklerden habersiz Albin bu normal hamleyi oynamıştı. } 13. fxg7 Rhg8 14. Nf6 Qd6 15. Nge4 Qe5 16. f4 d3+ 17. Kg2 Qd4 18. c3 $18 { Tahtanın
+ortasında sıkışan vezire en güzel ve bilinen örneklerdendi. Chigorin,
+M-Albin,A Berlin 1897 }) 13. Nxe6 fxe6 14. fxg7 Rhg8 15. Bh6 { Bu konum
+Marshall'ın Capablanca, Tarrasch gibi oyuncuları yenmesini sağladığına
+göre bizim de işimize yarayabilir. } 15... d3 16. c3 d2 { Aktif karşı oyun için
+d-piyonunu feda etme fikri oldukça yaygın ancak yeterli mi henüz belli
+değil. } (16... Be7 { Beyazın Qf3-Nf6 oynamasını engellemek isteyen
+oyuncuların tercihi. } 17. Qf3 Qd5 { [#] Beyazın g7-piyonu çok tehlikelidir
+ve fikri g5-Nf6 ve yarı açık e-dikeyi üzerinde baskı olarak
+özetlenebilir. Siyah geçer d3-piyonu önemli bir unsurdur. Yalnızca
+Marshall - Capablanca partileri bile bu varyantın karmaşası hakında fikir
+verecektir. } 18. Rad1 (18. Qf4!? { Marshall'ın Capa'ya karşı bir başka
+denemesidir. Marshall,F-Capablanca,J New York,NY 1910 } 18... Ne5 19. Nd2 Bd6 20. Re4 Rd7 21. Qe3 Bc5 22. Rxe5 Bxe3 23. Rxd5 Bxh6 24. Rxd7 Kxd7 25. Nxc4 $16 { Marshall,F-Capablanca,J New York,NY 1910 })  (18. Qf7!? Rde8 19. Re3 Ne5 20. Qf4 Ng6 21. Qf7 Ne5 22. Qf4 Ng6 23. Qf7 Ne5 24. Qf4 Ng6 { Marshall,F-Capablanca,J
+New York,NY 1910 }) 18... b5 19. g5 Ne5 20. Qf4 Rd7 21. Re3 a5 22. Rde1 b4 23. Nd2 Bxg5 24. Qxg5 Nf7 25. Qh4 $18 { 1-0 (38) Marshall,F-Capablanca,J New York,
+NY 1910 }) 17. Re2 Rd3 { Açılışlarınızı her zaman tekrar etmelisiniz! Takipçilerin hatırlayacağı gibi bu konumda 18.Axc5? hamlesini oynayarak oynaması oldukça zor bir konumla karşı karşıya kalmıştım. } 18. Qf1! (18. Nxc5? { ve rakibim çok geçmeden kazanç konuma geçmişti. https://lichess.org/x7J14cPH }) 18... Qd5 19. Nxd2 Be7 20. Qg2 Bf6 21. Qe4! Bxg7 22. Qxh7 $18 Ne7 23. Bxg7 { Bu konumda rakibinin günler süren işkencesini
+tatmak istemeyen Siyah erkenden terk etmiş ancak durum "yazışmalı
+satranç" için oldukça ümitsizdir. 1-0 (23) Aldrete Lobo,J-Herrera,G corr
+1992 } 23... Qg5 (23... Rxd2 24. Rxd2 Qxd2 25. h3! Qxb2 26. Rb1 Qxa2 27. Bf6 $18) 24. f3 Rxg7 25. Ne4! Qxg4+ 26. fxg4 Rxh7 { 1-0 Black resigns. } 1-0
+
+
+[Event "MAX LANGE ATAK: ITALYAN ACILISI - ISKOC "]
+[Site "lichess.org"]
+[Date "2021.10.05"]
+[White "ITALYAN ACILISI"]
+[Black "ISKOC GAMBITI"]
+[Result "1-0"]
+[Annotator "Nazmi Can Dogan"]
+[UTCDate "2021.10.05"]
+[UTCTime "06:56:47"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Anderssen Attack"]
+
+{ [%evp 0,83,22,32,17,13,24,4,4,-27,-27,-21,-21,-16,-16,-17,-15,-30,-30,-43,8,
+13,13,13,10,8,8,7,-9,-1,34,39,19,38,38,2,67,50,43,18,17,17,17,22,49,49,45,49,
+45,42,39,39,41,65,65,65,65,65,65,65,78,65,65,60,69,61,97,65,65,94,80,200,171,
+214,351,351,355,339,355,355,356,375,408,403,406,427] }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 (3. d4 { Bu hamle sıralamasında yer alan bazı olanaklar İtalyan
+Açılışı hamle sıralamasında yer almıyor. } 3... exd4 4. Bc4 Nf6 (4... Bc5 { Haxo Gambiti, Max Lange'ye dönüşebilir. }) 5. O-O Bc5 { Yine Max Lange'ye
+dönüşen başka bir hamle sıralaması. }) 3... Nf6 (3... Bc5 4. O-O Nf6 5. d4 exd4 { Max Lange Atak! }) 4. d4 (4. Ng5!? { Tuzağıyla meşhur kızarmış
+ciğer saldırısı! } 4... d5 (4... Bc5!? { Traxler Atak! }) 5. exd5 Nxd5?! (5... Na5!)  (5... b5!?)  (5... Nd4!?) 6. Nxf7! { Standart bir tuzaktır. })  (4. d3 { İtalyan Açılışı Kapalı Sistemi yine SATRANÇSEVER dergisi
+sayfalarında yerini bulmuştu. }) 4... exd4 { Zorunlu. } (4... Nxe4?! 5. dxe5 { 6.Fxf7 ardından 7.Vd5 ve hemen 6.Vd5 tehditleriyle baş etmesi zorunluluğu
+Siyaha sıkıntı yaratacaktır. })  (4... Bd6?! { Çirkin görünen bir hamle,
+bir tuzağın habercisi. } 5. dxe5 Nxe5? (5... Bxe5 6. Nxe5 Nxe5 7. Be2 d6 8. Nc3 $14 { Çift fil ve güzel merkez kontrolu Beyaza üstün
+bir konum verir. 1-0 (40) Melia,S (2400)-Zhao,X (2543) Batumi 2012 } { [%csl Ge2,Gc1,Ge4] }) 6. Nxe5 Bxe5 7. f4 Nxe4 { Taş kaybedeceğini fark eden Siyah
+son tuzağını kuruyor. } { [%csl Gh4][%cal Gd8h4] } 8. Qh5! $18 { Beyaz kazanır çünkü ...Vh4 engellenerek saldırı sürüyor. } { [%csl Yh4,Yd8][%cal Gh5f7,Gc4f7,Bd8h4] })  (4... d5? 5. exd5 Nxd5 6. dxe5 { Piyon kazanır. }) 5. O-O Nxe4 (5... Bc5 { Yine Max Lange
+olur! }) 6. Re1 (6. Nc3?! { Bu kadarı fazla ve belki bu hamle '?' hak ediyor,
+ancak tuzak tuzaktır ve denemesi bedava. } 6... dxc3 (6... Nxc3! 7. bxc3 d5! $17 { Aç gözlü olmak yerine gelişimi sürdürme ilkesi burada da Siyahın
+yapabileceği en iyi şey olmalı. })  (6... Nd6!? { Bir diğer güçlü hamle. } 7. Nd5! Nxc4! { Bazen açgözlü olmak gerekebilir. } (7... Be7 8. Bf4 $16) 8. Re1+ Be7 9. Nxe7 Nxe7 10. Qxd4 O-O! { Siyah iyi hamleleri bularak piyon
+fazla rahat bir konum elde etti. }) 7. Bxf7+! Kxf7 8. Qd5+ Kf6 9. Re1 { Stockfish Siyahın konumunu beğeniyor ancak oynaması kolay görünmüyor. })  (6. Nxd4?! d5 $15) 6... d5 7. Bxd5! (7. Nc3? { Burada da mı? Bu hamle
+tuzaktan çok şok etkisi yaratma amacı taşıyor olabilir. } 7... dxc3 { En kolayı
+gibi duruyor. } (7... dxc4 8. Rxe4+ Be6 9. Nxd4 Nxd4 10. Rxd4 Qf6 11. Nd5 Bxd5 12. Rxd5 Bd6 { Beyazin insiyatifi bulunuyor ancak hala piyon geri ve Siyah rok
+atacak. }) 8. Bxd5 Be6 9. Bxe4 Qxd1 10. Rxd1 $17 cxb2 11. Bxb2 f6 $17 { Bu
+konumda oynanan onlarca oyuna rağmen Beyazın skoru çok kötü. Yani tuzak
+başarısız! }) 7... Qxd5 8. Nc3! { Önceki hamlenin fikri. Siyah pratikte
+vezirini hemen her yere kaçmayı denemiş. Şimdi önemli bir yol
+ayrımındayız. Bu konumun anlaşılması için önemli bir başlangıç
+pozisyonu karşımızda duruyor. } 8... Qd8 { Pratikte en az karşılaşılan vezir hamlelerinden biri ancak kesinlikle kötü değil. Diğer varyantlar aşağıda ele alınacak. } (8... Qa5)  (8... Qh5)  (8... Qd7) 9. Rxe4+ (9. Nxe4?! { Burada Siyahı zorlamaz. } 9... Be7) 9... Be7 10. Nxd4 f5 11. Rf4 O-O 12. Nxc6 bxc6 13. Rd4 Qe8 14. Bf4 Bf6 $13 { Çift file karşı piyon formasyonunda
+zafiyet. Hangi tarafı seçeceğiniz tamamen zevk meselesi. ½-½ (52) Pap,M
+(2488)-Edouard,R (2630) Germany 2016 } 1-0
+
+
+[Event "MAX LANGE ATAK: ITALYAN ACILISI - ISKOC "]
+[Site "lichess.org"]
+[Date "2021.10.05"]
+[White "ISKOC GAMBITI"]
+[Black "8...Va5"]
+[Result "1-0"]
+[Annotator "Nazmi Can Dogan"]
+[UTCDate "2021.10.05"]
+[UTCTime "06:56:47"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Anderssen Attack"]
+
+{ [%evp 0,83,22,32,17,13,24,4,4,-27,-27,-21,-21,-16,-16,-17,-15,-30,-30,-43,8,
+13,13,13,10,8,8,7,-9,-1,34,39,19,38,38,2,67,50,43,18,17,17,17,22,49,49,45,49,
+45,42,39,39,41,65,65,65,65,65,65,65,78,65,65,60,69,61,97,65,65,94,80,200,171,
+214,351,351,355,339,355,355,356,375,408,403,406,427] }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5! Qxd5 8. Nc3! Qa5 { En popüler hamle! } 9. Nxe4 (9. Rxe4+?! { Ava giden avlanır! } 9... Be6 10. Nxd4 O-O-O! $15 { Beyaz tuzağa düştü! Açık merkez var Siyah insiyatifi ele
+geçirdi. }) 9... Be6 { En popüler hamle! } (9... Be7 { Bu açılışta Siyahın
+taktik tuzakları atlattıktan sonra konumsal tuzakları da çözmesi
+gerekiyor. } 10. Bg5! { Bu konumda Siyah için en iyisinin ne olduğunu
+söylemek zor. } 10... f6? { Siyahın en çok tercih ettiği bu hamle tuzağa
+düşüldüğünün de habercisi! } (10... Be6 11. Bxe7 Nxe7 12. Qxd4 $14 { Beyaz açılışta elde ettiği konumdan memnundu. Açık merkezin bulunduğu
+konumda taşları daha iyi yerleşmiş ve bu ona insiyatifi elinde tutma
+şansı veriyor. 1-0 (95) Savchenko,B (2638)-Matlakov, M (2574) Ulan Ude 2009 })  (10... O-O 11. Bxe7 Nxe7 12. Nxd4 { Konum satranç motoruna göre eşit gibi
+görünüyor ancak açık merkezli bu konumda insiyatif kimdeyse ibre o yöne
+kayabilir. Beyazın daha aktif taşları var ve Siyah yine dakik olmalı. } 12... Qb6 (12... Rd8 13. Nb3 Rxd1 14. Rexd1 Qd5 15. Rxd5 Nxd5 16. Rd1 $14 { Oyuncular
+beraberlikte anlaşmışlar ancak daha çok oyun var zira Siyahın vezir
+kanadı gelişimine dikkat etmesi gerekiyor. ½-½ (16) Sullivan,N-Lawson,A
+Canada 1999 }) 13. Qd3 Bg4 14. h3 Rad8 15. c3 Bh5 16. a4 Bg6 17. Qb5 Rfe8 18. a5 Qxb5 19. Nxb5 Nd5 20. Nc5 $16 { Yazışmalı oyunlar günlerce süren
+düşünmenin ardından oynanan hamlelere dayanıyor ve bu oyunu buraya
+almamın sebebi Siyahın günlerce süren düşünmenin ardından Beyazın
+insiyatifini durduramamış olmasıydı. 1-0 (40) Fritsche, F-Malmstroem,J
+DESC email 2004 }) 11. Nxf6+! gxf6 12. Bxf6 Rf8 13. Bxe7 Nxe7 14. Qxd4 { Beyaz fil eksik ancak çok ciddi bir baskısı var. Siyah şah merkezde ve
+Beyazın tüm taşları oyunda. } 14... Qb6 15. Qe5 Qd6 16. Qe4 c6 17. Rad1 $18 { Siyah şah günlerce direndi ancak sonunda kazanan Beyaz oldu. Bir
+Yazışmalı Satranç Ustasından tuzak gösterisi 1-0 (46) Rebord,M (2579)
+-Gala,K (1882) ICCF email 2006 }) 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 { Bu konumdan itibaren oynanmış neredeyse 1600(!) parti var. Konumun temel
+özellikleri arasında Siyahın güçlü mü zayıf mı anlaması kolay
+olmayan d4-piyonu ve Beyazın tek açık dikey olan e-dikeyi kontrolü dikkat
+çekiyor. } 12... Bd6 { Siyahın açık ara en sık oynadığı hamle ve en doğal
+görüneni elbette. } (12... h6!? { Beyazın sonraki hamlesini kesen
+soğukkanlı bir hamle. ...g5-sürüşünü de destekliyor. } 13. Qe2 Bd6 14. Bd2 Qh5 15. h3! (15. Re1? { Tuzak alarmı! Siyahın bu varyantta iyi
+bilinen tuzaklarından: } 15... d3! { Nd4 tehdidi yüzünden Beyaz dikkatli olmalı. }) 15... Rhf8 16. Re1 $14)  (12... Be7!? { Çok sağlam! } 13. Ne5 (13. Qe2 Bf6) 13... Nxe5 14. Rxe7 Rhe8 15. Bd2 Qb6 16. Rxe8 Rxe8 17. Qh5 Qg6 18. Qxg6 Nxg6 19. Kf1 { Ata fil mücadelesi ve dengesiz bir konum. Tercih sizin! }) 13. Bg5 Rde8 14. Qe2 Kd7 { [#] } (14... Ne5?! { Kurulan tuzaklardan biridir. } 15. Rxe8+ Rxe8 16. Kf1! { Beyaz açmaz sayesinde d4-piyonunu kazanıyor. } 16... h6 (16... c5 17. Bf4 c4 18. Nxe5 Bxe5 19. Re1 $18 { 1-0 (39) Schrepp,M-Kohl,H Untergrombach
+1991 }) 17. Bf4 Re7 18. Nxd4 $16 { 1-0 (53) Belka,W (2401)-Roshchupkin,G (2212)
+ICCF email 2010 }) 15. Rxe8 (15. Re1!? Qxe1+ 16. Qxe1 Rxe6 17. Qf1!? $146 { Makinenin birinci sırasındaki bu hamleyi oynayan olmamış ancak güzel bir
+fikre sahip. Birincisi ...h6'ya Bd2 ile cevap verirken Qd3 hamlesi ile
+d4-piyonuna baskı yapabilmek, diğeri g3 ve Qh3 fikriyle veziri Beyaz
+karelerden kullanmanın başka yollarını aramak. İki kale vezire karşı
+hiç fena değil ancak bu konumda Siyah şah güvenliği sorunu yaşayabilir
+ve d4-piyonu görece zayıf. })  (15. Re4 Qf5 { Beyaz tüm ağır taşları
+keserse Siyahın d4-piyonu ve şahı ile ilgili sorunu olmayacak. }) 15... Rxe8 16. Qd3 { Kritik bir konum. Siyahın şahı hala Beyazınki kadar güvende
+değil ve d-piyonu kormaya muhtaç. Buna karşı eğer Beyaz bir şeyler
+yapmazsa Siyahın taşları oldukça aktif. } 16... h6 (16... g6 { Mümkün ancak 16...
+h6'dan daha iyi olduğu tartışmalı. }) 17. Bd2 { Vezir yine tercih hakkına
+sahip. } 17... Qh5 (17... Qd5 18. c3 Ne5 (18... Re4 19. Rd1) 19. Nxe5+ Bxe5 (19... Qxe5 20. g3 dxc3 21. Bxc3 Qg5 22. h4 { ve Bg7 }) 20. cxd4 Bxd4 21. Be3 $14 { Beyazın bir şeyi riske attığı söylenemez. })  (17... Qb6 18. b4! { Siyahı kısıtlayan ve d4-piyonunu izole eden bir hamle. } 18... Ne5 19. Nxe5+ Bxe5 20. Re1 Kd8 21. h3 Bf6 22. Rxe8+ Kxe8 23. Qe4+ Kd7 24. Qd5+ Ke7 25. b5 $16 { 1-0 (39) Guizar,C (2355)-Hess,J (2486) ICCF corr 2001 }) 18. h3! { d4-piyonunu
+istiyor. } 18... Ne5 { Yazışmalı Satranç için oynaması kolay bir hamle. } (18... Rf8 { Tuzak kurma sırası Siyahta! } 19. Qe4! { devamında Re1 ve d4-piyonuna
+baskı sürüyor. } (19. Nxd4?! Qe5 20. Nf3?? Rxf3)) 19. Qb5+ Kc8 20. Nxd4 { Beyaz piyon kazandı ama Siyah onu bazı taktiklerle geri alabiliyor. } 20... Bc5 21. Nf5 Bxf2+ 22. Kh1 a6 23. Nxg7! axb5 24. Nxh5 Nc4 25. Bxh6 Rh8 26. Nf6 Rxh6 27. Ng4 Rc6 28. Nxf2 Nxb2 29. h4 { Sis dağıldı ve evet sonunda
+söyleyebiliriz: Beyaz üstün! Bu taktik finali yazışmalı satrançta
+kazanmak Beyaz için zor olmamış. } 29... Kd7 30. h5 Rxc2 31. Kg1 Ke6 32. h6 Rc4 33. g4 Kf7 34. Re1 Rd4 35. Re8 Kg6 36. g5 Kxg5 37. h7 Rh4 38. h8=Q Rxh8 39. Rxh8 b6 40. Rf8 Nc4 41. Ne4+ Kg4 42. Kf2 { 1-0 (42) Keller,H (2406)-Minchev,V (2464)
+ICCF email 2009 } 1-0
+
+
+[Event "MAX LANGE ATAK: ITALYAN ACILISI - ISKOC "]
+[Site "lichess.org"]
+[Date "2021.10.05"]
+[White "ISKOC GAMBITI"]
+[Black "8...Vh5"]
+[Result "1-0"]
+[Annotator "Nazmi Can Dogan"]
+[UTCDate "2021.10.05"]
+[UTCTime "06:56:47"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Anderssen Attack"]
+
+{ [%evp 0,83,22,32,17,13,24,4,4,-27,-27,-21,-21,-16,-16,-17,-15,-30,-30,-43,8,
+13,13,13,10,8,8,7,-9,-1,34,39,19,38,38,2,67,50,43,18,17,17,17,22,49,49,45,49,
+45,42,39,39,41,65,65,65,65,65,65,65,78,65,65,60,69,61,97,65,65,94,80,200,171,
+214,351,351,355,339,355,355,356,375,408,403,406,427] }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5! Qxd5 8. Nc3! Qh5 9. Nxe4 Be6 (9... Be7 { Bu hamle de oynanabilir ancak Siyah yine çok dikkatli olmalı. } 10. Bg5 Bg4! 11. Bxe7 Bxf3 12. gxf3 Nxe7 13. Qe2 Kf8 14. Ng3 Qc5 15. b4 Qxb4 (15... Qg5 16. Rad1 Rd8 17. h4! Qxh4 18. Qe5 { Beyaz iki piyon geri ancak
+Stockfish ile baktıkça Beyazın konumu güzelleşiyor: Re4 ve Qc7 tehdidiyle. }) 16. Rab1 Qd6 17. Rxb7 Nd5? (17... h5 { Beyazın piyona karşı baskısı
+aşikar. }) 18. Rxa7 $16 { 1-0 (36) Beltran Rueda,S (2350)-Granados Gomez,M
+(2355) Spain 1997 }) 10. Bg5! h6 (10... Bd6 { En sağlamı gibi görünüyor. } 11. Nxd6+ cxd6 12. Bf4 Qd5 13. c3 O-O 14. Nxd4 Nxd4 15. Qxd4 Qxd4 16. cxd4 d5 { Beyaz bu oyunu açılıştan üstün olduğu için kazanmamış elbette ancak
+Siyahı uzun bir savunma bekliyor. 1-0 (96) Hector,J (2584)-Grandelius,N (2505)
+Lund 2010 }) 11. Bf6! { Standart bir numara! Şimdi Siyah zor durumda kalir.
+Bu filden kurtulmak o kadar kolay değil. Birkaç örnek varyant ile
+inceleyelim. } 11... Qg6 (11... Be7 12. Bxe7 Nxe7 13. Nxd4 Qxd1 14. Raxd1 O-O-O 15. Nc5 Nf5 16. Ndxe6 Rxd1 17. Rxd1 fxe6 18. g4! (18. Nxe6 Re8 19. Nf4 Nd4 20. c3 Ne2+ 21. Nxe2 Rxe2 $44 { 1/2-1/2 (28) Thomas,N (2195)-Hodge, D (2129)
+Birmingham 2001 }) 18... Nh4 19. Nxe6 Re8 20. Nxg7 Re2 21. Rc1 $18 { Konum
+teknik olarak kazanctir. Beyaz atini savunmaya getirir ve Siyah kalesi kovalar
+ardindan K ve R oyuna girer. } 21... Kd7 22. Nh5 Ke7 23. Ng3 Rd2 24. Kf1 Nf3 25. Nf5+ Kf6 26. Kg2 Nd4 27. Nxd4 Rxd4 28. Kg3)  (11... Qf5? 12. Nxd4! Nxd4 13. Qxd4 { Siyah fili alamaz ve Beyaz kazanç konum elde eder. } 13... Qd5 14. Qe3 Qf5 15. Qd3 Be7 (15... gxf6 16. Nd6+ Bxd6 17. Qxf5) 16. Bxg7 Rd8 17. Nd6+ Rxd6 18. Qxf5 Bxf5 19. Bxh8 { 1-0 (19) Li,C (2714) -Wang,Y (2295) Dresden 2018 }) 12. Nh4 Qh7 13. Qd3 Bd6 14. Nf5! $16 { 1-0 Black resigns. } 1-0
+
+
+[Event "MAX LANGE ATAK: ITALYAN ACILISI - ISKOC "]
+[Site "lichess.org"]
+[Date "2021.10.05"]
+[White "ISKOC GAMBITI"]
+[Black "8...Vd7!?"]
+[Result "1-0"]
+[Annotator "Nazmi Can Dogan"]
+[UTCDate "2021.10.05"]
+[UTCTime "06:56:47"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Anderssen Attack"]
+
+{ [%evp 0,83,22,32,17,13,24,4,4,-27,-27,-21,-21,-16,-16,-17,-15,-30,-30,-43,8,
+13,13,13,10,8,8,7,-9,-1,34,39,19,38,38,2,67,50,43,18,17,17,17,22,49,49,45,49,
+45,42,39,39,41,65,65,65,65,65,65,65,78,65,65,60,69,61,97,65,65,94,80,200,171,
+214,351,351,355,339,355,355,356,375,408,403,406,427] }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5! Qxd5 8. Nc3! Qd7!? { Bu varyant çok eski olsa da yeni girişimler sürüyor. İlginç bir şekilde
+çürütmesi oldukça zor olan bu hamleyle Siyah, aktif agresif yaklaşımlar
+yerine vezirle e7-karesine destek olarak hızlıca roku hazırlayarak
+eşitlemek istiyor. } (8... Qd8 9. Rxe4+ (9. Nxe4?! { Burada Siyahı zorlamaz. } 9... Be7) 9... Be7 10. Nxd4 f5 11. Rf4 O-O 12. Nxc6 bxc6 13. Rd4 Qe8 14. Bf4 Bf6 $13 { Çift file karşı piyon formasyonunda zafiyet. Hangi tarafı seçeceğiniz
+tamamen zevk meselesi. ½-½ (52) Pap,M (2488)-Edouard,R (2630) Germany 2016 }) 9. Nxe4 Be7 10. Bg5 O-O 11. Bxe7 Qxe7 12. Nxd4 Bd7 { Siyahın konumu kırması
+zor bir ceviz gibi ancak Beyazın kaybetme riski de görünmüyor. Örnek bir devamyolu: } 13. Nb3 Rae8 14. Qd2 Bc8 15. Nc3 Qf6 $10 { Dogan - Demir, Antalya 2019. } 1-0
+
+
