@@ -1,0 +1,67 @@
+﻿[Event "FIDE Worldchess Grand Prix Berlin 2022"]
+[Site "Berlin, Germany"]
+[Date "2022.02.04"]
+[Round "1.3"]
+[White "Fedoseev, Vladimir"]
+[Black "Oparin, Grigoriy"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2704"]
+[BlackElo "2681"]
+[Annotator "https://lichess.org/@/broadcaster"]
+[PlyCount "95"]
+[EventDate "2022.??.??"]
+[WhiteClock "0:18:36"]
+[BlackClock "0:18:50"]
+
+{[%evp 0,95,27,35,29,-14,3,-17,-19,-27,-5,10,0,-4,28,0,20,23,46,44,25,53,62,43,
+43,46,46,29,41,30,53,54,92,-3,0,-25,26,45,42,19,53,35,45,16,88,73,63,65,81,44,
+47,65,85,70,80,62,56,66,72,80,111,70,119,111,105,85,85,81,105,96,105,98,105,
+105,138,138,138,154,192,191,194,162,214,186,214,171,186,190,217,222,246,256,
+302,330,422,144,328,232]} 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6.
+O-O dxc4 7. Qc2 b5 8. a4 Bb7 9. axb5 a6 10. Nc3 axb5 11. Rxa8 Bxa8 12. Nxb5 Bd5
+13. Rd1 c5 14. dxc5 Qa5 15. Nfd4 Bxc5 16. Bxd5 exd5 17. b3 Rc8 18. bxc4 Bxd4
+19. Nxd4 Rxc4 20. Qb1 Nbd7 21. Bb2 Qb4 22. Nf5 h5 23. Ne3 Re4 24. Qa1 h4 25.
+Bd4 {AlphaZero ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı
+her seviyede sanki artık daha fazla kullanılmaya başladı. Elbette doğru
+ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu.
+Bronznik ve Terekhin'in Techniques of Positional Play kitabında Potansiyel
+Geçer Piyon başlığında incelenmesi sebebiyle, ben de Potansiyel Geçer
+Piyon ismini kullanmayı tercih edeceğim. 2022 Fide Grand Prix'sinde de
+karşıma çıkması nedeniyle daha geniş ele alınmayı hak ediyor. [#]} h3
+$2 {Tipik bir hamle ama kaba bir hata, aktif görünen siyah taşlar
+püskürtülünce bu piyon zayıf kalacak ve düşecek ama Siyahın şu
+aşamada bunu öngörmesi kolay değil sanıyorum. Fedoseev'in sonrasındaki
+oyunu inandırıcı.} (25... hxg3 26. hxg3 $14 {Beyazın izole piyon nedeniyle
+hafif üstün olduğu söylenebilir ancak kazanca yakın olduğu söylenemez.
+Oyunda ise izole piyon yanına h3'ün zayıflığı ekleniyor.}) 26. f3 Re8 27.
+Kf2 {Beyaz merkezdeki ve şah kanadındaki konumunu perçinledi. Siyah
+atların hareketsizliğine dikkat çekilebilir. Siyahın zayıflıklarını
+telafi etmesi için aktif oynaması gerekiyor ancak aktif oyun yaratmak hiç
+de kolay değil. Beyazın uzun çaprazdaki etkinliği ve çok uyumlu
+yerleşmiş ordusu Siyahtan gelecek her türlü girişime hazırlıklı
+duruyor. İzole vezir piyonuna karşı oynayan taraf taş değişimlerini
+zorlayarak zayıflığı daha da görünür hale getirmek olmalı, bu sebeple
+Beyazın ilk hedefi değişimlerle h3 ve d5 piyonlarını daha da zayıflatmak.
+} Qe7 28. Qc3 Qe6 29. Rc1 Qe7 30. Rc2 {[%csl Re2][%cal Gc2e2]} Rb8 {[%cal
+Gb8b1,Gb1h1]} 31. Qa1 Re8 32. Qc3 Qd6 33. Qd3 {[%csl Rh3][%cal Gd3f5,Rf5h3]}
+Qb4 {[%cal Gb4b1,Gb1h1]} 34. Qd2 Qb1 35. Rc1 Qg6 36. Qc2 Qh6 {[%cal Rh6h3,
+Rh6c1] Siyah elbette vezir değişimden sakınmaya çalışıyor. Son
+hamlelerde devam eden dansta Beyazın aceleci davranmadığı Siyahınsa bir
+şey elde etmekte zorlandığı söylenebilir. Şimdi sıra Beyazda:} 37. Qf5
+$1 {[%csl Rd5,Rf5,Rh3][%cal Rf5h3,Gf5d5] Önemli bir hamle, artık top Beyazda.
+Vezirin kovulması için yapılacak ...g6 hamlesi konumu daha da zayıflatır.}
+Nf8 (37... g6 38. Qd3 {[%cal Gc1c6] ve Siyah taşlar hareketsiz ve plansız
+kalırdı.}) 38. Rc2 {[%csl Gd5][%cal Ge3d5] Siyahın konumu çöküyor.
+Elbette belki daha iyi savunma yapılabilirdi ancak konumun her türlü kayıp
+olduğu söylenebilir.} N6d7 39. Qxd5 Qg6 {[%csl Re3][%cal Ge8e3,Rg6c2]} 40.
+Rc1 Qa6 41. Ra1 Qg6 42. Rd1 Qa6 43. Qf5 {[%csl Rh3]} Qa4 {[%cal Ge8e3,Ra4d1]}
+44. Qg4 {[%csl Rg7][%cal Gg4g7]} f6 45. Ra1 Qb5 {Beyazın h3 piyonunu almak
+için artık acele etmediği ve daha büyük hedefler peşinde koşma
+konusunda haklı olduğu söylenebilir.} 46. Ra7 {[%cal Rd4f6,Rg4h3]} Ne6 {
+[%cal Re6g7,Re6d4]} 47. Nf5 {[%csl Rg7]} Ng5 {[%cal Rb5e2,Re8e2] Son tuzak!}
+48. Be3 {[%cal Ra7d7,Gb5d7,Gf5h6]} (48. Be3 Kf8 {Güzel bir bitirişi
+göstermek için uygun bir varyant.} 49. Rxd7 Qxd7 50. Bc5+ Kg8 51. Nh6+) (48.
+Be3 Ne6 49. Qxh3 {ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.})
+1-0
+
