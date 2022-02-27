@@ -82,9 +82,7 @@ konumu daha da zayıflatır. _37...Af8_
 
 _38. Kc2_
 
-Siyahın konumu çöküyor.
-Elbette belki daha iyi savunma yapılabilirdi ancak konumun her türlü kayıp
-olduğu söylenebilir.
+Siyahın konumu yavaş yavaş çöküyor. Fedoseev'in üstün konumda **karşı oyun** vermeden ve **acele etmeden** kazanmaya çalıştığına dikkat edebiliriz.
 
 _38...A6d7 39.Vxd5 Vg6 40.Kc1 Va6 41.Ka1 Vg6 42.Kd1 Va6 43.Vf5 Va4 44.Vg4 f6 45.Ka1 Vb5_
 
