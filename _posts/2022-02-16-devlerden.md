@@ -39,7 +39,7 @@ piyon nedeniyle hafif üstün olduğu söylenebilir ancak kazanca yakın
 olduğu söylenemez. Oyunda ise izole piyon yanına h3'ün zayıflığı
 ekleniyor.)
 
-_26. f3 Re8 27. Kf2_
+_26. f3 Ke8 27. Şf2_
 
 Beyaz merkezdeki ve şah kanadındaki
 konumunu perçinledi. Siyah atların hareketsizliğine dikkat çekilebilir.
