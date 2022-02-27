@@ -31,12 +31,11 @@ Beyazın *25.Fd4* hamlesinden sonra sıranın siyahta olduğu konumu ele alalım
 
 _25... h3?_
 
-Tipik bir hamle ama kaba bir hata, aktif görünen siyah
-taşlar püskürtülünce bu piyon zayıf kalacak ve düşecek ama Siyahın
-şu aşamada bunu öngörmesi kolay değil sanıyorum.
+Tipik bir hamle ama oyunun devamının gösterdiği kadarıyla bir hata.
+Siyah piyonları değişerek rahatlamak yerine şaha saldırı unsuru oluşturabilecek **potansiyel geçer piyon** yaratıyor, fakat ilerleyen bölümlerde siyah taşlar püskürtülünce bu piyon zayıf kalacak ve düşecek. Siyah bunu nasıl öngörebilirdi? Hem Oparin'in hem de bizim üzerinde düşünmemiz gereken konu bu.
 (25... hxg3 26. hxg3 Beyazın izole
 piyon nedeniyle hafif üstün olduğu söylenebilir ancak kazanca yakın
-olduğu söylenemez. Oyunda ise izole piyon yanına h3'ün zayıflığı
+olduğu söylenemez. Oyunda ise izole piyon yanına **h3'ün zayıflığı**
 ekleniyor.)
 
 _26. f3 Ke8 27. Şf2_
@@ -46,8 +45,8 @@ konumunu perçinledi. Siyah atların hareketsizliğine dikkat çekilebilir.
 Siyahın zayıflıklarını telafi etmesi için aktif oynaması gerekiyor
 ancak aktif oyun yaratmak hiç de kolay değil. Beyazın uzun çaprazdaki
 etkinliği ve çok uyumlu yerleşmiş ordusu Siyahtan gelecek her türlü
-girişime hazırlıklı duruyor. İzole vezir piyonuna karşı oynayan taraf
-taş değişimlerini zorlayarak zayıflığı daha da görünür hale getirmek
+girişime hazırlıklı duruyor. **İzole vezir piyonuna karşı** oynayan taraf
+**taş değişimlerini zorlayarak** zayıflığı daha da görünür hale getirmek
 olmalı, bu sebeple Beyazın ilk hedefi değişimlerle h3 ve d5 piyonlarını
 daha da zayıflatmak.
 
@@ -60,8 +59,8 @@ data-legend="Siyah Oynar">
 
 _27...Ve7 28.Vc3 Ve6 29.Kc1 Ve7 30.Kc2 Kb8 31.Va1 Ke8 32.Vc3 Vd6 33.Vd3 Vb4 34.Vd2 Vb1 35.Kc1 Vg6 36.Vc2 Vh6_
 
-Siyah elbette vezir
-değişimden sakınmaya çalışıyor. Son hamlelerde devam eden dansta
+Siyah elbette **vezir
+değişimden sakınmaya** çalışıyor. Son hamlelerde devam eden dansta
 Beyazın aceleci davranmadığı Siyahınsa bir şey elde etmekte
 zorlandığı söylenebilir.
 
@@ -111,7 +110,7 @@ data-legend="Siyah Oynar">
 
 Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır hale geldi. Bunun nedeni elbette Beyazlarla 1.d4'lü açılışların git gide daha fazla oynanması ve Siyahların da genellikle sağlam Vezir Gambiti sularında gezinmesi. Bu konumu bizim için ilginç yapan şeyse siyahın bu sağlamlığını kırma arayışlarının zenginliği. Beyazın ağır taşları açıkça daha aktif d ve c-dikeylerinde rakipsiz gibiler, ancak siyahın da epey sağlam durduğu söylenebilir. Wojtazsek bize çok güzel bir şeyi hatırlatıyor. Uzun çaprazdaki fille ve f6-daki atla baş etmenin en temel yöntemi e4-f3 piyon zinciri ile onları kısıtlamak. Vezir Gambiti için tipik olan bu fikrin uygulanışı bize hafif taşların ele alınışı bakımından önemli dersler sunabilir.
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtazsek_Rapport_2022.pgn" style="max-width:100%;"></div>
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport_2022.pgn" style="max-width:100%;"></div>
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
 
@@ -125,8 +124,3 @@ Potansiyel geçer konusuna dair izlenebilecek videolar:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUmni0d8MRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
-
-
-
-
-<div class="cbreplay">
