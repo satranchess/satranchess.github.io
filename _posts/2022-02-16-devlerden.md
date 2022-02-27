@@ -4,7 +4,7 @@ title: "Devlerden Öğrenmek (1)"
 tagline: "En üst düzeyde oynayan sporcuların strateji konusunu ele alışlarını makinelerle ve genel satranç prensipleri ile değerlendirmeye çalışmak eğlenceli bir uğraş olabilir. Özellikle öğrenmek için hevesiniz varsa."
 tag: haber
 date: 2022-02-16
-image:
+image: https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkpUYLd.png
 ---
 
 ## Devlerden Öğrenmek (1)
@@ -124,11 +124,14 @@ Potansiyel geçer konusuna dair izlenebilecek videolar:
 
 **Nepomniachtchi - Wang Hao, 2020 Fide Adaylar Turnuvası**
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GsmVARqW-Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
 **Meier - Carlsen, 2014 Dünya Yıldırım Şampiyonası**
+
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUmni0d8MRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
