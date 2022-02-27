@@ -38,7 +38,9 @@ sonrasındaki oyunu inandırıcı.
 (25... hxg3 26. hxg3 Beyazın izole
 piyon nedeniyle hafif üstün olduğu söylenebilir ancak kazanca yakın
 olduğu söylenemez. Oyunda ise izole piyon yanına h3'ün zayıflığı
-ekleniyor.) _26. f3 Re8 27. Kf2_
+ekleniyor.)
+
+_26. f3 Re8 27. Kf2_
 
 Beyaz merkezdeki ve şah kanadındaki
 konumunu perçinledi. Siyah atların hareketsizliğine dikkat çekilebilir.
@@ -78,7 +80,11 @@ data-legend="Siyah Oynar">
 hamle, artık top Beyazda. Vezirin kovulması için yapılacak ...g6 hamlesi
 konumu daha da zayıflatır. _37...Nf8_
 
-(37... g6 38. Qd3 ve Siyah taşlar hareketsiz ve plansız kalırdı.) 38. Rc2 Siyahın konumu çöküyor.
+(37... g6 38. Qd3 ve Siyah taşlar hareketsiz ve plansız kalırdı.)
+
+_38. Rc2_
+
+Siyahın konumu çöküyor.
 Elbette belki daha iyi savunma yapılabilirdi ancak konumun her türlü kayıp
 olduğu söylenebilir.
 
@@ -87,7 +93,11 @@ _38... N6d7 39. Qxd5 Qg6 40. Rc1 Qa6 41. Ra1 Qg6 42. Rd1 Qa6 43. Qf5 Qa4 44. Qg4
 Beyazın h3 piyonunu almak için artık
 acele etmiyor.
 
- _46. Ra7 Ne6 47. Nf5 Ng5_ Son tuzak! _48. Be3_ ve Siyah terk eder.
+ _46. Ra7 Ne6 47. Nf5 Ng5_
+
+ Son tuzak! 
+
+ _48. Be3_ ve Siyah terk eder.
 (48. Be3 Kf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49. Rxd7 Qxd7 50. Bc5+ Kg8 51. Nh6+)
 (48. Be3 Ne6 49. Qxh3 {ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
