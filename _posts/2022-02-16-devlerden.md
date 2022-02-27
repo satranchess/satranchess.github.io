@@ -58,8 +58,7 @@ data-buttons="0"
 data-legend="Siyah Oynar">
 </div>
 
-_27...Qe7 28. Qc3 Qe6 29. Rc1 Qe7 30. Rc2 Rb8 31. Qa1 Re8 32.
-Qc3 Qd6 33. Qd3 Qb4 34. Qd2 Qb1 35. Rc1 Qg6 36. Qc2 Qh6_
+_27...Ve7 28.Vc3 Ve6 29.Kc1 Ve7 30.Kc2 Kb8 31.Va1 Ke8 32.Vc3 Vd6 33.Vd3 Vb4 34.Vd2 Vb1 35.Kc1 Vg6 36.Vc2 Vh6_
 
 Siyah elbette vezir
 değişimden sakınmaya çalışıyor. Son hamlelerde devam eden dansta
@@ -73,32 +72,32 @@ data-buttons="0"
 data-legend="Siyah Oynar">
 </div>
 
-Şimdi sıra Beyazda: _37. Qf5!_
+Şimdi sıra Beyazda: _37. Vf5!_
 
 Önemli bir
 hamle, artık top Beyazda. Vezirin kovulması için yapılacak ...g6 hamlesi
-konumu daha da zayıflatır. _37...Nf8_
+konumu daha da zayıflatır. _37...Af8_
 
 (37... g6 38. Qd3 ve Siyah taşlar hareketsiz ve plansız kalırdı.)
 
-_38. Rc2_
+_38. Kc2_
 
 Siyahın konumu çöküyor.
 Elbette belki daha iyi savunma yapılabilirdi ancak konumun her türlü kayıp
 olduğu söylenebilir.
 
-_38... N6d7 39. Qxd5 Qg6 40. Rc1 Qa6 41. Ra1 Qg6 42. Rd1 Qa6 43. Qf5 Qa4 44. Qg4 f6 45. Ra1 Qb5_
+_38...A6d7 39.Vxd5 Vg6 40.Kc1 Va6 41.Ka1 Vg6 42.Kd1 Va6 43.Vf5 Va4 44.Vg4 f6 45.Ka1 Vb5_
 
 Beyazın h3 piyonunu almak için artık
 acele etmiyor.
 
- _46. Ra7 Ne6 47. Nf5 Ng5_
+ _46.Ka7 Ae6 47.Af5 Ag5_
 
  Son tuzak!
 
- _48. Be3_ ve Siyah terk eder.
-(48. Be3 Kf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49. Rxd7 Qxd7 50. Bc5+ Kg8 51. Nh6+)
-(48. Be3 Ne6 49. Qxh3 {ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
+ _48. Fe3_ ve Siyah terk eder.
+(48.Fe3 Sf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49.Kxd7 Vxd7 50.Fc5+ Sg8 51.Ah6+; )
+(48.Fe3 Ae6 49.Vxh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
 
 
@@ -121,13 +120,13 @@ Potansiyel geçer konusuna dair izlenebilecek videolar:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GsmVARqW-Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 2. Meier - Carlsen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUmni0d8MRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 
-</div>
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin_2022.pgn" style="max-width:100%;"></div>
 
