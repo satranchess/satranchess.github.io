@@ -15,7 +15,7 @@ En üst düzeyde oynanan oyunların içine girip anlaması zor olduğu herkesin 
 
 Paylaşacağım ilk konu piyonlarla ilgili. En üst düzeyde oynayan sporcuların bu konudaki strateji konusunu ele alışlarını makinelerle ve genel satranç prensipleri ile değerlendirmeye çalışmak eğlenceli bir uğraş olabilir. İlk turda oynanan iki oyun bu yönüyle anlamlı. (Diyagramların altında verilen hamleleri diyagramların üzerinde oynatabilirsiniz!)
 
-**Fedoseev - Oparin**
+**Fedoseev - Oparin** **2022 Fide GP 1.Tur**
 
 <div class="cbdiagram"
 data-size="400"
@@ -95,7 +95,7 @@ acele etmiyor.
 
  _46. Ra7 Ne6 47. Nf5 Ng5_
 
- Son tuzak! 
+ Son tuzak!
 
  _48. Be3_ ve Siyah terk eder.
 (48. Be3 Kf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49. Rxd7 Qxd7 50. Bc5+ Kg8 51. Nh6+)
@@ -105,7 +105,7 @@ acele etmiyor.
 
 
 
-**Wojtazsek - Rapport**
+**Wojtazsek - Rapport** **2022 Fide GP 1.Tur**
 
 <div class="cbdiagram"
 data-size="400"
@@ -116,7 +116,7 @@ data-legend="Siyah Oynar">
 
 Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır hale geldi. Bunun nedeni elbette Beyazlarla 1.d4'lü açılışların git gide daha fazla oynanması ve Siyahların da genellikle sağlam Vezir Gambiti sularında gezinmesi. Bu konumu bizim için ilginç yapan şeyse siyahın bu sağlamlığını kırma arayışlarının zenginliği. Beyazın ağır taşları açıkça daha aktif d ve c-dikeylerinde rakipsiz gibiler, ancak siyahın da epey sağlam durduğu söylenebilir. Wojtazsek bize çok güzel bir şeyi hatırlatıyor. Uzun çaprazdaki fille ve f6-daki atla baş etmenin en temel yöntemi e4-f3 piyon zinciri ile onları kısıtlamak. Vezir Gambiti için tipik olan bu fikrin uygulanışı bize hafif taşların ele alınışı bakımından önemli dersler sunabilir.
 
-İzlenebilecek videolar:
+Konuya dair izlenebilecek videolar:
 
 1. Nepomniachtchi - Wang Hao
 
