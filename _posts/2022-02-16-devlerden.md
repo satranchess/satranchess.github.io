@@ -125,10 +125,10 @@ Konuya dair izlenebilecek videolar:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUmni0d8MRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+----
 
 </div>
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/havana1921.pgn" style="max-width:100%;"></div>
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin_2022.pgn" style="max-width:100%;"></div>
 
 <img src="{{ site.url }}/images/havana1921.jpg">
