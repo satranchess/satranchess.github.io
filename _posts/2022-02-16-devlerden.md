@@ -26,15 +26,14 @@ data-legend="Siyah Oynar">
 
 Beyazın *25.Fd4* hamlesinden sonra sıranın siyahta olduğu konumu ele alalım.
 
-*AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için **Bronznik ve Terekhin**'in *Techniques of Positional Play* kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara *Potansiyel Geçer Piyon* kullanımına örnek için YouTube videosuna göz atabilir.)
+*AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için _**Bronznik ve Terekhin**_'in *Techniques of Positional Play* kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara *Potansiyel Geçer Piyon* kullanımına örnek için YouTube videosuna göz atabilir.)
 
 
 _25... h3?_
 
 Tipik bir hamle ama kaba bir hata, aktif görünen siyah
 taşlar püskürtülünce bu piyon zayıf kalacak ve düşecek ama Siyahın
-şu aşamada bunu öngörmesi kolay değil sanıyorum. Fedoseev'in
-sonrasındaki oyunu inandırıcı.
+şu aşamada bunu öngörmesi kolay değil sanıyorum.
 (25... hxg3 26. hxg3 Beyazın izole
 piyon nedeniyle hafif üstün olduğu söylenebilir ancak kazanca yakın
 olduğu söylenemez. Oyunda ise izole piyon yanına h3'ün zayıflığı
@@ -126,6 +125,10 @@ Konuya dair izlenebilecek videolar:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUmni0d8MRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Konuya dair ek oyunlar:
 
-<div class="cbreplay" data-url="/assets/pgn/devler.pgn" style="max-width:100%;"></div>
+
+</div>
+
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/havana1921.pgn" style="max-width:100%;"></div>
+
+<img src="{{ site.url }}/images/havana1921.jpg">
