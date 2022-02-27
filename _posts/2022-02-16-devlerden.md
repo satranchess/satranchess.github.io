@@ -97,7 +97,7 @@ acele etmiyor.
 (48.Fe3 Sf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49.Kxd7 Vxd7 50.Fc5+ Sg8 51.Ah6+; )
 (48.Fe3 Ae6 49.Vxh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
-<iframe width=800 height=500 src="https://lichess.org/study/embed/RG8lM4fF/YmwxlTfS" frameborder=0></iframe>
+<iframe width=600 height=371 src="https://lichess.org/study/embed/RG8lM4fF/YmwxlTfS" frameborder=0></iframe>
 
 
 
