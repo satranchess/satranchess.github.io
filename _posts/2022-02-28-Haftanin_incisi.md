@@ -12,7 +12,7 @@ diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
 **2022 Fide Grand Prix** incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  
 
-Daha önce de deneyimlediğimiz gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin *Caro-Kann Savunması*'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi.   
+Daha önce de [deneyimlediğimiz](https://satranchess.github.io/2022/02/16/devlerden.html) gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin *Caro-Kann Savunması*'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi.   
 
 _1.e4_
 
