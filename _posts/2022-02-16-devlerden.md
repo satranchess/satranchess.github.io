@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devlerden Öğrenmek (1)"
+title: "Devlerden Öğrenmek"
 tagline: "En üst düzeyde oynayan sporcuların strateji konusunu ele alışlarını makinelerle ve genel satranç prensipleri ile değerlendirmeye çalışmak eğlenceli bir uğraş olabilir. Özellikle öğrenmek için hevesiniz varsa."
 tag: haber
 date: 2022-02-16
