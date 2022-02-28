@@ -4,7 +4,8 @@ title: "Haftanın İncisi"
 tagline: "En üst düzey oyunları anlamanın en iyi yollarından biri de onları bölümlere ayırarak her bir parçaya dikkatle bakmak."
 tags: [turnuva, taktik]
 date: 2022-02-25
-diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
+diagram: "r1bq1rk1/1p2ppbp/p4np1/3pN1B1/3P4/2NP3P/PP3PP1/R2QR1K1 b - - 0 1"
+image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-punch.jpeg"
 ---
 
 ## **Aronian - Keymer** **2022 Fide Grand Prix 3. Tur Mücadelesi**
@@ -29,7 +30,7 @@ _5.h3_
 
 Varyantın ruhuna uygun şekilde c8-filini kısıtlayarak Af3 oynamak istiyor.
 
-5.c3 Fg4 Firouzja'nın başarıyla kullandığı bir devamyolu. Bu varyantın temel sorunu olan beyaz-renkli fili oyuna çıkmayı başarıyor. 6.Vb3 Vc7 7.Ff4?? Vxf4 8.Vxb7 Vc1#
+5.c3 Fg4 Genç yıldız **Firouzja**'nın başarıyla kullandığı bir devamyolu. Bu varyantın temel sorunu olan beyaz-renkli fili oyuna çıkmayı başarıyor. 6.Vb3 Vc7 ve Ff4 engellendi: 7.Ff4?? Vxf4 8.Vxb7 Vc1#
 
 _5...Ac6 6.Af3_
 
