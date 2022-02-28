@@ -1,7 +1,12 @@
-
-Nakamura,Hikaru (2736) - Esipenko,Andrey (2714) [A29]
-FIDE Worldchess Grand Prix Berlin 2022 Berlin, Germany (2.2), 04.02.2022
-[B Pair, Bs on Opposite Color]
+---
+layout: post
+title: "Haftanın İncisi (2)"
+tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma oldukça güzel anlar barındırıyordu."
+tags: [turnuva, taktik]
+date: 2022-02-25
+image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
+---
+## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi
 
 _1.c4 e5 2.Ac3 Af6 3.Af3 Ac6 4.g3 d5 5.cxd5 Axd5 6.Fg2 Fc5 7.0-0 0-0 8.Vc2_
 
