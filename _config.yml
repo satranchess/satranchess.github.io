@@ -23,7 +23,7 @@ email: satrancanalizleri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  FM Nazmi Can Doğan ile satranç analizleri
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://satranchess.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.satranchess.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
