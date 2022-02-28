@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haftanın İncisi"
-tagline: "FIDE Grand Prix 2022'den diyagramlarla dünya satrancının zirvesindeki oyunlardan birkaç örnek: İlki Grischuk - Bacrot, FIDE GP Berlin, 2022. Hamle sırası siyahta."
+tagline: "En üst düzey oyunları anlamanın en iyi yollarından biri de onları bölümlere ayırarak her bir parçaya dikkatle bakmak."
 tags: [turnuva, taktik]
 date: 2022-02-25
 diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
