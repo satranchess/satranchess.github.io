@@ -7,6 +7,9 @@ date: 2022-02-25
 diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
 ---
 
+
+**Aronian - Keymer** **Fide Grand Prix 3. Tur Mücadelesi**
+
 2022 Fide Grand Prix incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  
 
@@ -21,21 +24,24 @@ _1...c6 2.d4 d5 3.exd5 cxd5 4.Fd3_ Aronian bu varyantı ve Londra sistemini kull
 
 _4...Af6_
 
-(4...Ac6 5.c3 Af6 6.Ff4 Fg4 7.Vb3 Vd7 8.Ad2 e6 9.Agf3 Yine Aronian'ın bir başka favorisi. Aynı konum iki farklı açılıştan gelebiliyor. Açılışların dönüştüğü (transpoze olduğu) konumları bilip birbirleriyle ilişkilendirmek size belli rakiplere karşı **onların istemediği ancak sizin severek oynadığınız devamyolları**nı tahtada görme şansı yaratıyor.
+4...Ac6 5.c3 Af6 6.Ff4 Fg4 7.Vb3 Vd7 8.Ad2 e6 9.Agf3 Yine Aronian'ın bir başka favorisi. Aynı konum iki farklı açılıştan gelebiliyor. Açılışların dönüştüğü (transpoze olduğu) konumları bilip birbirleriyle ilişkilendirmek size belli rakiplere karşı **onların istemediği ancak sizin severek oynadığınız devamyolları**nı tahtada görme şansı yaratıyor.
 
 _5.h3_
 
 Varyantın ruhuna uygun şekilde c8-filini kısıtlayarak Af3 oynamak istiyor.
 
-(5.c3 Fg4 Firouzja'nın başarıyla kullandığı bir devamyolu. Bu varyantın temel sorunu olan beyaz-renkli fili oyuna çıkmayı başarıyor. 6.Vb3 Vc7 7.Ff4?? Vxf4 8.Vxb7 Vc1#
+5.c3 Fg4 Firouzja'nın başarıyla kullandığı bir devamyolu. Bu varyantın temel sorunu olan beyaz-renkli fili oyuna çıkmayı başarıyor. 6.Vb3 Vc7 7.Ff4?? Vxf4 8.Vxb7 Vc1#
 
 _5...Ac6 6.Af3_
 
 Beyaz yukarıda 1. ve 4. hamledeki açıklamalarda görülen c3 hamlesini yapmadan ilerlemeye çalışıyor. Bu hazırlığının bir parçası olabilir, bunu ileride göreceğiz.
 
-_6...Ab4_ Beyaz c3-sürüşünü yapmayınca oynanan hamleyle birlikte görece az rastlanan bir devamyoluna ulaşıyoruz, ancak Aronian'ın neden bu varyanta gitmek istediğini kısaca belirtelim: Siyahın bu varyantta bir süredir g6-Bf5 planıyla iyi bir oyun elde ettiği düşünülüyordu, üst düzey oyunlarda genelde iki taraf da iyi bir şekilde hazırlandıkları için buz dağının görünmeyen yüzünü anlamak kolay olmuyor. Biz yine de bir deneme yapalım:
+_6...Ab4_
 
-(6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir.)
+Beyaz c3-sürüşünü yapmayınca oynanan hamleyle birlikte görece az rastlanan bir devamyoluna ulaşıyoruz, ancak Aronian'ın neden bu varyanta gitmek istediğini kısaca belirtelim: Siyahın bu varyantta bir süredir g6-Bf5 planıyla iyi bir oyun elde ettiği düşünülüyordu, üst düzey oyunlarda genelde iki taraf da iyi bir şekilde hazırlandıkları için buz dağının görünmeyen yüzünü anlamak kolay olmuyor. Biz yine de bir deneme yapalım:
+
+6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir.
+
 _9...dxc4 10.Ac3 e6 11.Fg5] 7.Ac3!_
 
 Aronian daha önce belirtildiği gibi tipik c3-sürüşünü neden oynamadığını başka bir varyantla daha göstermek istiyor.
