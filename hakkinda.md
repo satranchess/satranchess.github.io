@@ -3,7 +3,7 @@ layout: page
 title: Hoşgeldiniz!
 description: Bu sitenin amacı nedir?
 menu: yes
-image: soft-trees.jpg
+image: banner2.jpg
 ---
 
 # Neden Buradasınız?
