@@ -12,7 +12,7 @@ diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
 **2022 Fide Grand Prix** incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  
 
-Daha önce de [deneyimlediğimiz](https://satranchess.github.io/2022/02/16/devlerden.html) gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin *Caro-Kann Savunması*'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi.   
+Daha önce de [deneyimlediğimiz](https://satranchess.github.io/2022/02/16/devlerden.html) gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin *Caro-Kann Savunması*'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi. (Aşağıdaki diyagramlarda verilen hamleler oynatılabilir, hamleler ileri geri alınabilir.)  
 
 _1.e4_
 
@@ -39,7 +39,7 @@ _6...Ab4_
 
 Beyaz c3-sürüşünü yapmayınca oynanan hamleyle birlikte görece az rastlanan bir devamyoluna ulaşıyoruz, ancak Aronian'ın neden bu varyanta gitmek istediğini kısaca belirtelim: Siyahın bu varyantta bir süredir g6-Bf5 planıyla iyi bir oyun elde ettiği düşünülüyordu, üst düzey oyunlarda genelde iki taraf da iyi bir şekilde hazırlandıkları için buz dağının görünmeyen yüzünü anlamak kolay olmuyor. Biz yine de bir deneme yapalım:
 
-6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir. 9...dxc4 10.Ac3 e6 11.Fg5
+6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir. 9...dxc4 10.Ac3 e6 11.Fg5 ve devamında Va4 ile beyaz inisiyatifi sürdürür.
 
 _7.Ac3!_
 

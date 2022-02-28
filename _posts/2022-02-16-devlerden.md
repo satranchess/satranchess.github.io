@@ -96,7 +96,7 @@ acele etmiyor.
 (48.Fe3 Sf8 Güzel bir bitirişi göstermek için uygun bir varyant. 49.Kxd7 Vxd7 50.Fc5+ Sg8 51.Ah6+; )
 (48.Fe3 Ae6 49.Vxh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin_2022.pgn" style="max-width:100%;"></div>    
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin2_2022.pgn" style="max-width:100%;"></div>    
 
 
 **Wojtazsek - Rapport** **2022 Fide GP 1.Tur**
