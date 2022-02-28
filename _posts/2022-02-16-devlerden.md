@@ -26,7 +26,7 @@ data-legend="Siyah Oynar">
 
 Beyazın *25.Fd4* hamlesinden sonra sıranın siyahta olduğu konumu ele alalım.
 
-*AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için _**Bronznik ve Terekhin**_'in *Techniques of Positional Play* kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara *Potansiyel Geçer Piyon* kullanımına örnek için YouTube videosuna göz atabilir.)
+*AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için _**Bronznik ve Terekhin**_'in *Techniques of Positional Play* kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara Potansiyel Geçer Piyon kullanımına örnek için YouTube videosuna göz atabilir.)
 
 
 _25... h3?_
