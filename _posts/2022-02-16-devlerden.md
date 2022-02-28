@@ -112,7 +112,7 @@ Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır h
 
 
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport_2022.pgn" style="max-width:100%;"></div>        
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport2_2022.pgn" style="max-width:100%;"></div>        
 
 
 
