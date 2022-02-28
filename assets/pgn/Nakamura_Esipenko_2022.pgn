@@ -1,0 +1,56 @@
+﻿[Event "FIDE Worldchess Grand Prix Berlin 2022"]
+[Site "Berlin, Germany"]
+[Date "2022.02.04"]
+[Round "2.2"]
+[White "Nakamura, Hikaru"]
+[Black "Esipenko, Andrey"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2736"]
+[BlackElo "2714"]
+[Annotator "B Pair, Bs on Opposite Color"]
+[PlyCount "91"]
+[EventDate "2022.??.??"]
+[WhiteClock "0:30:18"]
+[BlackClock "0:14:31"]
+
+{[%evp 0,91,19,-12,-27,-33,-27,-19,-14,-33,-32,-32,-16,-21,46,10,-2,-17,-23,
+-53,11,17,10,4,30,40,39,23,19,19,22,30,43,27,51,42,45,-1,21,26,19,13,18,13,10,
+-7,48,36,105,89,85,90,87,86,82,82,83,82,82,100,97,113,119,124,124,139,126,132,
+140,138,196,174,204,138,173,152,158,146,169,154,158,209,193,177,210,210,235,
+206,207,207,202,208,216,241]} 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5
+Nxd5 6. Bg2 Bc5 7. O-O O-O 8. Qc2 {[%cal Gc3d5,Rf3g5]} Nf6 (8... Nxc3 $6 9.
+dxc3 f6 10. b4 Bb6 11. a4 a6 12. Ba3 Rf7 13. Rfd1 Qe8 14. Nh4) (8... h6 $4 9.
+Nxd5 Qxd5 10. Ng5 e4 11. Nxe4 {[%cal Ge4f6,Ge4c5]}) (8... Ndb4 $5 9. Qe4 {
+[%cal Gf7f5,Ye4c4]} (9. Qb1 {[%csl Ga3,Gb4][%cal Ga2a3,Gb2b4]} Nd4 {[%cal
+Gb4c2,Gd4c2]} 10. Nxd4 exd4 {[%cal Gd4c3,Gd4d3]} 11. Na4 Bd6 12. a3 Nc6 13. b4
+Re8 $132 {[%cal Ge8e2,Gc8g4]}) 9... g6 {[%cal Gc8f5]} 10. d3 Bf5 11. Qc4) 9. a3
+$146 Nd4 10. Nxd4 exd4 {[%csl Rd4][%cal Gf8e8,Ge8e2]} (10... Bxd4 11. b4 Re8
+12. Bb2 c6 13. e3 Bb6 14. Na4 Bc7 15. Nc5 {[%cal Ga3a4,Gf2f4]}) 11. b4 Bb6 (
+11... Be7 $5) (11... dxc3 12. bxc5 cxd2 13. Bxd2 Re8 14. Rfe1 {[%csl Gb7,Rd6]
+[%cal Ga1d1,Gd2f4,Rc7c6]} c6 $14) 12. Na4 Re8 13. Nxb6 axb6 14. e3 d3 (14...
+dxe3 15. dxe3 c6 16. e4 b5 17. Rd1 Qe7 18. Be3 Be6 19. Bd4 Nd7 20. f4 $14) (
+14... b5 15. Bb2 dxe3 16. fxe3 Ra6 17. Rac1 $14) 15. Qc3 {[%cal Gc1b2]} Ne4 16.
+Qc4 Bf5 17. Bb2 Qd7 (17... Nxd2 18. Qc3 $18) 18. Bxe4 $1 Bxe4 (18... Rxe4 19.
+Qc3 f6 20. Rfc1 c6 21. f3 Re7 22. Qd4 Qxd4 23. Bxd4 $16 {[%csl Rb6,Rd3,Gf6,Gg7,
+Gh7][%cal Re3e4,Rg1f2,Rf2e3,Rg3g4,Rh2h4,Gb6b5,Ga3a4]} b5 24. g4 Be6 25. Kf2 {
+[%cal Rh2h4,Rg4g5]} Bb3 {[%csl Ra3,Rd3][%cal Rb3a4,Rb3c2]} (25... Kf7 26. h4 h6
+27. e4 Rd8 28. Ke3 Red7 29. Bb2 {[%cal Ga3a4]} Rh8 (29... Ra8 30. Rg1 Bc4 31.
+g5 hxg5 32. hxg5 Re7 33. Rh1 f5 34. g6+) 30. a4 bxa4 31. Rxa4) (25... Bc4 26.
+a4 {[%csl Gb5][%cal Ga4b5,Ga1a8]}) 26. Rc5 Bc2 27. g5 fxg5 28. Rxg5 g6 29. h4 {
+[%csl Gh4][%cal Gh4h5]}) 19. f3 Bc6 {[%cal Gc6a4,Ga4c2]} 20. Rac1 {[%cal Rc4c7]
+} Re7 21. Qf4 {[%cal Gf4g5,Gc1c4,Gf1c1]} f6 (21... Ba4 22. Rc4 Bc2 23. Bxg7 $1
+Kxg7 24. Qg5+ Kf8 25. Rg4 Ree8 26. Qg7+ Ke7 27. Re4+ Kd8 28. Rd4) 22. Rc4 Rd8 (
+22... Ba4 23. g4 Bc2 24. Rd4 Qb5 25. h4 h6 26. g5) 23. Rfc1 Qe6 {[%csl Rc7]
+[%cal Gd8d7]} (23... b5 $1 24. Rd4 Qc8 25. g4 $16 Rxd4 26. Bxd4 Qe6 {[%cal
+Ge6a2]}) 24. b5 $3 (24. a4 {[%cal Gb4b5,Rc4c7]} Rdd7 25. b5 Bd5) 24... Bxb5 25.
+Re4 $1 (25. Rxc7 Rxc7 26. Rxc7 Bc6 {[%csl Rc6,Yc7]}) 25... Qf7 26. Rxe7 Qxe7
+27. Rxc7 Rd7 (27... Qe6 28. Rxb7) 28. Rc8+ (28. Bxf6 gxf6 29. Qg4+ Kf8 30. Rc8+
+Rd8 31. Rxd8+ Qxd8 32. Qb4+) 28... Rd8 (28... Kf7 29. Qf5 {[%cal Gf5b5,Rf5h7,
+Ge5h5]} Bc6 30. Qh5+ Ke6 (30... g6 31. Qxh7+ Ke6 32. Qxg6) 31. Re8) 29. Bxf6 $3
+gxf6 30. Qg4+ Kf8 (30... Kf7 31. Qh5+) (30... Kh8 31. Qb4 $1) 31. Rxd8+ Qxd8
+32. Qb4+ Qe7 33. Qxb5 Qxa3 34. Kf2 Qc5 35. Qxd3 b5 36. Qc3 Qe7 37. Ke2 Kg7 (
+37... b4 38. Qc4 b6 39. Qb5 Qd6 40. d4) 38. Qd4 Qf7 39. Qg4+ Kh8 40. Qb4 Qe8
+41. Qd6 Qf7 42. Qc5 Qe8 43. g4 Kg7 44. h4 Qd7 45. h5 Kg8 (45... Kh6 46. d4 Kg7
+47. e4) 46. h6 (46. h6 Kf7 47. Qf5) 1-0
+

@@ -1,0 +1,43 @@
+﻿[Event "FIDE Worldchess Grand Prix Berlin 2022"]
+[Site "Berlin, Germany"]
+[Date "2022.02.04"]
+[Round "3.6"]
+[White "Aronian, Levon"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2772"]
+[BlackElo "2664"]
+[Annotator "https://lichess.org/@/broadcaster"]
+[PlyCount "83"]
+[EventDate "2022.??.??"]
+[WhiteClock "0:54:53"]
+[BlackClock "0:00:45"]
+
+{[%evp 0,83,19,31,68,48,60,46,46,23,27,4,1,7,37,42,65,23,23,28,28,12,23,28,46,
+7,2,14,17,16,17,18,55,56,62,62,37,34,28,35,31,34,35,45,59,43,46,52,47,52,44,52,
+61,35,38,29,40,46,44,48,55,58,58,58,64,69,69,69,73,74,72,79,79,60,61,60,60,52,
+66,242,353,353,364,226,338,432]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5.
+h3 {[%csl Gc8]} (5. c3 Bg4 6. Qb3 Qc7 7. Bf4 $4 Qxf4 8. Qxb7 Qc1#) 5... Nc6 6.
+Nf3 Nb4 (6... g6 7. O-O Bf5 8. Bxf5 gxf5 9. c4 $1 dxc4 10. Nc3 e6 11. Bg5 {
+[%cal Gd1a4]}) 7. Nc3 $1 g6 8. Ne5 $1 a6 {[%csl Rb5][%cal Ra6b5]} (8... Bf5 9.
+Bb5+ Nd7 10. O-O Bxc2 $4 (10... Nxc2 $4 11. Nxd7 $18 {[%cal Gd1c2]}) 11. Qf3
+$18) 9. O-O Bg7 (9... Bf5 10. Bxf5 gxf5 11. Bg5 e6 $2 (11... Bg7) 12. a3 Nc6
+13. Nxd5 $3 exd5 14. Re1 Nxe5 15. Rxe5+ Kd7 16. Rxf5 Bg7 17. Bxf6 Bxf6 18.
+Rxd5+ $18) 10. Re1 O-O 11. Bg5 Nxd3 12. cxd3 $1 Qb6 {[%cal Gb6d4,Gb6b2]} (12...
+Bf5 13. Qb3 {[%cal Rb3d5,Rb3b7,Ga1c1,Gc3a4]}) 13. Nf3 $1 {[%cal Ge1e7]} e6 {
+[%cal Gc8d7]} (13... Qxb2 14. Na4 {[%cal Ga4b6]} Qb5 (14... Qa3 15. Nb6 {
+[%cal Ra8b8,Rg5f4]} Ra7 16. Rb1) 15. Rb1 Qe8 16. Nb6 Ra7 17. Nxc8 Qxc8 18. Rxe7
+$18) 14. Na4 $1 Qd6 15. Qd2 {[%csl Rd6,Rf4][%cal Gg5f4,Ga4c5]} a5 {[%cal Gd6b4]
+} 16. Rac1 Bd7 (16... Qb4 17. Qxb4 axb4 18. Nb6 $18 {[%csl Ra8,Rc8][%cal Ga8b8,
+Gg5f4]}) 17. Nc5 b6 18. Bf4 Qe7 19. Nxd7 Nxd7 20. Rc7 Rfc8 21. Rec1 Qd8 22. Qc2
+$1 Rxc7 23. Qxc7 Qxc7 24. Rxc7 Rd8 25. Rb7 {[%csl Rb6][%cal Rd7b6]} Kf8 26.
+Bd6+ Ke8 27. Ne5 $1 Bxe5 (27... Nxe5 28. dxe5 {[%csl Rb6]}) 28. dxe5 Rc8 {
+[%csl Rd7]} 29. d4 $1 (29. g3 Rc2 30. Ra7 (30. d4 f6) 30... Nc5) 29... Kd8 {
+[%cal Gc8c4]} (29... Rc4 30. Ra7 {[%csl Rd7][%cal Ga7a8]}) 30. Ra7 $1 Rc4 31.
+b3 $1 Rc1+ (31... Rxd4 32. Ra8+ $18) 32. Kh2 h6 33. Kg3 Rc3+ 34. f3 Rc6 35. h4
+Rc8 (35... h5 36. Kf4 {[%cal Gf4g5,Gg5h6,Gh6g7,Gg2g4]}) 36. h5 Rc6 (36... g5
+37. Kh3 Rc2 38. Ra8+ Rc8 39. Be7+ Kc7 40. Rxc8+ Kxc8 41. g4 Kc7 42. f4 gxf4 43.
+g5) 37. Kh4 Rc8 38. g4 Ke8 39. f4 Kd8 40. hxg6 fxg6 41. g5 h5 42. f5 $1 (42. f5
+gxf5 (42... exf5 43. e6 Nb8 44. Rg7) 43. g6 Ke8 44. g7) 1-0
+
