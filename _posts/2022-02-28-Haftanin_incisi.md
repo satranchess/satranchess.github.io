@@ -7,9 +7,9 @@ date: 2022-02-25
 diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
 ---
 
-## **Aronian - Keymer** **Fide Grand Prix 3. Tur Mücadelesi**
+## **Aronian - Keymer** **2022 Fide Grand Prix 3. Tur Mücadelesi**
 
-2022 Fide Grand Prix incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
+**2022 Fide Grand Prix** incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  
 
 Daha önce de deneyimlediğimiz gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin *Caro-Kann Savunması*'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi.   
@@ -47,7 +47,7 @@ _7.Ac3!_
 data-size="300"
 data-fen="r1bqkb1r/pp2pppp/5n2/3p4/1n1P4/2NB1N1P/PPP2PP1/R1BQK2R b KQkq - 4 7"
 data-buttons="0"
-data-legend="Analiz Diyagramı - Beyaz Oynar Kazanır!">
+data-legend="7.Ac3 sonrası konum">
 </div>
 
 
@@ -69,46 +69,54 @@ data-legend="Analiz Diyagramı - Beyaz Oynar Kazanır!">
 </div>
 
 
-13.Axd5!! exd5 14.Ke1 dikkate değer bir konum! 14...Axe5 15.Kxe5+ Sd7 16.Kxf5 Fg7 17.Fxf6 Fxf6 18.Kxd5++-] 10.Ke1 0-0 11.Fg5 Axd3 12.cxd3!
+13.Axd5!! exd5 14.Ke1 dikkate değer bir konum! 14...Axe5 15.Kxe5+ Sd7 16.Kxf5 Fg7 17.Fxf6 Fxf6 18.Kxd5++-
+
+_10.Ke1 0-0 11.Fg5 Axd3 12.cxd3!_
 
 <div class="cbdiagram"
 data-size="400"
 data-fen="r1bq1rk1/1p2ppbp/p4np1/3pN1B1/3P4/2NP3P/PP3PP1/R2QR1K1 b - - 0 1"
 data-buttons="0"
-data-legend="Siyah Oynar">
+data-legend="12.cxd3 ardından oluşan konum">
 </div>
 
-# AÇILIŞ FELSEFESİ
+## AÇILIŞ FELSEFESİ
 
-Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor. Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise tipik Carlsbad yapısında görüldüğü gibi **azınlık saldırısı** ile veya merkezden **piyon yarması** yaratamamasında. Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
+Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor. Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise tipik Carlsbad yapısında görüldüğü gibi **azınlık saldırısı** veya merkezden **piyon yarması** ile karşı oyun yaratmadaki güçlüğü. Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
 
-_12...Vb6_ (12...Ff5 13.Vb3)
+_12...Vb6_ (12...Ff5 13.Vb3) Stockfish burada **merkezden karşı oyun** için 12...Ae8!? ve devamında ...f6 hamlesini öneriyor.
 
 _13.Af3!_
 
-Harika bir geri çekiliş. _13...e6_
+Harika bir geri çekiliş.
 
-(13...Vxb2 Sezgisel olarak bu alışın yanlış olduğu hemen söylenebilir, siyah **prensip olarak gelişimini umursamadan piyon avcılığına çıkmamalı**.
+_13...e6_
 
-  _14.Aa4 Vb5_
+<div class="cbdiagram"
+data-size="400"
+data-fen="r1b2rk1/1p3pbp/pq2pnp1/3p2B1/3P4/2NP1N1P/PP3PP1/R2QR1K1 w - - 0 14"
+data-buttons="0"
+data-legend="13...e6 sonrası oluşan konum">
+</div>
 
-  (14...Va3 15.Ab6 Ka7 16.Kb1 Stockfish Beyaza kazanç değerlendirmesi yapıyor: Siyahın kalesi oyun dışında ama neden kayıp konumda olduğunu anlamak ilk bakışta kolay olmayabilir. Meraklısına ortaya çıkan konumda Siyahın konumunu makineye karşı savunmayı öneriyorum. :)) 15.Kb1 Ve8 16.Ab6 Ka7 17.Axc8 Vxc8 18.Kxe7+-]
+(13...Vxb2 Sezgisel olarak bu alışın yanlış olduğu hemen söylenebilir, siyah **prensip olarak gelişimini umursamadan piyon avcılığına çıkmamalı**. 14.Aa4 Vb5 (14...Va3 15.Ab6 Ka7 16.Kb1 Stockfish Beyaza kazanç değerlendirmesi yapıyor: Siyahın kalesi oyun dışında ama neden kayıp konumda olduğunu anlamak ilk bakışta kolay olmayabilir. Meraklısına ortaya çıkan konumda Siyahın konumunu makineye karşı savunmayı öneriyorum. :)) 15.Kb1 Ve8 16.Ab6 Ka7 17.Axc8 Vxc8 18.Kxe7+-
 
-   _14.Aa4!_
-  Aktif taş oyunu sürdürülmeli **Fd7 gelmeden**! Şimdi beyazın c-dikeyinde oyunu başlıyor.
+_14.Aa4!_
 
-   _14...Vd6 15.Vd2 a5_ Siyah oyunsonuna gidebilirse rahatlayacak iyi piyon yapısını kullanabilecek.
+Aktif taş oyunu sürdürülmeli **Fd7 gelmeden**! Şimdi beyazın c-dikeyinde oyunu başlıyor.
 
-   _16.Kac1 Fd7_ (16...Vb4 17.Vxb4 axb4 18.Ab6+-)
+ _14...Vd6 15.Vd2 a5_ Siyah oyunsonuna gidebilirse rahatlayacak iyi piyon yapısını kullanabilecek.
 
-   _17.Ac5 b6 18.Ff4 Ve7 19.Axd7 Axd7 20.Kc7_
+ _16.Kac1 Fd7_ (16...Vb4 17.Vxb4 axb4 18.Ab6+-)
 
-   <div class="cbdiagram"
-   data-size="400"
-   data-fen="r4rk1/2Rnqpbp/1p2p1p1/p2p4/3P1B2/3P1N1P/PP1Q1PP1/4R1K1 b - - 0 1"
-   data-buttons="0"
-   data-legend="Siyah Oynar">
-   </div>
+_17.Ac5 b6 18.Ff4 Ve7 19.Axd7 Axd7 20.Kc7_
+
+ <div class="cbdiagram"
+  data-size="400"
+  data-fen="r4rk1/2Rnqpbp/1p2p1p1/p2p4/3P1B2/3P1N1P/PP1Q1PP1/4R1K1 b - - 0 1"
+  data-buttons="0"
+  data-legend="Siyah Oynar">
+  </div>
 
 
  Beyazın aktif taş oyunu sürüyor.
@@ -123,20 +131,20 @@ Harika bir geri çekiliş. _13...e6_
  data-size="400"
  data-fen="3r2k1/2Rn1pbp/1p2p1p1/p2p4/3P1B2/3P1N1P/PP3PP1/6K1 w - - 0 1"
  data-buttons="0"
- data-legend="Siyah Oynar">
+ data-legend="24...Kd8 sonrası konum">
  </div>
 
  Siyah hafif taşlarının işlevsiz görüntüsüne karşın beyaz taşlar adeta dans ediyor. Kale yedinci yatayda kariyerinin zirvesini yaşarken d7-karesindeki atı oyun boyunca üzgün göreceğiz. cxd3 alışıyla başlayan kısıtlama operasyonu onu oyunsuz bırakıyor.
 
- _25.Kb7_
+ _25.Kb7!_
 
  Siyah taşları daha fazla savunmaya bağlamak amacıyla.
 
  _25...Şf8_
 
-# İLERİ KARAKOL
+## İLERİ KARAKOL
 
-Eğer zayıf bir karede (piyonlar tarafından savunulamayan özellikle rakibe erişimi yüksek) taşlarımızı konumlandırabilirsek çok etkili olacağı söylenebilir.
+Eğer **zayıf bir kare**de (piyonlar tarafından savunulamayan özellikle rakibe erişimi yüksek) taşlarımızı konumlandırabilirsek çok etkili olacağı söylenebilir.
 
 _26.Fd6+ Se8 27.Ae5!_
 
@@ -152,7 +160,7 @@ _28.dxe5 Kc8_
 data-size="400"
 data-fen="2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 0 1"
 data-buttons="0"
-data-legend="Siyah Oynar">
+data-legend="Kritik Konum">
 </div>
 
 
@@ -208,6 +216,6 @@ data-legend="Siyah Oynar">
 
  Acaba ikinci cephe açma planı başarısız mı oldu?
 
- 42.f5! Siyah terk eder. Aronian'dan mükemmel bir performans.
+_42.f5!_ Siyah terk eder. Güzel bir oyuna, güzel bir son! Aronian'dan mükemmel bir performans.
 
  [42.f5 gxf5 (42...exf5 43.e6 Ab8 44.Kg7) 43.g6 Se8 44.g7]  1-0
