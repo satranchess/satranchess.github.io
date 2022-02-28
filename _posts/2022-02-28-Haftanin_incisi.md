@@ -24,7 +24,7 @@ _1...c6 2.d4 d5 3.exd5 cxd5 4.Fd3_ Aronian bu varyantı ve Londra sistemini kull
 
 _4...Af6_
 
-4...Ac6 5.c3 Af6 6.Ff4 Fg4 7.Vb3 Vd7 8.Ad2 e6 9.Agf3 Yine Aronian'ın bir başka favorisi. Aynı konum iki farklı açılıştan gelebiliyor. Açılışların dönüştüğü (transpoze olduğu) konumları bilip birbirleriyle ilişkilendirmek size belli rakiplere karşı **onların istemediği ancak sizin severek oynadığınız devamyolları**nı tahtada görme şansı yaratıyor.
+(4...Ac6 5.c3 Af6 6.Ff4 Fg4 7.Vb3 Vd7 8.Ad2 e6 9.Agf3 Yine Aronian'ın bir başka favorisi. Aynı konum iki farklı açılıştan gelebiliyor. Açılışların dönüştüğü (transpoze olduğu) konumları bilip birbirleriyle ilişkilendirmek size belli rakiplere karşı **onların istemediği ancak sizin severek oynadığınız devamyolları**nı tahtada görme şansı yaratıyor.)
 
 _5.h3_
 
@@ -40,9 +40,17 @@ _6...Ab4_
 
 Beyaz c3-sürüşünü yapmayınca oynanan hamleyle birlikte görece az rastlanan bir devamyoluna ulaşıyoruz, ancak Aronian'ın neden bu varyanta gitmek istediğini kısaca belirtelim: Siyahın bu varyantta bir süredir g6-Bf5 planıyla iyi bir oyun elde ettiği düşünülüyordu, üst düzey oyunlarda genelde iki taraf da iyi bir şekilde hazırlandıkları için buz dağının görünmeyen yüzünü anlamak kolay olmuyor. Biz yine de bir deneme yapalım:
 
-6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir.
+6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir. 9...dxc4 10.Ac3 e6 11.Fg5
 
-_9...dxc4 10.Ac3 e6 11.Fg5] 7.Ac3!_
+_7.Ac3!_
+
+<div class="cbdiagram"
+data-size="300"
+data-fen="r1bqkb1r/pp2pppp/5n2/3p4/1n1P4/2NB1N1P/PPP2PP1/R1BQK2R b KQkq - 4 7"
+data-buttons="0"
+data-legend="Analiz Diyagramı - Beyaz Oynar Kazanır!">
+</div>
+
 
 Aronian daha önce belirtildiği gibi tipik c3-sürüşünü neden oynamadığını başka bir varyantla daha göstermek istiyor.
 
