@@ -4,7 +4,6 @@ title: "Haftanın İncisi"
 tagline: "En üst düzey oyunları anlamanın en iyi yollarından biri de onları bölümlere ayırarak her bir parçaya dikkatle bakmak."
 tags: [turnuva, taktik]
 date: 2022-02-25
-diagram: "r1bq1rk1/1p2ppbp/p4np1/3pN1B1/3P4/2NP3P/PP3PP1/R2QR1K1 b - - 0 1"
 image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-punch.jpeg"
 ---
 
@@ -81,7 +80,7 @@ data-buttons="0"
 data-legend="12.cxd3 ardından oluşan konum">
 </div>
 
-## AÇILIŞ FELSEFESİ
+### AÇILIŞ FELSEFESİ
 
 Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor. Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise tipik Carlsbad yapısında görüldüğü gibi **azınlık saldırısı** veya merkezden **piyon yarması** ile karşı oyun yaratmadaki güçlüğü. Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
 
@@ -143,7 +142,7 @@ _17.Ac5 b6 18.Ff4 Ve7 19.Axd7 Axd7 20.Kc7_
 
  _25...Şf8_
 
-## İLERİ KARAKOL
+### İLERİ KARAKOL
 
 Eğer **zayıf bir kare**de (piyonlar tarafından savunulamayan özellikle rakibe erişimi yüksek) taşlarımızı konumlandırabilirsek çok etkili olacağı söylenebilir.
 
@@ -165,7 +164,7 @@ data-legend="Kritik Konum">
 </div>
 
 
-# PROBLEM TAŞ
+### PROBLEM TAŞ
 
 Daha önce d7-atının hareket kabiliyetinin sınırlandığını söylemiştik, ancak hareket kabiliyeti ile sınırlı taşlar daha önce de belirttiğimiz gibi (Aronian - Vidit) taktik sorunların da habercisi olurlar.
 
@@ -194,7 +193,7 @@ data-legend="Siyah Oynar">
 
 İlginç bir şekilde siyahın yapacak bir şeyi bulunmuyor.
 
-# İKİ ZAYIFLIK PRENSİBİ
+### İKİ ZAYIFLIK PRENSİBİ
 
 Daha önce de belirttiğimiz gibi eğer **savaş alanı bir tarafta kazanılamıyorsa bir başka cephe açılmasına ihtiyaç oluyor**, beyaz her ne kadar kale ve filiyle harikalar yaratsa da kazanmak için yeterli durmuyor ve bu yüzden şimdi şah kanadında bir cephe açmaya çalışacak.
 
