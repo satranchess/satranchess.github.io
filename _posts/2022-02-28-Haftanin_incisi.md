@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taktik! (1)"
+title: "Haftanın İncisi"
 tagline: "FIDE Grand Prix 2022'den diyagramlarla dünya satrancının zirvesindeki oyunlardan birkaç örnek: İlki Grischuk - Bacrot, FIDE GP Berlin, 2022. Hamle sırası siyahta."
 tags: [turnuva, taktik]
 date: 2022-02-25
