@@ -7,8 +7,7 @@ date: 2022-02-25
 diagram: "2r1k3/1R1n1p1p/1p1Bp1p1/p2pP3/8/3P3P/PP3PP1/6K1 w - - 1 29"
 ---
 
-
-**Aronian - Keymer** **Fide Grand Prix 3. Tur Mücadelesi**
+## **Aronian - Keymer** **Fide Grand Prix 3. Tur Mücadelesi**
 
 2022 Fide Grand Prix incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  
@@ -79,9 +78,9 @@ data-buttons="0"
 data-legend="Siyah Oynar">
 </div>
 
-## AÇILIŞ FELSEFESİ
+# AÇILIŞ FELSEFESİ
 
-Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz birleşince pratikte siyaha oynanması zor bir durum kalıyor. Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise tipik Carlsbad yapısında görüldüğü gibi **azınlık saldırısı** ile veya merkezden **piyon yarması** yaratamamasında. Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
+Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor. Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise tipik Carlsbad yapısında görüldüğü gibi **azınlık saldırısı** ile veya merkezden **piyon yarması** yaratamamasında. Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
 
 _12...Vb6_ (12...Ff5 13.Vb3)
 
@@ -135,7 +134,7 @@ Harika bir geri çekiliş. _13...e6_
 
  _25...Şf8_
 
-## İLERİ KARAKOL
+# İLERİ KARAKOL
 
 Eğer zayıf bir karede (piyonlar tarafından savunulamayan özellikle rakibe erişimi yüksek) taşlarımızı konumlandırabilirsek çok etkili olacağı söylenebilir.
 
@@ -157,7 +156,7 @@ data-legend="Siyah Oynar">
 </div>
 
 
-## PROBLEM TAŞ
+# PROBLEM TAŞ
 
 Daha önce d7-atının hareket kabiliyetinin sınırlandığını söylemiştik, ancak hareket kabiliyeti ile sınırlı taşlar daha önce de belirttiğimiz gibi (Aronian - Vidit) taktik sorunların da habercisi olurlar.
 
@@ -186,7 +185,7 @@ data-legend="Siyah Oynar">
 
 İlginç bir şekilde siyahın yapacak bir şeyi bulunmuyor.
 
-## İKİ ZAYIFLIK PRENSİBİ
+# İKİ ZAYIFLIK PRENSİBİ
 
 Daha önce de belirttiğimiz gibi eğer **savaş alanı bir tarafta kazanılamıyorsa bir başka cephe açılmasına ihtiyaç oluyor**, beyaz her ne kadar kale ve filiyle harikalar yaratsa da kazanmak için yeterli durmuyor ve bu yüzden şimdi şah kanadında bir cephe açmaya çalışacak.
 
