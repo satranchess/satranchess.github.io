@@ -12,7 +12,7 @@ image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-p
 **2022 Fide Grand Prix** incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  
 
-Daha önce de [deneyimlediğimiz](https://satranchess.net/2022/02/16/devlerden.html) gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin *Caro-Kann Savunması*'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi. (Aşağıdaki diyagramlarda verilen hamleler oynatılabilir, hamleler ileri geri alınabilir.)  
+Daha önce de [deneyimlediğimiz](https://satranchess.net/2022/02/16/devlerden.html) gibi bu oyunu da bölümlere ayırıp daha rahat anlamaya çalışacağız. Bazı partilerin açılış bölümlerine daha fazla eğilmek istememizin sebebi elbette o açılışla daha haşır neşir olmamız veya ilgilenmek istememiz. Örneğin **Caro-Kann Savunması**'nın değişmeli varyantını ben de beyaz taşlarla oynamayı seviyorum, bu nedenle inceleyeceğimiz oyun benim için ayrıca önemliydi. (Aşağıdaki diyagramlarda verilen hamleler oynatılabilir, hamleler ileri geri alınabilir.)  
 
 _1.e4_
 
@@ -219,3 +219,5 @@ data-legend="Siyah Oynar">
 _42.f5!_ Siyah terk eder. Güzel bir oyuna, güzel bir son! Aronian'dan mükemmel bir performans.
 
  [42.f5 gxf5 (42...exf5 43.e6 Ab8 44.Kg7) 43.g6 Se8 44.g7]  1-0
+
+ <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Aronian_Keymer_2022.pgn" style="max-width:100%;"></div>  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devlerden Öğrenmek"
-tagline: "En üst düzeyde oynayan sporcuların oyun ortasında belli konuları ele alışlarını makinelerle ve genel satranç prensipleri ile değerlendirmeye çalışmak eğlenceli bir uğraş olabilir. Özellikle öğrenmek için hevesiniz varsa. Fedoseev - Oparin ve Wojtazsek - Rapport partileri üzerinden özellikle **piyon oyunu** konusunu irdeleme şansı yakalayacağız."
+tagline: "En üst düzeyde oynayan sporcuların oyun ortasında belli konuları ele alışlarını makinelerle ve genel satranç prensipleri ile değerlendirmeye çalışmak eğlenceli bir uğraş olabilir, özellikle öğrenmek için hevesiniz varsa. Fedoseev - Oparin ve Wojtazsek - Rapport partileri üzerinden özellikle piyon oyunu konusunu irdeleme şansı yakalayacağız."
 tag: haber
 date: 2022-02-16
 image: "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkpUYLd.png"
