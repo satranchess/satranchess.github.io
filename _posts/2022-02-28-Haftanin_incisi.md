@@ -44,7 +44,7 @@ Beyaz c3-sürüşünü yapmayınca oynanan hamleyle birlikte görece az rastlana
 _7.Ac3!_
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r1bqkb1r/pp2pppp/5n2/3p4/1n1P4/2NB1N1P/PPP2PP1/R1BQK2R b KQkq - 4 7"
 data-buttons="0"
 data-legend="7.Ac3 sonrası konum">
@@ -62,7 +62,7 @@ _9.0-0 Fg7_
 (9...Ff5 Bu hamle yine mümkün değil ve hoş bir sebebi var. 10.Fxf5 gxf5 11.Fg5 e6? (11...Fg7 doğrudur.) 12.a3 Ac6
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r2qkb1r/1p3p1p/p1n1pn2/3pNpB1/3P4/P1N4P/1PP2PP1/R2Q1RK1 w kq - 1 13"
 data-buttons="0"
 data-legend="Analiz Diyagramı - Beyaz Oynar Kazanır!">

@@ -11,7 +11,7 @@ image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
 _1.c4 e5 2.Ac3 Af6 3.Af3 Ac6 4.g3 d5 5.cxd5 Axd5 6.Fg2 Fc5 7.0-0 0-0 8.Vc2_
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r1bq1rk1/ppp2ppp/2n5/2bnp3/8/2N2NP1/PPQPPPBP/R1B2RK1 b - - 0 8"
 data-buttons="0"
 data-legend="8.Vc2 sonrası konum">
@@ -27,7 +27,7 @@ _8...Af6_
 
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r1bq1rk1/ppp2ppp/2n2n2/2b1p3/8/2N2NP1/PPQPPPBP/R1B2RK1 w - - 0 1"
 data-buttons="0"
 data-legend="8...Af6 sonrası konum">
@@ -47,7 +47,7 @@ _11.b4 Fb6_
 _12.Aa4 Ke8 13.Axb6 axb6 14.e3_
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r1bqr1k1/1pp2ppp/1p3n2/8/1P1p4/P3P1P1/2QP1PBP/R1B2RK1 b - - 0 1"
 data-buttons="0"
 data-legend="14.e3 sonrası konum">
@@ -61,7 +61,7 @@ _14...d3_ Yine bir **potansiyel geçer piyon**! Önceki blog yazısından hatır
 _15.Vc3 Ae4 16.Vc4 Ff5 17.Fb2 Vd7_
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r3r1k1/1ppq1ppp/1p6/5b2/1PQ1n3/P2pP1P1/1B1P1PBP/R4RK1 w - - 0 1"
 data-buttons="0"
 data-legend="17...Vd7 sonrası konum">
@@ -80,7 +80,7 @@ Buradaki varyantları **ters renkli filler** konusunda aktif file sahip olan tar
 [18...Kxe4
 
 <div class="cbdiagram"
-data-size="200"
+data-size="300"
 data-fen="r5k1/1ppq1ppp/1p6/5b2/1PQ1r3/P2pP1P1/1B1P1P1P/R4RK1 w - - 0 19"
 data-buttons="0"
 data-legend="Analiz diyagramı 18...Kxe4 sonrası konum">
@@ -94,7 +94,7 @@ _19.f3 Fc6 20.Kac1 Ke7 21.Vf4 f6_
 [21...Fa4 22.Kc4 Fc2
 
 <div class="cbdiagram"
-data-size="200"
+data-size="300"
 data-fen="r5k1/1ppqrppp/1p6/8/1PR2Q2/P2pPPP1/1BbP3P/5RK1 w - - 0 1"
 data-buttons="0"
 data-legend="Analiz diyagramı 22...Fc2 sonrası konum">
@@ -111,10 +111,10 @@ _22.Kc4 Kd8_
 _23.Kfc1 Ve6_
 
 <div class="cbdiagram"
-data-size="200"
+data-size="400"
 data-fen="3r2k1/1pp1r1pp/1pb1qp2/8/1PR2Q2/P2pPPP1/1B1P3P/2R3K1 w - - 0 1"
 data-buttons="0"
-data-legend="23...Fc2 sonrası konum: Beyaz Oynar Kazanır!">
+data-legend="23...Ve6 sonrası konum: Beyaz Oynar!">
 </div>
 
 Siyah şimdiye kadar her şeyi savundu fakat beyazın tüm taşları bitirici vuruş için hazır. Böyle anlarda zorunlu hamlelerden oluşan varyantları hesaplamanın önemi çok büyük. Elbette Nakamura bu konuda dünyanın en iyilerinden ve bize güzel bir gösteri sunuyor.
@@ -142,10 +142,10 @@ _28.Kc8+_
 _28...Kd8_
 
 <div class="cbdiagram"
-data-size="200"
+data-size="400"
 data-fen="2Rr2k1/1p2q1pp/1p3p2/1b6/5Q2/P2pPPP1/1B1P3P/6K1 w - - 0 1"
 data-buttons="0"
-data-legend="23...Fc2 sonrası konum: Beyaz Oynar Kazanır!">
+data-legend="28...Kd8 sonrası konum: Beyaz Oynar Kazanır!">
 </div>
 
 Oyunun doruk noktası! Yine varyantların hesaplanması meselesini ele almayı gerektiriyor. Siyahın korumasız b5-karesindeki fili, d8-karesinde gevşek kalesi ve zayıf şahı taktik temaların belirleyicisi durumunda.
