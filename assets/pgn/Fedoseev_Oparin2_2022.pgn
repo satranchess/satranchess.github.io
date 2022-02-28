@@ -1,0 +1,33 @@
+﻿[Event "FIDE Worldchess Grand Prix Berlin 2022"]
+[Site "Berlin, Germany"]
+[Date "2022.02.04"]
+[Round "1.3"]
+[White "Fedoseev, Vladimir"]
+[Black "Oparin, Grigoriy"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2704"]
+[BlackElo "2681"]
+[Annotator "https://lichess.org/@/broadcaster"]
+[SetUp "1"]
+[FEN "6k1/3n1pp1/5n2/3p4/1q2r2p/4N1P1/1B2PP1P/Q2R2K1 w - - 0 25"]
+[PlyCount "47"]
+[EventDate "2022.??.??"]
+[WhiteClock "0:18:36"]
+[BlackClock "0:18:50"]
+
+{[%evp 0,47,50,57,66,59,66,79,72,82,90,61,90,73,125,109,117,82,79,77,98,112,
+102,109,109,90,109,157,163,159,176,189,195,164,206,203,216,160,203,183,220,233,
+241,238,327,320,397,322,329,329]} 25. Bd4 {[%csl Gd5]} h3 $2 {[%csl Rh3]} (
+25... hxg3 26. hxg3 $14 {[%csl Rd5]}) 26. f3 {[%csl Re4,Gf2][%cal Rf3e4,Gg1f2]}
+Re8 27. Kf2 Qe7 28. Qc3 Qe6 29. Rc1 Qe7 30. Rc2 {[%csl Re2][%cal Gc2e2]} Rb8 {
+[%cal Gb8b1,Gb1h1]} 31. Qa1 {[%cal Ra1b1,Rb8b1]} Re8 32. Qc3 Qd6 33. Qd3 {
+[%csl Rh3][%cal Gd3f5,Rf5h3]} Qb4 {[%cal Gb4b1,Gb1h1]} 34. Qd2 Qb1 35. Rc1 Qg6
+36. Qc2 Qh6 {[%cal Rh6h3,Rh6c1]} 37. Qf5 $1 {[%csl Rd5,Rf5,Rh3][%cal Rf5h3,
+Gf5d5]} Nf8 (37... g6 38. Qd3 {[%cal Gc1c6]}) 38. Rc2 {[%csl Gd5][%cal Ge3d5]}
+N6d7 39. Qxd5 Qg6 {[%csl Re3][%cal Ge8e3,Rg6c2]} 40. Rc1 Qa6 41. Ra1 Qg6 42.
+Rd1 Qa6 43. Qf5 {[%csl Rh3]} Qa4 {[%cal Ge8e3,Ra4d1]} 44. Qg4 {[%csl Rg7][%cal
+Gg4g7]} f6 45. Ra1 Qb5 46. Ra7 {[%cal Rd4f6,Rg4h3]} Ne6 {[%cal Re6g7,Re6d4]}
+47. Nf5 {[%csl Rg7]} Ng5 {[%cal Rb5e2,Re8e2]} 48. Be3 {[%cal Ra7d7,Gb5d7,Gf5h6]
+} (48. Be3 Kf8 49. Rxd7 Qxd7 50. Bc5+ Kg8 51. Nh6+) (48. Be3 Ne6 49. Qxh3) 1-0
+
