@@ -8,4 +8,4 @@ image: banner3.jpg
 
 Bana ulaşmak için satrancanalizleri@gmail.com adresini kullanabilirsiniz.
 
-Kanalımı takip etmek için: [Satranchess YouTube](youtube.com/satranchess)
+Kanalımı takip etmek için: [Satranchess YouTube](www.youtube.com/satranchess)
