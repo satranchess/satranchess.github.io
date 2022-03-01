@@ -27,9 +27,9 @@ _35...Kc7?_
 Satrançta genellikle **merkez karedeki piyonlarınızla aynı renkte bulunan fil kötü fildir** ve bu fil birazdan göreceğimiz gibi yalnızca etkin olmakta zorlanmaz aynı zamanda taktik operasyonların hedefi haline gelebilir.
 
 
-[### **HİSAR**
+### **HİSAR**
 
-35...f5 36.g4
+[35...f5 36.g4
 
 Bu hamle olmadan Beyazın ilerleme kaydetmesi güç.
 
