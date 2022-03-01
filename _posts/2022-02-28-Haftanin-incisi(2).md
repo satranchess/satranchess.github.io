@@ -3,7 +3,7 @@ layout: post
 title: "Haftanın İncisi (2)"
 tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma oldukça güzel anlar barındırıyordu."
 tags: [turnuva, taktik]
-date: 2022-02-25
+date: 2022-02-28
 image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
 ---
 ## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi**
