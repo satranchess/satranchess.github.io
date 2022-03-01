@@ -27,6 +27,13 @@ _4...Af6_
 
 _5.h3_
 
+<div class="cbdiagram"
+data-size="400"
+data-fen="rnbqkb1r/pp2pppp/5n2/3p4/3P4/3B3P/PPP2PP1/RNBQK1NR b KQkq - 0 5"
+data-buttons="0"
+data-legend="5.h3 sonrası konum">
+</div>
+
 Varyantın ruhuna uygun şekilde c8-filini kısıtlayarak Af3 oynamak istiyor.
 
 5.c3 Fg4 Genç yıldız **Firouzja**'nın başarıyla kullandığı bir devamyolu. Bu varyantın temel sorunu olan beyaz-renkli fili oyuna çıkmayı başarıyor. 6.Vb3 Vc7 ve Ff4 engellendi: 7.Ff4?? Vxf4 8.Vxb7 Vc1#
