@@ -5,10 +5,9 @@ tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlı
 tags: [turnuva, taktik]
 date: 2022-02-28
 image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
+photosource: "worldchess.com"
 description: Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu.
 ---
-<p style="font-size: .85rem; text-align:right;">Fotoğrafın kaynağı: worldchess.com</p>
-
 
 ## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi**
 
