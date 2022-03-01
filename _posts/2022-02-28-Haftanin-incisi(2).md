@@ -46,7 +46,16 @@ Takip eden hamleleri ve analizleri incelerken üstte söz edilen fikirlerin uygu
 
 _9.a3_ Daha önce rastlanmayan bir hamle fakat yeni bir hamle olmasına rağmen vezir kanadı ilerleyişini hazırlaması bakımından tipik.
 
-_9...Ad4 10.Axd4 exd4_
+_9...Ad4_
+
+<div class="cbdiagram"
+data-size="400"
+data-fen="r1bq1rk1/ppp2ppp/5n2/2b1p3/3n4/P1N2NP1/1PQPPPBP/R1B2RK1 w - - 0 10 "
+data-buttons="0"
+data-legend="9...Ad4 sonrası konum">
+</div>
+
+_10.Axd4 exd4_
 
 [10...Fxd4 11.b4 Ke8 12.Fb2 c6 13.e3 Fb6 14.Aa4 Fc7 15.Ac5 Beyaz fillerinin etkinliğini arttırmak için çabalarken siyah için kolay bir plandan söz etmek zor olacaktı.]
 
