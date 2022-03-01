@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: Hoşgeldiniz!
 description: Bu sitenin amacı nedir?
 menu: yes
