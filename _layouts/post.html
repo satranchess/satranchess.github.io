@@ -14,11 +14,15 @@
     <div class="featured-image" style="background-image: url({{ site.url }}/images/banner.jpg)"></div>
     {% endif %}
 
-    <div class="center">
-        <p>{{ page.title }}</p>
+  <div class="center">
+        <p>{{ page.title }}<br><span style="font-size:1rem;">{{page.date | date: "%d. %m. %Y" }}</span></p>
     </div>
 
-    <article class="wrap post" style="margin-top:1rem;">
+   <div style="position:absolute;right:.5rem;">{% if page.photosource %}
+        <p style="text-align:right;font-size:14px;"><i>Fotoğraf kaynağı: {{ page.photosource }}</i></p>
+    {% endif %}</div>
+
+    <article class="wrap post">
 
         <header class="post-header">
             <hgroup>
