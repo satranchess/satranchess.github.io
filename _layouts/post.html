@@ -23,7 +23,7 @@
         <header class="post-header">
             <hgroup>
                 <p class="date">{{page.date | date: "%d. %m. %Y" }}</p>
-                <p class="intro">{% if page.description %}{{ page.description }}{% endif %}</p>
+                {% if page.description %}<p class="intro">{{ page.description }}</p>{% endif %}
             </hgroup>
         </header>
 
@@ -55,13 +55,5 @@
 
 </section>
 </div>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-                document.getElementById('game').innerHTML;
-                var myNewstring = mystring.replace('♘', '<span class="f">♘</span>');
-            };
-
-</script>
 
 {% include footer.html %}
