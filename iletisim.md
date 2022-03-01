@@ -1,8 +1,8 @@
 ---
-layout:
+layout: page
 title: İletişim
 description: Balzac
-menu: yes
+menu: 
 image: banner3.jpg
 ---
 
