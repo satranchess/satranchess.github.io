@@ -7,7 +7,6 @@ date: 2022-02-26
 image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-punch.jpeg"
 photosource: "worldchess.com"
 ---
-<p style="font-size: .85rem; text-align:right;">Fotoğrafın kaynağı: worldchess.com</p>
 
 ## **Aronian - Keymer** **2022 Fide Grand Prix 3. Tur Mücadelesi**
 
