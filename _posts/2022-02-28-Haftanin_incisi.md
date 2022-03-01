@@ -87,7 +87,7 @@ data-buttons="0"
 data-legend="12.cxd3 ardından oluşan konum">
 </div>
 
-### AÇILIŞ FELSEFESİ
+### **AÇILIŞ FELSEFESİ**
 
 Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor.
 
@@ -153,7 +153,7 @@ _17.Ac5 b6 18.Ff4 Ve7 19.Axd7 Axd7 20.Kc7_
 
  _25...Şf8_
 
-### İLERİ KARAKOL
+### **İLERİ KARAKOL**
 
 Eğer **zayıf bir kare**de (piyonlar tarafından savunulamayan özellikle rakibe erişimi yüksek) taşlarımızı konumlandırabilirsek çok etkili olacağı söylenebilir.
 
@@ -175,7 +175,7 @@ data-legend="Kritik Konum">
 </div>
 
 
-### PROBLEM TAŞ
+### **PROBLEM TAŞ**
 
 Daha önce d7-atının hareket kabiliyetinin sınırlandığını söylemiştik, ancak hareket kabiliyeti ile sınırlı taşlar daha önce de belirttiğimiz gibi (Aronian - Vidit) taktik sorunların da habercisi olurlar.
 
@@ -204,7 +204,7 @@ data-legend="Siyah Oynar">
 
 İlginç bir şekilde siyahın yapacak bir şeyi bulunmuyor.
 
-### İKİ ZAYIFLIK PRENSİBİ
+### **İKİ ZAYIFLIK PRENSİBi**
 
 Daha önce de belirttiğimiz gibi eğer **savaş alanı bir tarafta kazanılamıyorsa bir başka cephe açılmasına ihtiyaç oluyor**, beyaz her ne kadar kale ve filiyle harikalar yaratsa da kazanmak için yeterli durmuyor ve bu yüzden şimdi şah kanadında bir cephe açmaya çalışacak.
 
@@ -232,3 +232,9 @@ _42.f5!_ Siyah terk eder. Güzel bir oyuna, güzel bir son! Aronian'dan mükemme
  [42.f5 gxf5 (42...exf5 43.e6 Ab8 44.Kg7) 43.g6 Se8 44.g7]  1-0
 
  <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Aronian_Keymer_2022.pgn" style="max-width:100%;"></div>  
+
+Değişmeli Caro-Kann'ın ele alındığı videolar:
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/yu52xxAvorU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/pAAmaUmRkWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Günün İncisi (2)"
-tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma oldukça güzel anlar barındırıyordu."
+tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu."
 tags: [turnuva, taktik]
 date: 2022-02-28
 image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
@@ -35,7 +35,7 @@ data-buttons="0"
 data-legend="8...Af6 sonrası konum">
 </div>
 
-### **Açılış Felsefesi**
+### **AÇILIŞ FELSEFESİ**
 
 **Nakamura** seçtiği az rastlanan devam yolu ile rakibini hazırlıksız yakalamayı hedefliyordu. Oyunda izlenen yol daha önce üst düzeyde çok az görüldüğünden bunu başardığını söyleyebiliriz.
 Taraflar **İngiliz Açılışı**nın tersten **Dragon** şeklinde ele alınışına dair tipik birkaç plana sahip:
@@ -64,7 +64,7 @@ data-buttons="0"
 data-legend="14.e3 sonrası konum">
 </div>
 
-### **Fil Çifti ve Bir Üstünlüğün Başka Bir Üstünlüğe Dönüştürülmesi**
+### **FİL ÇİFTİ VE BİR ÜSTÜNLÜĞÜN BAŞKA BİR ÜSTÜNLÜĞE DÖNÜŞTÜRÜLMESİ**
 
 _14...d3_ Yine bir **potansiyel geçer piyon**! Önceki blog [yazısından](https://www.satranchess.net/2022/02/16/devlerden.html) hatırlayacağımız gibi piyonun durumunu belirlemek hayli güç bir konu. Esipenko potansiyel geçer piyon yaratmak istiyor.
 
@@ -90,7 +90,7 @@ Beyaz **fil çifti**nden vazgeçiyor. Fil çiftine sahip tarafın en önemli ava
 
 _18...Fxe4_
 
-### **Ters Renkli Fillerin Atak Yapan Tarafa Üstünlük Vermesi**
+### **TERS RENKLİ FİLLERİN ATAK YAPAN TARAFA ÜSTÜNLÜK VERMESİ**
 
 Beyaz fil çifti üstünlüğünden vazgeçti. Karşılığında elde ettiği ise ters renkli fillerin bulunduğu konumda kendi filinin daha iyi olacağını öngörmesi. Haklı olduğunu kanıtlayabilmesi için saldırması gerekiyor.
 
@@ -134,7 +134,7 @@ data-buttons="0"
 data-legend="23...Ve6 sonrası konum: Beyaz Oynar!">
 </div>
 
-### **Varyantların Hesaplanması**
+### **VARYANTLARIN HESAPLANMASI**
 
 Siyah şimdiye kadar her şeyi savundu fakat beyazın tüm taşları bitirici vuruş için hazır. Böyle anlarda zorunlu hamlelerden oluşan varyantları hesaplamanın önemi çok büyük. Elbette Nakamura bu konuda dünyanın en iyilerinden ve bize güzel bir gösteri sunuyor.
 
@@ -187,7 +187,7 @@ data-buttons="0"
 data-legend="23...Vxa3 sonrası konum: Beyaz Oynar Kazanır!">
 </div>
 
-### **Oyunsonu Tekniği - Vezir Finalleri**
+### **OYUNSONU TEKNİĞİ VE VEZİR FİNALLERİ**
 
 Onca hesabın ardından ulaşılan konum her şeyin eşit olduğu bir vezir finaline yol açtı gibi görünüyor. Vezir finalleri tüm oyun sonu bölümleri içerisinde en zor olanı kabul ediliyor. Bu yüzden belki siyahın durumdan memnun olması gerekebilir: kendisinin b-dikeyinde 2 adet geçer piyonu ve d3'te güçlü bir **potansiyel geçer**i bulunuyor. Ancak sıradaki hamleyle birlikte işler o kadar kolay değil zira **fena piyon yapısı ve zayıf şahı** derhal belirleyi olacak. Bu bir oyunsonu olsa da vezirlerin varlığı **şah güvenliği**ni önemli bir unsur haline getiriyor. Vezir en etkili saldırı silahı olduğu için savunma ve saldırı fikirlerini rakip şaha ve piyonlara yönelik çifte saldırı(çatal) fikirleriyle birleştirebilir.
 
