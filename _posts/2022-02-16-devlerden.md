@@ -5,6 +5,7 @@ tagline: "En üst düzeyde oynayan sporcuların oyun ortasında belli konuları 
 tag: haber
 date: 2022-02-16
 image: "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkpUYLd.png"
+photosource: "chess.com"
 ---
 <p style="font-size: .85rem; text-align:right;">Fotoğrafın kaynağı: chess.com</p>
 
