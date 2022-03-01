@@ -6,6 +6,9 @@ tags: [turnuva, taktik]
 date: 2022-02-28
 image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
 ---
+<p style="font-size: .85rem; text-align:right;">Fotoğrafın kaynağı: worldchess.com</p>
+
+
 ## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi**
 
 Aronian ve Keymer arasında oynanan [mücadeleyle](https://www.satranchess.net/2022/02/25/Haftanin_incisi.html) birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz. (En altta yer alan oynatıcıda varyantları ve oyunu ayrıca inceleyebilirsiniz.)
