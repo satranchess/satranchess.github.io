@@ -7,7 +7,7 @@ date: 2022-02-25
 diagram: "8/pb2rk2/1p3pp1/3p3p/1P1P1P2/P2B1P2/5KP1/7R b - - 0 35"
 ---
 
-**LEVON ARONIAN - VIDIT GUJRATHI 2022 FIDE GRAND PRIX 1. TUR MÜCADELESİ**
+## **LEVON ARONIAN - VIDIT GUJRATHI 2022 FIDE GRAND PRIX 1. TUR MÜCADELESİ**
 
 <div class="cbdiagram"
      data-size="400"
@@ -22,7 +22,7 @@ _35...Kc7?_
 
 Çok öğretici bir hata, bundan sonrasında Aronian'ı oyunsonu dersi verirken izliyoruz.
 
-## **PROBLEM TAŞ**
+### **PROBLEM TAŞ**
 
 Satrançta genellikle **merkez karedeki piyonlarınızla aynı renkte bulunan fil kötü fildir** ve bu fil birazdan göreceğimiz gibi yalnızca etkin olmakta zorlanmaz aynı zamanda taktik operasyonların hedefi haline gelebilir.
 
@@ -58,7 +58,7 @@ _39...Fc6_
 
 [39...Kxa3 40.Kc1 Fa6 41.Kc7+ Sg8 42.b5+- Siyahın problem taşı bunun gibi çok önemli bir varyantta karşımıza çıkıyor.]
 
-## İKİ ZAYIFLIK PRENSİBİ
+### İKİ ZAYIFLIK PRENSİBİ
 
 Rakibin bir piyonu zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rakibimiz bu durumu önemsiz hale getirecek şekilde sağlam konum alabilir; yani piyonunun savunabilir veya geçer piyonumuzu durdurabilir. Bu durumda rakip güçlerin bu uyumunu bozmak için yeni bir "cephe açmak" gerekir. Açılan yeni cephede yeni bir zayıflık yaratılmalı ve böylelikle elde ettiğimiz iki unsur arasında kazanç fikirleri oluşturulmalıdır.
 
