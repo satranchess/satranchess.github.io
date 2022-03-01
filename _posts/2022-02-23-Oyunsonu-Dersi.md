@@ -90,8 +90,6 @@ _43...Kc8_
 
 _44.a4 Sf8 45.a5 Se7_
 
-
-
 [45...bxa5 46.Kxa5 Kc7 47.Se3 Beyaz bu varyantta da f4 sürüşünü hazırlayacak ancak c-dikeyinden gelecek saldırılara dikkat etmek kaydıyla. 47...Se7 48.f4 gxf4+ 49.Sxf4 Kc3 50.Se3 Kc7 51.Ka6 Kb7 52.Sf4 Fxb5 53.Fxb5 Kxb5 54.Kxa7++-]
 
 _46.axb6 axb6 47.Ka7 Kb8_
@@ -123,4 +121,6 @@ _54.Se3 Ke4+ 55.Sf2 Kf4+ 56.Se1 Kxd4_
 
 [56...Ke4+ 57.Fe2]
 
-57.Ka4! En kolayı! 57...Kxa4 58.Fxa4 Se5 59.Sd2 Sf4 60.Fd1 d4 61.Sd3 Se5 62.Sc4 Se4 63.Fc2+ Se3 64.Fb1 1-0
+_57.Ka4!_ En kolayı! _57...Kxa4 58.Fxa4 Se5 59.Sd2 Sf4 60.Fd1 d4 61.Sd3 Se5 62.Sc4 Se4 63.Fc2+ Se3 64.Fb1_ Siyah terk eder.
+
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Aronian_Gujrathi_2022.pgn" style="max-width:100%;"></div>
