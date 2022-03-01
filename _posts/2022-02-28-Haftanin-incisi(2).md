@@ -189,7 +189,7 @@ data-legend="23...Vxa3 sonrası konum: Beyaz Oynar Kazanır!">
 
 ## Oyunsonu Tekniği - Vezir Finalleri
 
-Onca hesabın ardından ulaşılan konum her şeyin eşit olduğu bir vezir finaline yol açtı gibi görünüyor. Vezir finalleri tüm oyun sonu bölümleri içerisinde en zor olanı kabul ediliyor. Bu yüzden belki siyahın durumdan memnun olması gerekebilir: kendisinin b-dikeyinde 2 adet geçer piyonu ve d3'te güçlü bir **potansiyel geçer**i bulunuyor. Ancak sıradaki hamleyle birlikte işler o kadar kolay değil zira **fena piyon yapısı ve zayıf şahı** derhal belirleyi olacak. Bu bir oyunsonu olsa da vezirlerin varlığı **şah güvenliği**ni önemli bir unsur haline getiriyor. Vezir en etkili saldırı silahı olduğu için savunma ve saldırı fikirlerini rakip şaha ve piyonlara yönelik çifte saldırı(çatal) fikirleriyle birleştirebilir. 
+Onca hesabın ardından ulaşılan konum her şeyin eşit olduğu bir vezir finaline yol açtı gibi görünüyor. Vezir finalleri tüm oyun sonu bölümleri içerisinde en zor olanı kabul ediliyor. Bu yüzden belki siyahın durumdan memnun olması gerekebilir: kendisinin b-dikeyinde 2 adet geçer piyonu ve d3'te güçlü bir **potansiyel geçer**i bulunuyor. Ancak sıradaki hamleyle birlikte işler o kadar kolay değil zira **fena piyon yapısı ve zayıf şahı** derhal belirleyi olacak. Bu bir oyunsonu olsa da vezirlerin varlığı **şah güvenliği**ni önemli bir unsur haline getiriyor. Vezir en etkili saldırı silahı olduğu için savunma ve saldırı fikirlerini rakip şaha ve piyonlara yönelik çifte saldırı(çatal) fikirleriyle birleştirebilir.
 
 _34.Sf2!_
 

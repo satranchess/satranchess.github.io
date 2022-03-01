@@ -39,7 +39,7 @@ _6...Ab4_
 
 Beyaz c3-sürüşünü yapmayınca oynanan hamleyle birlikte görece az rastlanan bir devamyoluna ulaşıyoruz, ancak Aronian'ın neden bu varyanta gitmek istediğini kısaca belirtelim: Siyahın bu varyantta bir süredir g6-Bf5 planıyla iyi bir oyun elde ettiği düşünülüyordu, üst düzey oyunlarda genelde iki taraf da iyi bir şekilde hazırlandıkları için buz dağının görünmeyen yüzünü anlamak kolay olmuyor. Biz yine de bir deneme yapalım:
 
-6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. _Siyah gelişimde geriyken konumu açmaya çalışmak_ en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir. 9...dxc4 10.Ac3 e6 11.Fg5 ve devamında Va4 ile beyaz inisiyatifi sürdürür.
+6...g6 7.0-0 Ff5 8.Fxf5 gxf5 Siyah e6-Bd6-Qc7 ve uzun rok ile g-dikeyinden saldırmak istiyor. 9.c4! Mantıklı bir piyon fedası. **Siyah gelişimde geriyken konumu açmaya çalışmak** en prensipli yaklaşım. Daha erken aşamada c3-sürüşünden vazgeçmenin fikri bu olabilir. 9...dxc4 10.Ac3 e6 11.Fg5 ve devamında Va4 ile beyaz inisiyatifi sürdürür.
 
 _7.Ac3!_
 
@@ -82,7 +82,11 @@ data-legend="12.cxd3 ardından oluşan konum">
 
 ### AÇILIŞ FELSEFESİ
 
-Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor. Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise tipik Carlsbad yapısında görüldüğü gibi **azınlık saldırısı** veya merkezden **piyon yarması** ile karşı oyun yaratmadaki güçlüğü. Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
+Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın fil çifti var ve Beyazın piyon yapısı adeta felaketi andırıyor. Ancak c ve e dikeylerindeki baskı çok iyi yerleşmiş hafif taşlarla ve c8-karesinde işsiz kalan fil birleşince pratikte siyaha oynanması zor bir durum kalıyor.
+
+Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise **Carlsbad yapısı**nda görüldüğü gibi **azınlık saldırısı** veya merkezden **piyon yarması** ile karşı oyun yaratmadaki güçlüğü.
+
+Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
 
 _12...Vb6_ (12...Ff5 13.Vb3) Stockfish burada **merkezden karşı oyun** için 12...Ae8!? ve devamında ...f6 hamlesini öneriyor.
 
