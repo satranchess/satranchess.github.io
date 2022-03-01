@@ -107,6 +107,7 @@ data-legend="Analiz diyagramı 18...Kxe4 sonrası konum">
 
 
 19.Vc3 f6 20.Kfc1 c6 21.f3 Ke7 22.Vd4 Vxd4 23.Fxd4± b5 24.g4 Fe6 Beyazın elde etmek istediği şeyi anlamak için yaklaşık birkaç varyantı görmek faydalı olabilir. Bu finalde beyazın şah-kanadı piyon coğunluğunun aynı zamanda şaha yönelecek bir saldırı ile birleşmesi planına karşı siyahın **etkisiz ve hedefsiz filiyle** pasif bir duruş sergilemek zorunda olduğunu izlemek öğretici. Beyaz şah kanadında g5 ile veya vezir kanadında a4 ile hatlar açmaya çalışabilir. Siyahın etkili bir piyon yarması bulunmayışı sadece beklemesine neden oluyor. 25.Sf2 Fb3 a) 25...Sf7 26.h4 h6 27.e4 Kd8 28.Se3 Ked7 29.Fb2 Kh8 (29...Ka8 30.Kg1 Fc4 31.g5 hxg5 32.hxg5 Ke7 33.Kh1 f5 34.g6+) 30.a4 bxa4 31.Kxa4; b) 25...Fc4 26.a4; 26.Kc5 Fc2 27.g5 fxg5 28.Kxg5 g6 29.h4 Beyaz ekstra filiyle sah kanadinda oyunu kazanir.]
+(_Varyantları daha kolay takip edebilmek için sayfanın altındaki PGN oynatıcıyı kullanabilirsiniz._)
 
 _19.f3 Fc6 20.Kac1 Ke7 21.Vf4 f6_
 
