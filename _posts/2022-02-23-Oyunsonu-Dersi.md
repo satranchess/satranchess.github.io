@@ -7,7 +7,7 @@ date: 2022-02-25
 diagram: "8/pb2rk2/1p3pp1/3p3p/1P1P1P2/P2B1P2/5KP1/7R b - - 0 35"
 ---
 
-## **LEVON ARONIAN - VIDIT GUJRATHI 2022 FIDE GRAND PRIX 1. TUR MÜCADELESİ**
+## **Levon Aronian - Vidit Guhrathi 2022 Fide Grand Prix 1. Tur Mücadelesi**
 
 <div class="cbdiagram"
      data-size="400"
