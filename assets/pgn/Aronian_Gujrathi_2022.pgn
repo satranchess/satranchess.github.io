@@ -1,0 +1,76 @@
+﻿[Event "FIDE Worldchess Grand Prix Berlin 2022"]
+[Site "Berlin, Germany"]
+[Date "2022.02.04"]
+[Round "1.5"]
+[White "Aronian, Levon"]
+[Black "Gujrathi, Vidit"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2772"]
+[BlackElo "2727"]
+[Annotator "https://lichess.org/@/broadcaster"]
+[SetUp "1"]
+[FEN "8/pb2rk2/1p3pp1/3p3p/1P1P1n2/P2B1PP1/5KP1/7R w - - 0 35"]
+[PlyCount "59"]
+[EventDate "2022.??.??"]
+[WhiteClock "0:27:48"]
+[BlackClock "0:01:18"]
+
+{[%evp 0,59,44,34,95,95,95,95,97,95,95,95,114,83,125,125,131,131,138,141,138,
+142,142,148,181,165,178,153,153,153,141,156,156,161,205,205,318,318,312,312,
+320,331,331,331,331,331,338,313,340,340,572,560,617,617,747,789,789,764,789,
+789,1122,847]} {[#]} 35. gxf4 {Siyahın konumu iç açıcı görünmüyor,
+kendisinin kötü bir fili ve beyazın f5 sürme tehdidi bulunuyor. Sorumuz
+ise şu 35...Kc7 mi yoksa 35...f5 mi oynanmalı? İlkinde 35...Kc7 36.f5 ve
+ikincisinde 35...f5 36. g4 hamleleri hesaplanmalı ve değerlendirilmeli.
+Hangisi siyaha daha iyi savunma olanakları verir? [#]} Rc7 $2 {[%csl Gc3]
+[%cal Gc7c3] Çok öğretici bir hata, bundan sonrasında Aronian'ı oyunsonu
+dersi verirken izliyoruz. PROBLEM TAŞ: Satrançta genellikle merkez karedeki
+piyonlarınızla aynı renkte bulunan fil kötü fildir ve bu fil birazdan
+göreceğimiz gibi yalnızca etkin olmakta zorlanmaz aynı zamanda taktik
+operasyonların hedefi haline gelebilir.} ({HİSAR} 35... f5 36. g4 {Bu hamle
+olmadan Beyazın ilerleme kaydetmesi güç.} hxg4 37. fxg4 fxg4 38. Rh7+ Kf6
+39. Rxe7 Kxe7 40. Bxg6 Kf6 {Beyaz g4-piyonunu da alacak ancak kazanma şansı
+var mı?} 41. Bh5 {[%csl Rg4][%cal Gf2g3]} Bc6 42. Bxg4 Ba4 43. Kg3 Bc2 {
+Denemeler karşılıksız kalacak, siyahın hisarı geçilemez.} 44. Kh4 (44.
+Bc8 Bb3 45. f5 Bc4 46. Kf4 Bb3 $11 {bu bile kazanç değil.}) 44... Ba4 45. Kh5
+Bb3 46. Kh6 Ba4 47. Kh7 Kf7) 36. f5 $1 g5 (36... Rc3 37. fxg6+ Kg7 38. Ke2 Rxa3
+39. Rxh5 $18) 37. Rxh5 Kg7 {[%cal Gc7c3] Siyah h7-karesini savundu ve çok
+etkili bir karşı oyun gelecekmiş gibi görünüyor.} 38. Rh1 $1 Rc3 39. Ke2
+$1 {Beyaz son iki hamlesiyle sürprizini belli ediyor. a3-piyonu
+dokunulmazdır.} Bc6 (39... Rxa3 40. Rc1 {[%csl Rb7][%cal Gc1c7]} Ba6 41. Rc7+
+Kg8 42. b5 $18 {Siyahın problem taşı bunun gibi çok önemli bir varyantta
+karşımıza çıkıyor.}) {İKİ ZAYIFLIK PRENSİBİ Rakibin bir piyonu
+zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rakibimiz bu durumu
+önemsiz hale getirecek şekilde sağlam konum alabilir; yani piyonunun
+savunabilir veya geçer piyonumuzu durdurabilir. Bu durumda rakip güçlerin
+bu uyumunu bozmak için yeni bir "cephe açmak" gerekir. Açılan yeni cephede
+yeni bir zayıflık yaratılmalı ve böylelikle elde ettiğimiz iki unsur
+arasında kazanç fikirleri oluşturulmalıdır.} 40. Ra1 Bd7 41. Kd2 Rc8 {
+Oyunun sonraki bölümü aynı şekilde öğretici. Beyaz şah kanadında
+piyon fazla ancak kazanmak için plana ihtiyacı var0 Piyonları anlamlı bir
+şekilde doğrudan ilerletmek kolay görünmüyor. Eğer kalesi için oyun
+yaratamazsa ekstra piyonu kazanca dönüştürmek imkansız olacak.} 42. b5 $1
+{[%csl Rd7][%cal Ga3a4,Ga4a5] Mükemmel bir kısıtlama hamlesi, siyah fil
+iyice çaresizleşirken beyaz a4-a5 ile yeni bir cephe açmayı hazırlıyor.}
+(42. a4 a5 $1 {Bu şekilde siyah b-dikeyinin açılmasına izin veriyor ancak
+a4-piyonu hedef oluyor.}) (42. Rc1 Rxc1 43. Kxc1 {Aşılması güç teknik
+zorluklar barındıran bir fil finali.}) 42... Rh8 {[%cal Gh8h2]} 43. g4 $1 {
+Siyah kalenin içeri sızmasına haklı bir şekilde izin veriliyor çünkü
+siyah kalenin rahatsız edebileceği her şey rahatlıkla savunuluyor.} Rc8 (
+43... Rh2+ 44. Ke3 {[%cal Ga3a4,Ga4a5]}) 44. a4 Kf8 45. a5 Ke7 (45... bxa5 46.
+Rxa5 Rc7 47. Ke3 {[%cal Gf3f4] Beyaz bu varyantta da f4 sürüşünü
+hazırlayacak ancak c-dikeyinden gelecek saldırılara dikkat etmek kaydıyla.}
+Ke7 48. f4 gxf4+ 49. Kxf4 Rc3 50. Ke3 Rc7 51. Ra6 {[%cal Ge3f4,Rg4g5,Ra6f6]}
+Rb7 52. Kf4 Bxb5 53. Bxb5 Rxb5 54. Rxa7+ $18 {[%cal Gg4g5]}) 46. axb6 axb6 47.
+Ra7 Rb8 {Beyaz kale başarıyla etkinleştirildi, ancak daha fazla ilerleme
+kaydetmenin yolu var mı?} 48. Ke3 Kd6 49. f4 $1 {Beyaz tüm taşları
+etkinleştikten sonra şah kanadındaki ekstra piyonuna yani zaferin
+anahtarına dönüyor. İki zayıflık prensibi adım adım
+gerçekleştiriliyor.} Re8+ 50. Kf3 gxf4 51. Kxf4 {[%cal Gg4g5,Ra7b7]} Bxb5 {
+Siyah umutsuz konumda son denemesini yapıyor.} (51... Rg8 {Pat denemesi?!} 52.
+Rb7 Rxg4+ $5 53. Kxg4 Bxf5+ 54. Kf4 Bxd3 55. Rxb6+ $18) 52. Bxb5 Re4+ 53. Kf3
+Rf4+ {Yine pat fikriyle.} 54. Ke3 Re4+ 55. Kf2 Rf4+ 56. Ke1 Rxd4 (56... Re4+
+57. Be2) 57. Ra4 $1 {En kolayı!} Rxa4 58. Bxa4 Ke5 59. Kd2 Kf4 60. Bd1 d4 61.
+Kd3 Ke5 62. Kc4 Ke4 63. Bc2+ Ke3 64. Bb1 1-0
+
