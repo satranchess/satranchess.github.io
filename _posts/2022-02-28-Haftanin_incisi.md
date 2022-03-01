@@ -231,10 +231,11 @@ _42.f5!_ Siyah terk eder. Güzel bir oyuna, güzel bir son! Aronian'dan mükemme
 
  [42.f5 gxf5 (42...exf5 43.e6 Ab8 44.Kg7) 43.g6 Se8 44.g7]  1-0
 
- <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Aronian_Keymer_2022.pgn" style="max-width:100%;"></div>  
+ <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Aronian_Keymer_2022.pgn" style="max-width:100%;"></div>    
 
 Değişmeli Caro-Kann'ın ele alındığı videolar:
 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/yu52xxAvorU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yu52xxAvorU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pAAmaUmRkWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAAmaUmRkWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
