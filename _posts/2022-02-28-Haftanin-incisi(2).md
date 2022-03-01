@@ -8,7 +8,7 @@ image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
 ---
 ## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi**
 
-Aronian ve Keymer arasında oynanan [mücadeleyle](https://www.satranchess.net/2022/02/25/Haftanin_incisi.html) birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz.
+Aronian ve Keymer arasında oynanan [mücadeleyle](https://www.satranchess.net/2022/02/25/Haftanin_incisi.html) birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz. (En altta yer alan oynatıcıda varyantları ve oyunu ayrıca inceleyebilirsiniz.)
 
 _1.c4 e5 2.Ac3 Af6 3.Af3 Ac6 4.g3 d5 5.cxd5 Axd5 6.Fg2 Fc5 7.0-0 0-0 8.Vc2_
 
