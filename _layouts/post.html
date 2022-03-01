@@ -24,13 +24,6 @@
 
     <article class="wrap post">
 
-        <header class="post-header">
-            <hgroup>
-                <p class="date">{{page.date | date: "%d. %m. %Y" }}</p>
-                {% if page.description %}<p class="intro">{{ page.description }}</p>{% endif %}
-            </hgroup>
-        </header>
-
         {{ content }}
 
         {% if page.comments %}
