@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oyunsonu Dersi"
-tagline: "Daha önce taktik bölümünde bir soru şeklinde karşımıza çıkan Aronian Gujrathi oyununu mercek altına alacağız. Hatırlanacağı gibi Aronian 2022 Fide Grand Prix finalinde Nakamura'ya kaybetmişti. Bu turnuvada özellikle Aronian'ın oynadığı harika oyunları incelemek bizim için oldukça öğretici."
+tagline: "Daha önce taktik bölümünde bir soru şeklinde karşımıza çıkan Aronian - Gujrathi oyununu mercek altına alacağız. Hatırlanacağı gibi Aronian 2022 Fide Grand Prix finalinde Nakamura'ya kaybetmişti. Bu turnuvada özellikle Aronian'ın oynadığı harika oyunları incelemek bizim için oldukça öğretici."
 tag: haber
 date: 2022-02-25
 diagram: "8/pb2rk2/1p3pp1/3p3p/1P1P1P2/P2B1P2/5KP1/7R b - - 0 35"
@@ -60,7 +60,7 @@ _39...Fc6_
 
 ### **İKİ ZAYIFLIK PRENSİBİ**
 
-Rakibin bir piyonu zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rakibimiz bu durumu önemsiz hale getirecek şekilde sağlam konum alabilir; yani piyonunun savunabilir veya geçer piyonumuzu durdurabilir. Bu durumda rakip güçlerin bu uyumunu bozmak için yeni bir "cephe açmak" gerekir. Açılan yeni cephede yeni bir zayıflık yaratılmalı ve böylelikle elde ettiğimiz iki unsur arasında kazanç fikirleri oluşturulmalıdır.
+Rakibin bir piyonu zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rakibimiz bu durumu önemsiz hale getirecek şekilde sağlam konum alabilir; yani piyonunun savunabilir veya geçer piyonumuzu durdurabilir. Bu durumda rakip güçlerin bu uyumunu bozmak için yeni bir **cephe açmak** gerekir. Açılan yeni cephede yeni bir zayıflık yaratılmalı ve böylelikle elde ettiğimiz iki unsur arasında kazanç fikirleri oluşturulmalıdır.
 
 _40.Ka1 Fd7 41.Sd2 Kc8_
 
