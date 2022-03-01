@@ -58,7 +58,7 @@ _39...Fc6_
 
 [39...Kxa3 40.Kc1 Fa6 41.Kc7+ Sg8 42.b5+- Siyahın problem taşı bunun gibi çok önemli bir varyantta karşımıza çıkıyor.]
 
-### İKİ ZAYIFLIK PRENSİBİ
+### **İKİ ZAYIFLIK PRENSİBİ**
 
 Rakibin bir piyonu zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rakibimiz bu durumu önemsiz hale getirecek şekilde sağlam konum alabilir; yani piyonunun savunabilir veya geçer piyonumuzu durdurabilir. Bu durumda rakip güçlerin bu uyumunu bozmak için yeni bir "cephe açmak" gerekir. Açılan yeni cephede yeni bir zayıflık yaratılmalı ve böylelikle elde ettiğimiz iki unsur arasında kazanç fikirleri oluşturulmalıdır.
 
