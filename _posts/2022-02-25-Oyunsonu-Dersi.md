@@ -64,7 +64,7 @@ Rakibin bir piyonu zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rak
 
 _40.Ka1 Fd7 41.Sd2 Kc8_
 
-Oyunun sonraki bölümü aynı şekilde öğretici. Beyaz şah kanadında piyon fazla ancak kazanmak için plana ihtiyacı var0 Piyonları anlamlı bir şekilde doğrudan ilerletmek kolay görünmüyor. Eğer kalesi için oyun yaratamazsa ekstra piyonu kazanca dönüştürmek imkansız olacak.
+Oyunun sonraki bölümü aynı şekilde öğretici. Beyaz şah kanadında piyon fazla ancak kazanmak için plana ihtiyacı var. Piyonları anlamlı bir şekilde doğrudan ilerletmek kolay görünmüyor. Eğer kalesi için oyun yaratamazsa ekstra piyonu kazanca dönüştürmek imkansız olacak.
 
 <div class="cbdiagram"
      data-size="400"
