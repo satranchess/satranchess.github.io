@@ -3,9 +3,10 @@ layout: post
 title: "Günün İncisi"
 tagline: "En üst düzey oyunları anlamanın en iyi yollarından biri de onları bölümlere ayırarak her bir parçaya dikkatle bakmak. Aronian ile Keymer arasında oynanan partide Aronian'ın açılış felsefesini, oyunortasında az rastlanan piyon yapısıyla inisiyatifi ele alışını ve oyun sonunda sürdürdüğü aktif taş oyununu inceleyeceğiz."
 tags: [turnuva, taktik]
-date: 2022-02-25
+date: 2022-02-26
 image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-punch.jpeg"
 ---
+<p style="font-size: .5rem; text-align:right;">Kaynak: chess.24.com</p>
 
 ## **Aronian - Keymer** **2022 Fide Grand Prix 3. Tur Mücadelesi**
 
