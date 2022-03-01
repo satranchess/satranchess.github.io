@@ -340,7 +340,7 @@ header.site-header nav {
 
     // Header Stuff
     header {
-        margin: (2*$lh) 0 $lh 0;
+        margin: 1rem 0;
 
         hgroup {
             color: $black;
@@ -355,7 +355,7 @@ header.site-header nav {
                 font-weight: bold;
                 color: $grey-light;
                 text-transform: uppercase;
-                margin-top: $lh * 2/3;
+                margin-top: 1rem;
             }
         }
 
