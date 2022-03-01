@@ -94,7 +94,7 @@ Aronian'ın nereye ulaşmak istediğini ancak şimdi anlayabiliyoruz. Siyahın f
 
 Beyazın üstünlüğü **aktif taş oyunu** yaratabilmesinde. Siyahın sorunu ise **Carlsbad yapısı**nda görüldüğü gibi **azınlık saldırısı** veya merkezden **piyon yarması** ile karşı oyun yaratmadaki güçlüğü.
 
-Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Bf5 oynadığı her durumda Qb3** ile karşılaşacak.
+Beyaz aktif taş oyununu sürdürdüğü sürece oyunu iyi olacak, ancak küçük bir hata yapısındaki zayıflıkları görünür hale getirebilir. Aronian'ın açılış hazırlığını nasıl yaptığını biraz daha anlamaya başlayacağız. Beyazın duble piyonlarının an itibariyle harika iş çıkardığını ve çok önem e4-karesini kontrol ederek standart **Ae4 karşı saldırısı**nı engellediğini söyleyebiliriz. Beyaz aktif taş oyunu yaparken siyah taşların aktif roller elde etmesine izin verilmiyor. Söz gelimi **Siyah Ff5 oynadığı her durumda Vb3** ile karşılaşacak.
 
 _12...Vb6_ (12...Ff5 13.Vb3) Stockfish burada **merkezden karşı oyun** için 12...Ae8!? ve devamında ...f6 hamlesini öneriyor.
 
