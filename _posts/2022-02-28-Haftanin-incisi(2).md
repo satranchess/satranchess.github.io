@@ -6,7 +6,9 @@ tags: [turnuva, taktik]
 date: 2022-02-25
 image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
 ---
-## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi
+## **Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi**
+
+Aronian ve Keymer arasında oynanan mücadeleyle birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz.
 
 _1.c4 e5 2.Ac3 Af6 3.Af3 Ac6 4.g3 d5 5.cxd5 Axd5 6.Fg2 Fc5 7.0-0 0-0 8.Vc2_
 
@@ -33,7 +35,16 @@ data-buttons="0"
 data-legend="8...Af6 sonrası konum">
 </div>
 
-_9.a3_ Yeni bir hamle olmasına rağmen vezir kanadı ilerleyişini hazırlaması bakımından tipik.
+### Açılış FELSEFESİ
+
+**Nakamura** seçtiği az rastlanan devam yolu ile rakibini hazırlıksız yakalamayı hedefliyordu. Oyunda izlenen yol daha önce üst düzeyde çok az görüldüğünden bunu başardığını söyleyebiliriz.
+Taraflar **İngiliz Açılışı**nın tersten **Dragon** şeklinde ele alınışına dair tipik birkaç plana sahip:
+- Beyaz, g2-karesindeki **Dragon fili**nin etkisini arttırmak üzere vezir kanadından piyon sürüşleri yaparak beyaz kareler üzerinde etkinlik sağlamak, siyahın konumunda zayıflık hedeflemek ve fazla merkez piyonu sayesinde d4 veya f4 sürüşü ile siyahın merkezdeki varlığını yok etmek isteyebilir.
+- Siyah ise, merkezdeki alan üstünlüğü yardımıyla (Ad4-Ke8-Fg4) aktif taş oyunu yaratacak ve g2-karesindeki fili (c6-sürüşü ile) kısıtlayarak etkinliğini sürdürmek isteyecek.
+
+Takip eden hamleleri ve analizleri incelerken üstte söz edilen fikirlerin uygulamasına ne denli katkıda bulundukları takip edilmeye çalışılabilir.
+
+_9.a3_ Daha önce rastlanmayan bir hamle fakat yeni bir hamle olmasına rağmen vezir kanadı ilerleyişini hazırlaması bakımından tipik.
 
 _9...Ad4 10.Axd4 exd4_
 
@@ -42,7 +53,7 @@ _9...Ad4 10.Axd4 exd4_
 _11.b4 Fb6_
 
 [11...Fe7!? Siyah belki de Ke8 ile devam etmek istediği için filini saklamaya çalışmıyor, ancak oyundan anlaşıldığı kadarıyla filini oyunda tutmaya çalışması daha iyi olabilirdi.;
-11...dxc3 12.bxc5 cxd2 13.Fxd2 Ke8 14.Kfe1 c6² Beyazın fil çifti ve şah-kanadı piyon çoğunluğu kendisine iyi bir oyun verir.]
+11...dxc3 12.bxc5 cxd2 13.Fxd2 Ke8 14.Kfe1 c6 Beyazın **fil çifti ve şah-kanadı piyon çoğunluğu** kendisine iyi bir oyun verir.]
 
 _12.Aa4 Ke8 13.Axb6 axb6 14.e3_
 
@@ -53,7 +64,9 @@ data-buttons="0"
 data-legend="14.e3 sonrası konum">
 </div>
 
-_14...d3_ Yine bir **potansiyel geçer piyon**! Önceki blog yazısından hatırlayacağımız gibi piyonu ilerletmek veya alış yapmak arasında karar vermek hayli güç bir konu. Esipenko potansiyel geçer piyon yaratmak istiyor.
+## Fil Çifti ve Bir Üstünlüğün Başka Bir Üstünlüğe Dönüştürülmesi
+
+_14...d3_ Yine bir **potansiyel geçer piyon**! Önceki blog [yazısından](https://www.satranchess.net/2022/02/16/devlerden.html) hatırlayacağımız gibi piyonun durumunu belirlemek hayli güç bir konu. Esipenko potansiyel geçer piyon yaratmak istiyor.
 
 [14...dxe3 15.dxe3 Beyazın yine filleri ve şah-kanadı piyon çoğunluğu kendisine iyi bir oyun verecek gibi duruyor. 15...c6 16.e4 b5 17.Kd1 Ve7 18.Fe3 Fe6 19.Fd4 Ad7 20.f4;
 14...b5 Piyonu d4-karesinde tutmaya çalışmak malesef mümkün değil. 15.Fb2 dxe3 16.fxe3 Ka6 17.Kac1]
@@ -69,13 +82,19 @@ data-legend="17...Vd7 sonrası konum">
 
 Önemli bir an. Siyahın aktif atı Beyaza kolay bir oyun imkanı vermiyor. [17...Axd2 18.Vc3+-]
 
+Siyah görünüşe göre aktif taş oyununu sürdürüyor ve Beyazın merkezdeki bu rakip etkinliğe bir çare bulması gerekiyor.
+
 _18.Fxe4!_
 
-ve Beyaz **fil çifti**nden vazgeçiyor. Fil çiftine sahip tarafın en önemli avantajlarından birisi **fil çiftinden ne zaman vazgeçeceğine karar verebilmesi**nde yatıyor. Böyle bir değişimi öylesine yapmak şah kanadında beyaz karelerden saldırı altında kalınmasına yol açabilir. Ancak Nakamuranın düşüncesi şah-kanadında güveliği sağlayıp **ters renkli filler**le oynanabileceği yönünde.
+Beyaz **fil çifti**nden vazgeçiyor. Fil çiftine sahip tarafın en önemli avantajlarından birisi **fil çiftinden ne zaman vazgeçeceğine karar verebilmesi**nde yatıyor. Böyle bir değişimi düşüncesizce yapmak şah kanadında beyaz karelerden saldırı altında kalınmasına yol açabilir. Ancak Nakamura'nın düşüncesi şah-kanadında güveliği sağlayıp **ters renkli filler**le oynanabileceği yönünde.
 
-18...Fxe4
+_18...Fxe4_
 
-Buradaki varyantları **ters renkli filler** konusunda aktif file sahip olan tarafın avantajlarını incelemek amacıyla ekledim.
+## Ters Renkli Fillerin Atak Yapan Tarafa Üstünlük Vermesi
+
+Beyaz fil çifti üstünlüğünden vazgeçti. Karşılığında elde ettiği ise ters renkli fillerin bulunduğu konumda kendi filinin daha iyi olacağını öngörmesi. Haklı olduğunu kanıtlayabilmesi için saldırması gerekiyor.
+
+Aşağıdaki varyantları **ters renkli filler** konusunda aktif file sahip olan tarafın avantajlarını incelemek amacıyla ekledim.
 
 [18...Kxe4
 
@@ -87,7 +106,7 @@ data-legend="Analiz diyagramı 18...Kxe4 sonrası konum">
 </div>
 
 
-19.Vc3 f6 20.Kfc1 c6 21.f3 Ke7 22.Vd4 Vxd4 23.Fxd4± b5 24.g4 Fe6 Beyazın elde etmek istediği şeyi anlamak için yaklaşık birkaç varyantı görmek faydalı olabilir. Bu finalde beyazın şah-kanadı piyon coğunluğunun aynı zamanda şaha yönelecek bir saldırı ile birleşmesi planına karşı siyahın pasif bir duruş sergilemek zorunda olduğunu izlemek öğretici. Beyaz şah kanadında g5 ile veya vezir kanadında a4 ile hatlar açmaya çalışabilir. Siyahın etkili bir piyon yarması bulunmayışı sadece beklemesine neden oluyor. 25.Sf2 Fb3 a) 25...Sf7 26.h4 h6 27.e4 Kd8 28.Se3 Ked7 29.Fb2 Kh8 (29...Ka8 30.Kg1 Fc4 31.g5 hxg5 32.hxg5 Ke7 33.Kh1 f5 34.g6+) 30.a4 bxa4 31.Kxa4; b) 25...Fc4 26.a4; 26.Kc5 Fc2 27.g5 fxg5 28.Kxg5 g6 29.h4 Beyaz ekstra filiyle sah kanadinda oyunu kazanir.]
+19.Vc3 f6 20.Kfc1 c6 21.f3 Ke7 22.Vd4 Vxd4 23.Fxd4± b5 24.g4 Fe6 Beyazın elde etmek istediği şeyi anlamak için yaklaşık birkaç varyantı görmek faydalı olabilir. Bu finalde beyazın şah-kanadı piyon coğunluğunun aynı zamanda şaha yönelecek bir saldırı ile birleşmesi planına karşı siyahın **etkisiz ve hedefsiz filiyle** pasif bir duruş sergilemek zorunda olduğunu izlemek öğretici. Beyaz şah kanadında g5 ile veya vezir kanadında a4 ile hatlar açmaya çalışabilir. Siyahın etkili bir piyon yarması bulunmayışı sadece beklemesine neden oluyor. 25.Sf2 Fb3 a) 25...Sf7 26.h4 h6 27.e4 Kd8 28.Se3 Ked7 29.Fb2 Kh8 (29...Ka8 30.Kg1 Fc4 31.g5 hxg5 32.hxg5 Ke7 33.Kh1 f5 34.g6+) 30.a4 bxa4 31.Kxa4; b) 25...Fc4 26.a4; 26.Kc5 Fc2 27.g5 fxg5 28.Kxg5 g6 29.h4 Beyaz ekstra filiyle sah kanadinda oyunu kazanir.]
 
 _19.f3 Fc6 20.Kac1 Ke7 21.Vf4 f6_
 
@@ -97,12 +116,10 @@ _19.f3 Fc6 20.Kac1 Ke7 21.Vf4 f6_
 data-size="300"
 data-fen="r5k1/1ppqrppp/1p6/8/1PR2Q2/P2pPPP1/1BbP3P/5RK1 w - - 0 1"
 data-buttons="0"
-data-legend="Analiz diyagramı 22...Fc2 sonrası konum">
+data-legend="Beyaz Oynar Kazanır">
 </div>
 
-
-
-Bize güzel bir taktik egzersiz imkanı ve ters renkli fillerle tehlikelere işaret etme imkanı verir. 23.Fxg7! Sxg7 24.Vg5+ Sf8 25.Kg4 Kee8 26.Vg7+ Se7 27.Ke4+ Sd8 28.Kd4]
+Bize güzel bir taktik egzersiz yapma ve ters renkli fillerle ilgili tehlikelere işaret etme imkanı verir. 23.Fxg7! Sxg7 24.Vg5+ Sf8 25.Kg4 Kee8 26.Vg7+ Se7 27.Ke4+ Sd8 28.Kd4]
 
 _22.Kc4 Kd8_
 
@@ -117,19 +134,23 @@ data-buttons="0"
 data-legend="23...Ve6 sonrası konum: Beyaz Oynar!">
 </div>
 
+## VARYANTLARIN HESAPLANMASI
+
 Siyah şimdiye kadar her şeyi savundu fakat beyazın tüm taşları bitirici vuruş için hazır. Böyle anlarda zorunlu hamlelerden oluşan varyantları hesaplamanın önemi çok büyük. Elbette Nakamura bu konuda dünyanın en iyilerinden ve bize güzel bir gösteri sunuyor.
 
 [23...b5! Oyunda olanları görünce bunun iyi olduğunu anlamak güç değil. 24.Kd4 Vc8 25.g4± Kxd4 26.Fxd4 Ve6]
 
 _24.b5!!_
 
-Nakamura'dan çok güzel bir hesaplama gösterisi başlıyor.
+Bu hamle için hazırlık yapmak siyaha toparlanma şansı verecekti. Şimdi **gevşek taşlar**, **zayıf şah** ve **çift yönlü saldırı**(çatal) konularının bir arada ele alınışını göreceğiz.
 
 [24.a4 Yavaş olurdu. 24...Kdd7 25.b5 Fd5]
 
 _24...Fxb5 25.Ke4!_
 
-[25.Kxc7 Kxc7 26.Kxc7 Fc6]
+c7-piyonunun savunmasını yok etmek amacıyla.
+
+[Hemen 25.Kxc7 Kxc7 26.Kxc7 Fc6 yeterli olmazdı.]
 
 _25...Vf7 26.Kxe7 Vxe7 27.Kxc7 Kd7_
 
@@ -137,7 +158,7 @@ _25...Vf7 26.Kxe7 Vxe7 27.Kxc7 Kd7_
 
 _28.Kc8+_
 
-[28.Fxf6 gxf6 29.Vg4+ Sf8 30.Kc8+ Kd8 31.Kxd8+ Vxd8 32.Vb4+]
+[28.Fxf6 hamlesi de oyundaki konuma ulaşırdı.]
 
 _28...Kd8_
 
@@ -157,9 +178,26 @@ _29.Fxf6!! gxf6 30.Vg4+ Sf8_
 [30...Sf7 31.Vh5+;
 30...Sh8 31.Vb4!]
 
-_31.Kxd8+ Vxd8 32.Vb4+ Ve7 33.Vxb5 Vxa3 34.Sf2 Vc5 35.Vxd3 b5 36.Vc3 Ve7 37.Se2_
+_31.Kxd8+ Vxd8 32.Vb4+ Ve7 33.Vxb5 Vxa3_
 
-Şimdiyse **oyunsonu tekniği** ile ilgili gösteri başlıyor: Beyaz şah da olaya dahil olacak ve kendi piyonları ile birlikte ilerlerken bu güvenli karede rakibin karşı oyununu göğüsleyecek.
+<div class="cbdiagram"
+data-size="400"
+data-fen="5k2/1p5p/1p3p2/1Q6/8/q2pPPP1/3P3P/6K1 w - - 0 34"
+data-buttons="0"
+data-legend="23...Vxa3 sonrası konum: Beyaz Oynar Kazanır!">
+</div>
+
+## Oyunsonu Tekniği - Vezir Finalleri
+
+Onca hesabın ardından ulaşılan konum her şeyin eşit olduğu bir vezir finaline yol açtı gibi görünüyor. Vezir finalleri tüm oyun sonu bölümleri içerisinde en zor olanı kabul ediliyor. Bu yüzden belki siyahın durumdan memnun olması gerekebilir: kendisinin b-dikeyinde 2 adet geçer piyonu ve d3'te güçlü bir **potansiyel geçer**i bulunuyor. Ancak sıradaki hamleyle birlikte işler o kadar kolay değil zira **fena piyon yapısı ve zayıf şahı** derhal belirleyi olacak. Bu bir oyunsonu olsa da vezirlerin varlığı **şah güvenliği**ni önemli bir unsur haline getiriyor. Vezir en etkili saldırı silahı olduğu için savunma ve saldırı fikirlerini rakip şaha ve piyonlara yönelik çifte saldırı(çatal) fikirleriyle birleştirebilir. 
+
+_34.Sf2!_
+
+Bu hamleyle siyah piyon kaybediyor. d3 ve b6 aynı anda korunamaz ve karşı saldırı girişimleri başarısız olur.
+
+_34...Vc5 35.Vxd3 b5 36.Vc3 Ve7 37.Se2_
+
+Şimdiyse **oyunsonu tekniği** ile ilgili gösteri başlıyor. Beyazın kusursuz piyon yapısı, güvenli şahı rakibinin tüm eksiklerini görmemize olanak verecek.
 
 _37...Sg7_
 
@@ -169,9 +207,9 @@ _38.Vd4 Vf7 39.Vg4+ Sh8 40.Vb4 Ve8 41.Vd6 Vf7 42.Vc5 Ve8 43.g4 Sg7 44.h4 Vd7 45.
 
 [45...Sh6 46.d4 Sg7 47.e4]
 
-_46.h6_ 1-0 Siyahın bir şey kaybetmeden direnç göstermesi imkansız hale geldi ve Esipenko oyunu terk ediyor.
+_46.h6_ Siyahın bir şey kaybetmeden direnç göstermesi imkansız hale geldi ve Esipenko oyunu terk ediyor.
 
 [46.h6 Sf7 47.Vf5;
-Kf7 46.Vf5]  1-0
+Kf7 46.Vf5]
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Nakamura_Esipenko_2022.pgn" style="max-width:100%;"></div>  
