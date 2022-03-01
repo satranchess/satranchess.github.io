@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oyunsonu Dersi"
-tagline: "Daha önce taktik bölümünde bir soru şeklinde karşımıza çıkan Aronian Gujrathi oyununu mercek altına alacağız. Hatırlanacağı gibi Aronian 2022 Fide Grand Prix finalinde Nakamura'ya kaybetmişti. Bu turnuvada özellikle Aronian'ın oynadığı harika oyunları incelemek bizim için oldukça öğretici.""
+tagline: "Daha önce taktik bölümünde bir soru şeklinde karşımıza çıkan Aronian Gujrathi oyununu mercek altına alacağız. Hatırlanacağı gibi Aronian 2022 Fide Grand Prix finalinde Nakamura'ya kaybetmişti. Bu turnuvada özellikle Aronian'ın oynadığı harika oyunları incelemek bizim için oldukça öğretici."
 tag: haber
 date: 2022-02-25
 diagram: "8/pb2rk2/1p3pp1/3p3p/1P1P1P2/P2B1P2/5KP1/7R b - - 0 35"
