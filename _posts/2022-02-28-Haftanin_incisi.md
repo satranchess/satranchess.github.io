@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haftanın İncisi"
+title: "Günün İncisi"
 tagline: "En üst düzey oyunları anlamanın en iyi yollarından biri de onları bölümlere ayırarak her bir parçaya dikkatle bakmak. Aronian ile Keymer arasında oynanan partide Aronian'ın açılış felsefesini, oyunortasında elde etmek istediği piyon yapısıyla inisiyatifi ele alışını ve oyun sonunda sürdürdüğü aktif taş oyununu inceleyeceğiz."
 tags: [turnuva, taktik]
 date: 2022-02-25
