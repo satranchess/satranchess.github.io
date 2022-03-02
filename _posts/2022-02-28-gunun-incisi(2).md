@@ -22,11 +22,9 @@ data-buttons="0"
 data-legend="8.Vc2 sonrası konum">
 </div>
 
-[8...Axc3?! Bu hamle iyi değil fakat oluşan simetrik piyon yapısında Beyazın aktivitesini ve fikirlerini gözlemlemek için güzel bir pratik örnek. Bu hamle beyazın gelişimini hızlandırması ve d4-karesinin kontrolünü kaybetmesi bakımından iyi değil fakat oluşan simetrik piyon yapısında Beyazın aktivitesini ve fikirlerini gözlemlemek için güzel bir pratik örnek sunuyor. 9.dxc3 f6 10.b4 Fb6 11.a4 a6 12.Fa3 Kf7 13.Kfd1 Ve8 14.Ah4 ve çok kısa sürede beyazın çok üstün bir oyunu olmuştu. 1-0 (34) Miezis,N (2483)-Kvaloy,A (2093) Oslo 2020;
+[8...Axc3?! Bu hamle **beyazın gelişimini hızlandırması ve d4-karesinin kontrolünü kaybetmesi** bakımından iyi değil fakat oluşan simetrik piyon yapısında Beyazın aktivitesini ve fikirlerini gözlemlemek için güzel bir pratik örnek sunuyor. 9.dxc3 f6 10.b4 Fb6 11.a4 a6 12.Fa3 Kf7 13.Kfd1 Ve8 14.Ah4 ve çok kısa sürede beyazın çok üstün bir oyunu olmuştu. 1-0 (34) Miezis,N (2483)-Kvaloy,A (2093) Oslo 2020;
 
-8...h6?? Beyazın fikrini anlamak için. 9.Axd5 Vxd5 10.Ag5 e4 11.Axe4;
-
-8...Adb4!? 9.Ve4 (9.Vb1 Ad4 10.Axd4 exd4 11.Aa4 Fd6 12.a3 Ac6 13.b4 Ke8) 9...g6 10.d3 Ff5 11.Vc4]
+8...h6?? 9.Axd5 Vxd5 10.Ag5 e4 11.Axe4;
 
 _8...Af6_
 
