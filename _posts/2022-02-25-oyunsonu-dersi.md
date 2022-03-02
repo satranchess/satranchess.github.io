@@ -37,6 +37,15 @@ Bu hamle olmadan Beyazın ilerleme kaydetmesi güç.
 
 Beyaz g4-piyonunu da alacak ancak kazanma şansı var mı?
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="8/pb6/1p3kB1/3p4/1P1P1Pp1/P7/5K2/8 w - - 0 41"
+     data-buttons="0"
+     data-legend="Analiz diyagramı 40...Şf6 sonrası konum">
+</div>
+
+
+
 41.Fh5 Fc6 42.Fxg4 Fa4 43.Sg3 Fc2 Denemeler karşılıksız kalacak, siyahın hisarı geçilemez. 44.Sh4 (44.Fc8 Fb3 45.f5 Fc4 46.Sf4 Fb3= bu bile kazanç değil.) 44...Fa4 45.Sh5 Fb3 46.Sh6 Fa4 47.Sh7 Sf7] 36.f5! g5 [36...Kc3 37.fxg6+ Sg7 38.Se2 Kxa3 39.Kxh5+-]
 
 _37.Kxh5 Sg7_
