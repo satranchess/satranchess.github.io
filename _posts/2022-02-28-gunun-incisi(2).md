@@ -204,21 +204,21 @@ data-legend="23...Vxa3 sonrası konum: Beyaz Oynar Kazanır!">
 
 Onca hesabın ardından ulaşılan konum her şeyin eşit olduğu bir vezir finaline yol açtı gibi görünüyor. Vezir finalleri tüm oyun sonu bölümleri içerisinde en zor olanı kabul ediliyor. Bu yüzden belki siyahın durumdan memnun olması gerekebilir: kendisinin b-dikeyinde 2 adet geçer piyonu ve d3'te güçlü bir **potansiyel geçer**i bulunuyor. Ancak sıradaki hamleyle birlikte işler o kadar kolay değil zira **fena piyon yapısı ve zayıf şahı** derhal belirleyi olacak. Bu bir oyunsonu olsa da vezirlerin varlığı **şah güvenliği**ni önemli bir unsur haline getiriyor. Vezir en etkili saldırı silahı olduğu için savunma ve saldırı fikirlerini rakip şaha ve piyonlara yönelik çifte saldırı(çatal) fikirleriyle birleştirebilir.
 
-_34.Sf2!_
+_34.Şf2!_
 
 Bu hamleyle siyah piyon kaybediyor. d3 ve b6 aynı anda korunamaz ve karşı saldırı girişimleri başarısız olur.
 
-_34...Vc5 35.Vxd3 b5 36.Vc3 Ve7 37.Se2_
+_34...Vc5 35.Vxd3 b5 36.Vc3 Ve7 37.Şe2_
 
 Şimdiyse **oyunsonu tekniği** ile ilgili gösteri başlıyor. Beyazın kusursuz piyon yapısı, güvenli şahı rakibinin tüm eksiklerini görmemize olanak verecek.
 
-_37...Sg7_
+_37...Şg7_
 
 [37...b4 38.Vc4 b6 39.Vb5 Vd6 40.d4]
 
-_38.Vd4 Vf7 39.Vg4+ Sh8 40.Vb4 Ve8 41.Vd6 Vf7 42.Vc5 Ve8 43.g4 Sg7 44.h4 Vd7 45.h5 Sg8_
+_38.Vd4 Vf7 39.Vg4+ Şh8 40.Vb4 Ve8 41.Vd6 Vf7 42.Vc5 Ve8 43.g4 Şg7 44.h4 Vd7 45.h5 Şg8_
 
-[45...Sh6 46.d4 Sg7 47.e4]
+[45...Şh6 46.d4 Şg7 47.e4]
 
 _46.h6_ Siyahın bir şey kaybetmeden direnç göstermesi imkansız hale geldi ve Esipenko oyunu terk ediyor.
 
@@ -229,4 +229,4 @@ Kf7 46.Vf5]
 
 İlgili video (**İki Zayıflık Prensibi**)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xa1eMQ5t5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8xa1eMQ5t5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
