@@ -82,6 +82,13 @@ _39...Fc6_
 
 Rakibin bir piyonu zayıf olduğunda ya da fazladan bir piyonumuz olduğunda rakibimiz bu durumu önemsiz hale getirecek şekilde sağlam konum alabilir; yani piyonunun savunabilir veya geçer piyonumuzu durdurabilir. Bu durumda rakip güçlerin bu uyumunu bozmak için yeni bir **cephe açmak** gerekir. Açılan yeni cephede yeni bir zayıflık yaratılmalı ve böylelikle elde ettiğimiz iki unsur arasında kazanç fikirleri oluşturulmalıdır.
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="8/p5k1/1pb2p2/3p1Pp1/1P1P4/P1rB1P2/4K1P1/7R w - - 0 40"
+     data-buttons="0"
+     data-legend="39...Fc6 hamlesinden sonraki konum">
+</div>
+
 _40.Ka1 Fd7 41.Sd2 Kc8_
 
 Oyunun sonraki bölümü aynı şekilde öğretici. Beyaz şah kanadında piyon fazla ancak kazanmak için plana ihtiyacı var. Piyonları anlamlı bir şekilde doğrudan ilerletmek kolay görünmüyor. Eğer kalesi için oyun yaratamazsa ekstra piyonu kazanca dönüştürmek imkansız olacak.
