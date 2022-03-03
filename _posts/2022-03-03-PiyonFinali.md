@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taktik!"
+title: "İlginç Bir Piyon Finali!"
 tagline: "2022 Fide Grand Prix ikinci ayağı Belgrad'da başladı. Oldukça çekişmeli oyunlara sahne olan en üst düzey satranç organizasyonlarından olan Grand-Prix'de karşıma çıkan dikkat çekici bir konumu sizlerle paylaşmak istedim. Satranç motorlarının artık kesin zaferini ilan ettiği günümüzde yine de sürekli tetikte olmak gerekiyor!"
 tags: [turnuva, taktik]
 date: 2022-02-25
