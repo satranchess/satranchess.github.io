@@ -25,6 +25,6 @@ _36. b4 g5 37. b5 h4 38. gxh4 gxh4 39. a4_ ve Siyah terk eder.
 
 Oysa durum belki de böyle değil!
 
-<img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland.jpeg">
+<img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland.jpeg?raw=true">
 
 Üstteki fotoğrafta Stockfish'in değerlendirmesi böyle olsa da derinlik arttığında 0.00 değerlendirmesi görülüyor. Bu kısmı incelemesi hem öğretici hem de satranç motolarına güven konusunda bir kez daha düşünmenize yol açabilir.
