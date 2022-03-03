@@ -18,13 +18,13 @@ diagram: "8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36"
      data-legend="35...Şd7 hamlesinden sonraki konum">
 </div>
 
-Tarafların ciddi zaman sıkışması yaşadığı bu konumda ilk gözlem beyazın sahip olduğu **uzak geçer piyon**un oyunu kolayca kazanacağı düşüncesi yönünde.
-Oyunun geri kalanı bunu kanıtlar nitelikte.
+Tarafların ciddi zaman sıkışması yaşadığı bu konumda ilk gözlem beyazın sahip olduğu **uzak geçer piyon**un oyunu kolayca kazanacağı düşüncesi yönünde ve
+oyunun geri kalanı bunu kanıtlar nitelikte.
 
 _36. b4 g5 37. b5 h4 38. gxh4 gxh4 39. a4_ ve Siyah terk eder.
 
 Oysa durum belki de böyle değil!
 
-<img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland.jpeg?raw=true">
+<img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland2.png?raw=true">
 
-Üstteki fotoğrafta Stockfish'in değerlendirmesi böyle olsa da derinlik arttığında 0.00 değerlendirmesi görülüyor. Bu kısmı incelemesi hem öğretici hem de satranç motolarına güven konusunda bir kez daha düşünmenize yol açabilir.
+Şimdi durum Stockfh'e göre daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor. 
