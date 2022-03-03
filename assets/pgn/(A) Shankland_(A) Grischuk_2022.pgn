@@ -1,0 +1,36 @@
+﻿[Event "All Pools | Belgrade FIDE Grand Prix"]
+[Site "chess24.com"]
+[Date "2022.03.02"]
+[Round "2.2"]
+[White "(A) Shankland, Sam"]
+[Black "(A) Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2704"]
+[BlackElo "2758"]
+[Annotator "Dogan,Nazmi Can"]
+[SetUp "1"]
+[FEN "8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36"]
+[PlyCount "28"]
+[EventDate "2022.??.??"]
+
+{[#]} 36. b4 (36. b3 $3 Kc7 {Beyaz şah bu kadar yakınken şah kanadı
+piyonlarını sürmek anlamsızdır.} 37. b4 $1 Kd7 (37... Kb7 38. Kd6) 38. Kb5
+$1 Kc7 39. Ka6 Kb8 40. b5 {Beyazın büyük en iyi hamleleri oynamasından
+sonra anlaşılıyor ki beyaz piyonu e3 karesinde iken siyahın karşı oyunu
+kısa düşüyor.} e5 {Siyah şimdi ilerlemeye başlayabilir fakat Beyaz şah
+çok hızlı.} 41. b6 axb6 42. Kxb6 f6 43. Kc6 Ka7 44. Kd5 Kb6 45. Ke6 $18 {
+Piyon e3 karesinde iken şah rahatlıkla siyah piyonları alabilir.Çünkü
+siyah aşağıda görüleceği gibi merkezden bir geçer piyon yaratamaz.})
+36... Kc7 {ve zorlu bir berabere ile.} (36... g5 $4 37. b5 h4 38. gxh4 gxh4 39.
+a4 {Shankland - Grischuk 1-0}) 37. b5 (37. Kb5 {Bu fikir şimdi olmuyor ve
+eğer beyaz fazla hırslı davranırsa siyah kazanıyor. Az sonra
+göreceğiniz varyant siyahın şah-kanadı ilerleyişini göstermek için
+verildi.} f5 38. Kc5 (38. Ka6 Kb8 39. b5 $4 g5 40. b6 e5 41. bxa7+ Ka8 42. Kb5
+f4 43. exf4 exf4 44. gxf4 gxf4 45. Kc4 f3 $19 {[%cal Gh5h1]}) 38... g5 39. a4
+h4 40. gxh4 gxh4 41. b5 e5 42. Kd5 f4 43. exf4 exf4 44. Ke4 Kb6 45. Kxf4 Ka5
+46. Kg4 Kxa4 47. Kxh4 Kxb5 $11) 37... Kb7 38. a4 f6 39. e4 (39. a5 Kc7) 39...
+Kc7 40. a5 Kd7 41. b6 axb6+ 42. Kxb6 Kc8 43. Kc6 e5 44. Kd6 Kb7 45. Ke6 Ka6 46.
+Kf5 Kxa5 {Bu konumu birkaç kere daha göreceğiz.} 47. Kg6 Ka4 48. Kxg7 f5 49.
+exf5 e4 {Tarafların vezir çıktığı bu konum **Tablebase berabere**.} 1-0
+
