@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İlginç Bir Piyon Finali!"
-tagline: "2022 Fide Grand Prix ikinci ayağı Belgrad'da başladı. Oldukça çekişmeli oyunlara sahne olan en üst düzey satranç organizasyonlarından olan Grand-Prix'de karşıma çıkan dikkat çekici bir konumu sizlerle paylaşmak istedim. Satranç motorlarının artık kesin zaferini ilan ettiği günümüzde yine de sürekli tetikte olmak gerekiyor!"
+tagline: "2022 Fide Grand Prix ikinci ayağı Belgrad'da başladı. Oldukça çekişmeli oyunlara sahne olan en üst düzey satranç organizasyonlarından Grand-Prix'de karşıma çıkan dikkat çekici bir konumu sizlerle paylaşmak istedim. Satranç motorlarının artık kesin zaferini ilan ettiği günümüzde yine de sürekli tetikte olmak gerekiyor!"
 tags: [turnuva, taktik]
 date: 2022-03-02
 diagram: "8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36"
@@ -27,6 +27,6 @@ Oysa durum belki de böyle değil!
 
 <img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland2.png?raw=true">
 
-Stockfish'e göre durum daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor.
+Stockfish'e göre durum daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor. Elbette oyun çok daha derin bir analizi hak ediyor, ancak şimdilik ana doğrultularla yetineceğim.
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/(A) Shankland_(A) Grischuk_2022.pgn" style="max-width:100%;"></div>  
