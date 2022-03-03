@@ -27,4 +27,6 @@ Oysa durum belki de böyle değil!
 
 <img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland2.png?raw=true">
 
-Şimdi durum Stockfh'e göre daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor. 
+Şimdi durum Stockfh'e göre daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor.
+
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/(A) Shankland_(A) Grischuk_2022.pgn" style="max-width:100%;"></div>  
