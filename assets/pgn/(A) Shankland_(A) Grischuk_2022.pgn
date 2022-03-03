@@ -1,4 +1,4 @@
-﻿[Event "All Pools | Belgrade FIDE Grand Prix"]
+[Event "All Pools | Belgrade FIDE Grand Prix"]
 [Site "chess24.com"]
 [Date "2022.03.02"]
 [Round "2.2"]
@@ -27,10 +27,11 @@ a4 {Shankland - Grischuk 1-0}) 37. b5 (37. Kb5 {Bu fikir şimdi olmuyor ve
 eğer beyaz fazla hırslı davranırsa siyah kazanıyor. Az sonra
 göreceğiniz varyant siyahın şah-kanadı ilerleyişini göstermek için
 verildi.} f5 38. Kc5 (38. Ka6 Kb8 39. b5 $4 g5 40. b6 e5 41. bxa7+ Ka8 42. Kb5
-f4 43. exf4 exf4 44. gxf4 gxf4 45. Kc4 f3 $19 {[%cal Gh5h1]}) 38... g5 39. a4
-h4 40. gxh4 gxh4 41. b5 e5 42. Kd5 f4 43. exf4 exf4 44. Ke4 Kb6 45. Kxf4 Ka5
-46. Kg4 Kxa4 47. Kxh4 Kxb5 $11) 37... Kb7 38. a4 f6 39. e4 (39. a5 Kc7) 39...
-Kc7 40. a5 Kd7 41. b6 axb6+ 42. Kxb6 Kc8 43. Kc6 e5 44. Kd6 Kb7 45. Ke6 Ka6 46.
-Kf5 Kxa5 {Bu konumu birkaç kere daha göreceğiz.} 47. Kg6 Ka4 48. Kxg7 f5 49.
-exf5 e4 {Tarafların vezir çıktığı bu konum **Tablebase berabere**.} 1-0
-
+f4 43. exf4 exf4 44. gxf4 gxf4 45. Kc4 f3 $19) 38... g5 39. a4 h4 40. gxh4 gxh4
+41. b5 e5 42. Kd5 f4 43. exf4 exf4 44. Ke4 Kb6 45. Kxf4 Ka5 46. Kg4 Kxa4 47.
+Kxh4 Kxb5 $11) 37... Kb7 38. a4 f6 39. e4 {Beyaz üstte görüldüğü gibi bu
+piyonu sürmeden de kazanamıyor.} (39. a5 Kc7 40. b6+ axb6+ 41. axb6+ Kb7 42.
+Kd6 e5 43. Ke6 Kxb6 44. Kf7 Kc5 45. Kxg7 Kd5 46. Kxf6 Ke4 47. Ke6 Kxe3 48. Kxe5
+Kf2 49. Kf4 Kxg2 $11) 39... Kc7 40. a5 Kd7 41. b6 axb6+ 42. Kxb6 Kc8 43. Kc6 e5
+44. Kd6 Kb7 45. Ke6 Ka6 46. Kf5 Kxa5 47. Kg6 Ka4 48. Kxg7 f5 49. exf5 e4 {
+Tarafların vezir çıktığı bu konum **Tablebase berabere**.} 1-0
