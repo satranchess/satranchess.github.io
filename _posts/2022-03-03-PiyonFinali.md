@@ -9,7 +9,7 @@ diagram: "8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36"
 
 ## Daha Fazla Derinlik!
 
-**2022 Fide Grand Prix** ikinci ayağı Belgrad'da oynanırken ilginç bir oyunsonu dikkatimi çekti. Bunu sizlerle paylaşmak istedim. Stockfish'in konumu anlamak için daha fazla derinliğe ihtiyaç duyduğu bu ilginç finalin sonucu hakkında hala bir netliğe ulaşabilmiş değilim.
+**2022 Fide Grand Prix** ikinci ayağı Belgrad'da oynanırken ilginç bir oyunsonu dikkatimi çekti. Bunu sizlerle paylaşmak istedim. Stockfish'in konumu anlamak için daha fazla derinliğe ihtiyaç duyduğu bu ilginç finalin sonucu hakkında bir netliğe ulaşmak kolay görünmüyor.
 
 <div class="cbdiagram"
      data-size="400"
@@ -27,6 +27,6 @@ Oysa durum belki de böyle değil!
 
 <img src="https://github.com/satranchess/satranchess.github.io/blob/main/images/shankland2.png?raw=true">
 
-Şimdi durum Stockfh'e göre daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor.
+Stockfish'e göre durum daha farklı. Beyaz sadece 36.b3!! oynayarak kazanabiliyor.
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/(A) Shankland_(A) Grischuk_2022.pgn" style="max-width:100%;"></div>  
