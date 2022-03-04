@@ -189,6 +189,8 @@ _28.Kc8+_
 
 _28...Kd8_
 
+[28...Sf7 29.Vf5 Fc6 30.Vh5+ Se6 (30...g6 31.Vxh7+ Se6 32.Vxg6) 31.Ke8]
+
 <div class="cbdiagram"
 data-size="400"
 data-fen="2Rr2k1/1p2q1pp/1p3p2/1b6/5Q2/P2pPPP1/1B1P3P/6K1 w - - 0 1"
@@ -197,8 +199,6 @@ data-legend="28...Kd8 sonrası konum: Beyaz Oynar Kazanır!">
 </div>
 
 Oyunun doruk noktası! Yine varyantların hesaplanması meselesini ele almayı gerektiriyor. Siyahın korumasız b5-karesindeki fili, d8-karesinde gevşek kalesi ve zayıf şahı taktik temaların belirleyicisi durumunda.
-
-[28...Sf7 29.Vf5 Fc6 30.Vh5+ Se6 (30...g6 31.Vxh7+ Se6 32.Vxg6) 31.Ke8]
 
 _29.Fxf6!! gxf6 30.Vg4+ Sf8_
 
