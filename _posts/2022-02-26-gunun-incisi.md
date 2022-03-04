@@ -134,15 +134,21 @@ _17.Ac5 b6 18.Ff4 Ve7 19.Axd7 Axd7 20.Kc7_
   data-size="400"
   data-fen="r4rk1/2Rnqpbp/1p2p1p1/p2p4/3P1B2/3P1N1P/PP1Q1PP1/4R1K1 b - - 0 1"
   data-buttons="0"
-  data-legend="Siyah Oynar">
+  data-legend="20.Kc7 sonrası konum">
   </div>
 
-
- Beyazın aktif taş oyunu sürüyor.
+Beyazın aktif taş oyunu sürüyor.
 
  _20...Kfc8 21.Kec1 Vd8 22.Vc2!_
 
- Önemli bir karar! Siyahın oyun sonuna gitmek istediğini söylemiştik ancak **beyazın inisiyatifi oyunsonunda da devam ediyor**. Taş değişimleri beyazın aktif taş oyununu etkilemiyor.
+ <div class="cbdiagram"
+  data-size="400"
+  data-fen=" r1rq2k1/2Rn1pbp/1p2p1p1/p2p4/3P1B2/3P1N1P/PPQ2PP1/2R3K1 b - - 0 22"
+  data-buttons="0"
+  data-legend="22.Vc2 sonrası konum">
+  </div>
+
+Önemli bir karar! Siyahın oyun sonuna gitmek istediğini söylemiştik ancak **beyazın inisiyatifi oyunsonunda da devam ediyor**. Taş değişimleri beyazın aktif taş oyununu etkilemiyor.
 
  _22...Kxc7 23.Vxc7 Vxc7 24.Kxc7 Kd8_
 
