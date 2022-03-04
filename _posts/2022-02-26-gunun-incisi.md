@@ -121,7 +121,7 @@ Aktif taş oyunu sürdürülmeli **Fd7 gelmeden**! Şimdi beyazın c-dikeyinde o
 
  <div class="cbdiagram"
   data-size="400"
-  data-fen=" r1b2rk1/1p3pbp/3qpnp1/p2p2B1/N2P4/3P1N1P/PP1Q1PP1/R3R1K1 w - - 0 16"
+  data-fen="r1b2rk1/1p3pbp/3qpnp1/p2p2B1/N2P4/3P1N1P/PP1Q1PP1/R3R1K1 w - - 0 16"
   data-buttons="0"
   data-legend="15...a5 sonrası konum">
   </div>
