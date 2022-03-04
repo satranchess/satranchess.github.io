@@ -167,6 +167,13 @@ Beyazın aktif taş oyunu sürüyor.
 
  _25...Şf8_
 
+ <div class="cbdiagram"
+ data-size="400"
+ data-fen=" 3r1k2/1R1n1pbp/1p2p1p1/p2p4/3P1B2/3P1N1P/PP3PP1/6K1 w - - 0 26"
+ data-buttons="0"
+ data-legend="25...Şf8 sonrası konum">
+ </div>
+
 ### **İLERİ KARAKOL**
 
 Eğer **zayıf bir kare**de (piyonlar tarafından savunulamayan özellikle rakibe erişimi yüksek) taşlarımızı konumlandırabilirsek çok etkili olacağı söylenebilir.
