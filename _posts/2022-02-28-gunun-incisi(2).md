@@ -60,7 +60,16 @@ _10.Axd4 exd4_
 
 [10...Fxd4 11.b4 Ke8 12.Fb2 c6 13.e3 Fb6 14.Aa4 Fc7 15.Ac5 Beyaz fillerinin etkinliğini arttırmak için çabalarken siyah için kolay bir plandan söz etmek zor olacaktı.]
 
-_11.b4 Fb6_
+_11.b4_
+
+<div class="cbdiagram"
+data-size="400"
+data-fen="r1bq1rk1/ppp2ppp/5n2/2b1p3/3n4/P1N2NP1/1PQPPPBP/R1B2RK1 w - - 0 10 "
+data-buttons="0"
+data-legend="11.b4 sonrası konum">
+</div>
+
+_11...Fb6_
 
 [11...Fe7!? Siyah belki de Ke8 ile devam etmek istediği için filini saklamaya çalışmıyor, ancak oyundan anlaşıldığı kadarıyla filini oyunda tutmaya çalışması daha iyi olabilirdi.;
 11...dxc3 12.bxc5 cxd2 13.Fxd2 Ke8 14.Kfe1 c6 Beyazın **fil çifti ve şah-kanadı piyon çoğunluğu** kendisine iyi bir oyun verir.]
@@ -109,7 +118,7 @@ Aşağıdaki varyantları **ters renkli filler** konusunda aktif file sahip olan
 [18...Kxe4
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r5k1/1ppq1ppp/1p6/5b2/1PQ1r3/P2pP1P1/1B1P1P1P/R4RK1 w - - 0 19"
 data-buttons="0"
 data-legend="Analiz diyagramı 18...Kxe4 sonrası konum">
@@ -124,7 +133,7 @@ _19.f3 Fc6 20.Kac1 Ke7 21.Vf4 f6_
 [21...Fa4 22.Kc4 Fc2
 
 <div class="cbdiagram"
-data-size="300"
+data-size="400"
 data-fen="r5k1/1ppqrppp/1p6/8/1PR2Q2/P2pPPP1/1BbP3P/5RK1 w - - 0 1"
 data-buttons="0"
 data-legend="Beyaz Oynar Kazanır">
@@ -162,6 +171,13 @@ _24...Fxb5 25.Ke4!_
 c7-piyonunun savunmasını yok etmek amacıyla.
 
 [Hemen 25.Kxc7 Kxc7 26.Kxc7 Fc6 yeterli olmazdı.]
+
+<div class="cbdiagram"
+data-size="400"
+data-fen="3r2k1/1pp1r1pp/1p2qp2/1b6/4RQ2/P2pPPP1/1B1P3P/2R3K1 b - - 0 25"
+data-buttons="0"
+data-legend="25.Ke4 sonrası konum">
+</div>
 
 _25...Vf7 26.Kxe7 Vxe7 27.Kxc7 Kd7_
 
