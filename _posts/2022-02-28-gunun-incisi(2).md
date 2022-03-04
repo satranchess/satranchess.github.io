@@ -230,6 +230,13 @@ _37...Şg7_
 
 [37...b4 38.Vc4 b6 39.Vb5 Vd6 40.d4]
 
+<div class="cbdiagram"
+data-size="400"
+data-fen="8/1p2q1kp/5p2/1p6/8/2Q1PPP1/3PK2P/8 w - - 0 38"
+data-buttons="0"
+data-legend="37...Şg7 sonrası konum">
+</div>
+
 _38.Vd4 Vf7 39.Vg4+ Şh8 40.Vb4 Ve8 41.Vd6 Vf7 42.Vc5 Ve8 43.g4 Şg7 44.h4 Vd7 45.h5 Şg8_
 
 [45...Şh6 46.d4 Şg7 47.e4]
