@@ -97,7 +97,7 @@ Oyunun sonraki bölümü aynı şekilde öğretici. Beyaz şah kanadında piyon 
      data-size="400"
      data-fen="2r5/p2b2k1/1p3p2/3p1Pp1/1P1P4/P2B1P2/3K2P1/R7 w - - 0 42"
      data-buttons="0"
-     data-legend="41...Kc8 sonraki konum">
+     data-legend="41...Kc8 sonrası konum">
 </div>
 
 _42.b5!_
@@ -115,6 +115,13 @@ _43...Kc8_
 
 [43...Kh2+ 44.Se3]
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="2r5/p2b2k1/1p3p2/1P1p1Pp1/3P2P1/P2B1P2/3K4/R7 w - - 0 44"
+     data-buttons="0"
+     data-legend="43...Kc8 sonrası konum">
+</div>
+
 _44.a4 Sf8 45.a5 Se7_
 
 [45...bxa5 46.Kxa5 Kc7 47.Se3 Beyaz bu varyantta da f4 sürüşünü hazırlayacak ancak c-dikeyinden gelecek saldırılara dikkat etmek kaydıyla. 47...Se7 48.f4 gxf4+ 49.Sxf4 Kc3 50.Se3 Kc7 51.Ka6 Kb7 52.Sf4 Fxb5 53.Fxb5 Kxb5 54.Kxa7++-]
@@ -125,7 +132,7 @@ _46.axb6 axb6 47.Ka7 Kb8_
      data-size="400"
      data-fen="1r6/R2bk3/1p3p2/1P1p1Pp1/3P2P1/3B1P2/3K4/8 w - - 0 48"
      data-buttons="0"
-     data-legend="47...Kb8 sonraki konum">
+     data-legend="47...Kb8 sonrası konum">
      </div>
 
 Beyaz kale başarıyla etkinleştirildi, ancak daha fazla ilerleme kaydetmenin yolu var mı?
@@ -140,6 +147,13 @@ Siyah umutsuz konumda son denemesini yapıyor.
 
 [51...Kg8 Pat denemesi?! 52.Kb7 Kxg4+!? 53.Sxg4 Fxf5+ 54.Sf4 Fxd3 55.Kxb6++-]
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="4r3/R7/1p1k1p2/1b1p1P2/3P1KP1/3B4/8/8 w - - 0 52"
+     data-buttons="0"
+     data-legend="51...Fb5 sonrası konum">
+     </div>
+
 _52.Fxb5 Ke4+ 53.Sf3 Kf4+_
 
 Yine pat fikriyle.
@@ -148,6 +162,16 @@ _54.Se3 Ke4+ 55.Sf2 Kf4+ 56.Se1 Kxd4_
 
 [56...Ke4+ 57.Fe2]
 
-_57.Ka4!_ En kolayı! _57...Kxa4 58.Fxa4 Se5 59.Sd2 Sf4 60.Fd1 d4 61.Sd3 Se5 62.Sc4 Se4 63.Fc2+ Se3 64.Fb1_ Siyah terk eder.
+_57.Ka4!_ En kolayı!
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="8/8/1p1k1p2/1B1p1P2/R2r2P1/8/8/4K3 b - - 0 57"
+     data-buttons="0"
+     data-legend="57.Ka4 sonrası konum">
+     </div>
+8/8/1p1k1p2/1B1p1P2/R2r2P1/8/8/4K3 b - - 0 57
+
+_57...Kxa4 58.Fxa4 Se5 59.Sd2 Sf4 60.Fd1 d4 61.Sd3 Se5 62.Sc4 Se4 63.Fc2+ Se3 64.Fb1_ Siyah terk eder.
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Aronian_Gujrathi_2022.pgn" style="max-width:100%;"></div>
