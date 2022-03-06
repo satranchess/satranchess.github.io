@@ -3,7 +3,7 @@ layout: post
 title: "İlginç Bir Piyon Finali!"
 tagline: "2022 Fide Grand Prix ikinci ayağı Belgrad'da başladı. Oldukça çekişmeli oyunlara sahne olan en üst düzey satranç organizasyonlarından Grand-Prix'de karşıma çıkan dikkat çekici bir konumu sizlerle paylaşmak istedim. Shankland ile Grischuk arasında oynanan oyunun son bölümü oldukça ilginç idi. Beyazların ne yaparsa yapsın kazandığı düşünülebilecek bir konumun derinine inince işlerin o kadar kolay olmadığı fark ediliyor. Satranç motorlarının artık kesin zaferini ilan ettiği günümüzde yine de sürekli tetikte olmak gerekiyor!"
 tags: [turnuva, taktik]
-date: 2022-03-02
+date: 2022-03-03
 diagram: "8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36"
 ---
 
