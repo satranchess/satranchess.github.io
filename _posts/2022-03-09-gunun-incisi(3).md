@@ -57,7 +57,7 @@ Açılış bölümünün en güzel hamlesi ve belli ki Giri'nin ev hazırlığı
 
 _13...Vc8_
 
-div class="cbdiagram"
+<div class="cbdiagram"
 data-size="400"
 data-fen="r2q1rk1/1pp2pp1/1bn1b2p/p2np3/2B1N3/1PPP1N1P/P2Q1PP1/R1B1R1K1 b - - 0 1
 data-buttons="0"
@@ -134,8 +134,6 @@ data-buttons="0"
 data-legend="17.Ke4 sonrası konum">
 </div>
 
-
-
 Stockfish'in basitçe 17.Kad1 oynamayı istediği bu anda Giri kalelerini e-dikeyinde çiftlemek istiyor. Giri'nin fikri siyahın exd4 alışından sonra e-dikeyinin açılacak olmasına dayanıyor.
 
 _17...a4_ Siyah doğal olarak vezir kanadında aktif oyun arayışında
@@ -161,8 +159,7 @@ _20...Ag5 21.Axg5 hxg5 22.b5 Aa7_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="
-r5k1/nppq1rp1/1b3p2/1P2p1p1/p2PR3/B1P3NP/P2Q1PP1/4R1K1 w - - 0 1"
+data-fen="r5k1/nppq1rp1/1b3p2/1P2p1p1/p2PR3/B1P3NP/P2Q1PP1/4R1K1 w - - 0 1"
 data-buttons="0"
 data-legend="22...Aa7 sonrası konum">
 </div>
