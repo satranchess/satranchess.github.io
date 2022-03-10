@@ -43,7 +43,7 @@ Nadir rastlanan bu hamle ilk olarak 2017 senesinde **yazışmalı satranç** ust
 
 _10...d5_
 
-Önceki hamleyle uyumlu bu ilerleme yerine 10... Fb6 hamlesinin daha çok oynanmasının nedeni Af1 hamlesini bekleyerek ve fili güvenli bir kareye çekerek Giri'nin birazdan göreceğimiz 12.Ae4 hamlesini engelleme çabası.
+Önceki hamleyle uyumlu bu ilerleme yerine 10... Fb6 hamlesinin daha çok oynanmasının nedeni Af1 hamlesini bekleyerek Giri'nin birazdan göreceğimiz 12.Ae4 hamlesini engelleme çabası. Aynı zamanda İtalyan Açılışı'nda pek çok kez görüldüğü üzere beyazın d4-ilerlemesi de gözetilerek filin daha güvenli bir kareye çekilmesi yine tipiktir.
 
 [10...Fb6 11.Af1 d5 12.exd5 Axd5 ve şimdi Siyah Vf6 ile vezirine güzel bir yer bulabilir. Oyunda bunun gerçekleşmediğini ve siyahın sorunlarla karşılaştığını göreceğiz.]
 
