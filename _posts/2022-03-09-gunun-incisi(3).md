@@ -27,7 +27,7 @@ data-legend="8.Abd2 sonrası konum">
 
 _8...a5_
 
-Bu piyon sürüşünün son yıllardaki kullanımı İtalyan Açılışı'nın gelişimine ve zenginliğine dair fikir verebilir. Eskiden neredeyse ...a6 sürüşü dışında piyon ilerleyişi görülmezken şimdi .. .a5 hamlesi ana varyant statüsüne kavuşmuş durumda. Vezir kanadında alan kazanan bu hamle beyazın b4-sürüşüne alınmış bir tedbirken, a7 karesi de fil için boşaltılıyor. Kötü yanı ise b5-karesinin zayıflatılması nedeniyle sürekli Fb5 fikirlerine(e5 piyonunun zayıflığı nedeniye) bakmak gerekiyor.
+Bu piyon sürüşünün son yıllardaki kullanımı İtalyan Açılışı'nın gelişimine ve zenginliğine dair fikir verebilir. Eskiden neredeyse ...a6 sürüşü dışında piyon ilerleyişi görülmezken şimdi .. .a5 hamlesi ana varyant statüsüne kavuşmuş durumda. Vezir kanadında alan kazanan bu hamle beyazın b4-sürüşüne alınmış bir tedbirken, a7 karesi de fil için boşaltılıyor. Kötü yanı ise b5-karesinin zayıflatılması nedeniyle sürekli Fb5 fikirlerine (e5 piyonunun zayıflığı nedeniye) bakmak gerekiyor.
 
 _9.h3 Fe6 10.b3!?_
 
