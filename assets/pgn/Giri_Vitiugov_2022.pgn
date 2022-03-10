@@ -1,0 +1,40 @@
+﻿[Event "Grand Prix 2022 Belgrade"]
+[Site "Belgrade, Serbia"]
+[Date "2022.03.03"]
+[Round "2.3"]
+[White "Giri, Anish"]
+[Black "Vitiugov, Nikita"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2772"]
+[BlackElo "2726"]
+[Annotator "Dogan,Nazmi Can"]
+[PlyCount "63"]
+[EventDate "2022.??.??"]
+[WhiteClock "0:10:11"]
+[BlackClock "0:02:36"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 h6 7. Re1 O-O 8. Nbd2
+a5 {[%csl Rb5]} 9. h3 Be6 10. b3 $5 {[%cal Ge6c4,Rb3c4]} d5 (10... Bb6 11. Nf1
+d5 12. exd5 Nxd5) 11. exd5 Nxd5 {[%csl Rd3,Re5]} 12. Ne4 Bb6 13. Qd2 $1 Qc8 (
+13... f5 14. Ng3 {[%csl Re5]} Qd6 15. a4 {[%cal Gc1a3]} Bc5 16. Bb5 {[%csl Re5]
+}) (13... a4 14. b4 Nf4 15. Bxe6 fxe6 $1 16. b5 Nxh3+ 17. gxh3 Rxf3 18. bxc6 $4
+Qh4) (13... Nf4 14. d4 $1) 14. Ng3 {[%csl Re5]} f6 {[%csl Re6,Rf7,Rg6,Rh7]} 15.
+d4 $1 Qd7 (15... exd4 16. Nh5 $1 {[%cal Ge1e6,Rh5f4,Rh5g7]} dxc3 17. Qd3 {
+[%csl Re6][%cal Gd3g6,Re1e6]} Ncb4 $4 18. Qg6 {[%csl Rg7]} Rf7 {[%cal Gf7g7]}
+19. Bxh6 {[%csl Rg7]} Bf5 20. Nxf6+ {[%cal Gc4f7]} Kf8 21. Bxg7+ (21. Qg5)
+21... Rxg7 22. Qh6 {[%cal Gf6h5,Ge1e8]}) 16. Ba3 {[%csl Rf8]} Rf7 17. Re4 {
+[%cal Ga1e1]} a4 {[%csl Rb3][%cal Ra4b3]} (17... exd4 18. cxd4 {[%cal Ga1e1,
+Re1e6]}) 18. b4 Nf4 19. Bxe6 Nxe6 20. Rae1 (20. Rd1 exd4 21. c4 {[%cal Gc4c5]})
+(20. d5 Ng5 {[%cal Gd7d2,Rg5f3,Rg5e4]}) 20... Ng5 21. Nxg5 hxg5 22. b5 Na7 (
+22... Nd8 {[%cal Gd8e6]} 23. Qe2 {[%cal Gg3f5,Ge2g4]}) 23. h4 Nxb5 {[%cal
+Gb5a3]} (23... gxh4 24. Rxh4) (23... g4 $1 24. Qd1 (24. Qc2 Nxb5 25. Bb4) 24...
+Nxb5 25. Bb4 c5 26. dxc5 Qxd1 27. Rxd1 Bxc5 28. Bxc5 Nxc3 29. Rd2 Nxe4 30. Nxe4
+) 24. hxg5 fxg5 (24... Nxa3 25. g6 Re7 26. Qe2 {[%cal Ge2h5]}) 25. Qxg5 Nxa3 (
+25... Nxc3 {[%cal Rb6d4]} 26. Rxe5 Bxd4 27. Re7 Bf6) 26. Rh4 (26. Qh5 Rf6 {
+[%cal Gf6h6]}) 26... Re8 (26... Rf6 27. Ne4) 27. Qh5 Rf6 28. Ne4 Rf5 29. Ng5
+Rxg5 30. Qxg5 c5 $4 {[%cal Gb6d8]} (30... Nc4 {[%csl Re5][%cal Gc4d6]} 31. Qg6
+Nd6 {[%cal Gd7f7]}) 31. Qg6 {[%cal Rg6b6,Gh4h7]} Bd8 32. Rh7 {[%cal Gg6h5]} (
+32. Rh7 Nc4 (32... Qf7 33. Rh8+) 33. Qh5 Kf8 34. dxe5 $18 {[%cal Gh7h8,Gh5g5]})
+1-0
+
