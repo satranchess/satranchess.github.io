@@ -8,7 +8,7 @@ image: "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroP
 photosource: "chess.com"
 ---
 
-## Devlerden Öğrenmek (1)
+# Devlerden Öğrenmek (1)
 
 En üst düzeyde oynanan oyunların içine girip anlaması zor olduğu herkesin kabulü. Ancak zor olanı basitleştirmek, parçalarına ayırmak anlamanın en kolay ve önemli yollarından birisi. Özellikle öğrenmek için hevesiniz varsa. Bu anlamıyla **2022 Fide Grand Prix** satrançseverler için elbette bolca öğretici materyal içeriyordu.
 
