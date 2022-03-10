@@ -280,7 +280,7 @@ Vitiugov filini savunmaya dönmeyi deniyor.
 
 _31.Vg6 Fd8 32.Kh7_
 
-ve devamında Vh5-Kh8 ile mat kurgusuna çare yok. Bu varyantta bile siyahın 32...Vf7 hamlesini 33.Kh8 ile vezir kaybetmesi nedeniyle oynayamaması atın neden d6-karesine ulaşması gerektiğini gösteriyor.
+ve devamında Vh5-Kh8 ile mat kurgusuna çare yok. Bu varyantta bile siyahın 32...Vf7 hamlesini 33.Kh8 ile vezir kaybetmesi nedeniyle oynayamaması atın neden d6-karesine ulaşması gerektiğini gösteriyor. Giri'nin yeniden gösterdiği gibi açılışta daha iyi hazırlıklı olan tarafın masa başında rakibine çözmesi zor sorular sorabilme avantajı bulunuyor. Ayrıca Vitiugov'un şahı tehlikeye girmeden daha güvenli oynamayı tercih etmesi durumunda neler olabileceğini izlemek öğretici olabilirdi.
 
 İzlenebilecek videolar
 
