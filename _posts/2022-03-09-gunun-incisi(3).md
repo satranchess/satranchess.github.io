@@ -230,8 +230,7 @@ _25...Axa3_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="
-r5k1/1ppq1rp1/1b6/4p1Q1/p2PR3/n1P3N1/P4PP1/4R1K1 w - - 0 1"
+data-fen="r5k1/1ppq1rp1/1b6/4p1Q1/p2PR3/n1P3N1/P4PP1/4R1K1 w - - 0 1"
 data-buttons="0"
 data-legend="25.Vxg5 sonrası konum">
 </div>
