@@ -4,11 +4,11 @@ title: "Günün İncisi(3)"
 tagline: "2022 Fide Grand-Prix 2. ayağı Belgrad'da oynanmaya başladı. Zorlu mücadelelerin yine bize öğreteceği pek çok şey var. Giri ile Vitiugov'un oynadığı 2.tur oyunu İtalyan Açılışı'nın modern ele alınışı konusunda örnekler görmek ve oyun ortasında heyecanlı bir mücadeleye tanıklık etmek isteyenlerin ilgisini çekebilir.'"
 tag: haber
 date: 2022-03-09
-image: "https://cdn.chess24.com/vHAee5PbT02vI6yKgOmszw/original/giri-beats-vitiugov.jpeg""
+image: "https://cdn.chess24.com/vHAee5PbT02vI6yKgOmszw/original/giri-beats-vitiugov.jpeg"
 photosource: "Mark Livshitz, FIDE"
 ---
 
-Giri,Anish (2772) - Vitiugov,Nikita (2726)  Fide Grand Prix İkinci Tur Mücadelesi Belgrad
+# Giri,Anish (2772) - Vitiugov,Nikita (2726)  Fide Grand Prix İkinci Tur Mücadelesi Belgrad
 
 _1.e4 e5 2.Af3 Ac6 3.Fc4 Fc5 4.0-0 Af6 5.d3 d6 6.c3 h6 7.Ke1 0-0 8.Abd2_
 
