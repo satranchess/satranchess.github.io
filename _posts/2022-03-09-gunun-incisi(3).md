@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Günün İncisi(3)"
+title: "Günün İncisi (3)"
 tagline: "2022 Fide Grand-Prix 2. ayağı Belgrad'da oynanmaya başladı. Zorlu mücadelelerin yine bize öğreteceği pek çok şey var. Giri ile Vitiugov'un oynadığı 2.tur oyunu İtalyan Açılışı'nın modern ele alınışı konusunda örnekler görmek ve oyun ortasında heyecanlı bir mücadeleye tanıklık etmek isteyenlerin ilgisini çekebilir.'"
 tag: haber
 date: 2022-03-09
