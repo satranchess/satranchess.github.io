@@ -113,6 +113,13 @@ _15.d4!_
 
 _15...Vd7_
 
+<div class="cbdiagram"
+data-size="400"
+data-fen="r4rk1/1ppq2p1/1bn1bp1p/p2np3/2BP4/1PP2NNP/P2Q1PP1/R1B1R1K1 w - - 0 16"
+data-buttons="0"
+data-legend="15...Vd7 sonrası konum">
+</div>
+
 ### **MERKEZ MÜCADELESİ VE KANAT OYUNU**
 
 Açılışın yavaş yavaş geride kalmasıyla birlikte merkez ve kanat oyunu üzerine birkaç söyleme şansı elde edeceğiz.
