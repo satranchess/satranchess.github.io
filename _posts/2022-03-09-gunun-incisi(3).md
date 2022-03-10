@@ -67,6 +67,8 @@ data-legend="13...Vc8 sonrası konum">
 
 Beyazın ilginç vezir hamlesine yine benzer şekilde ilginç bir yanıt! 10. hamleye dair notta siyah vezirin daha güzel konumlanışı incelenmişti. Şimdiyse kalelerinin bağlantısını kesen siyah vezir bir kez daha oynanmak zorunda kalacak. Siyah elbette 10...Vd7 hamlesini 11.Fb5 ile e5-piyonunu tehdit eden önemli bir açmazda kalacağı için reddetti. Açılış oyunu kısmında değinilen b5-karesinin zayıflığını yine görmekteyiz.
 
+[13...Af4 14.d4! ve siyah atın yeterince sağlam bir konumu olmadığı hatırlatılırdı.]
+
 [13...f5 14.Ag3 Vd6 Şimdiyse siyah vezir burada rahat bir şekilde konumlanamaz. 15.a4 Beyazın Fa3 fikri nedeniyle 13.Vd2 oynadığını görebildiğimiz güzel bir varyant. 15...Fc5 16.Fb5 Bu varyant siyahın 8.hamlesinin zayıf yönünü bir kez daha vurgulama şansı yaratırdı.;
 
 13...a4 Makinenin son derece keskin fikri beyazın rahatını bozmaya yönelik. 14.b4 Burada belki de 14.Kb1 hamlesi daha mantıklıdır. 14...Af4 (13...Af4 hamlesinin 14.d4! ile karşılanabildiğini görmüştük.) 15.Fxe6 fxe6!
@@ -78,10 +80,7 @@ data-buttons="0"
 data-legend="Analiz diyagramı 15...fxe6 sonrası konum">
 </div>
 
-Siyahın dikkat çekici gelişim üstünlüğü harika bir saldırı etmesine olanak sağlıyor. Burada siyahın olası şah kanadı oyununu görme şansımız olurdu. Örneğin: 16.b5 Axh3+ 17.gxh3 Kxf3 18.bxc6?? Vh4 Siyahın mükemmel taşlarıyla feda ettiği atına karşılık kazanan bir saldırısı olurdu.;
-
-
-13...Af4 14.d4! ve siyah atın yeterince sağlam bir konumu olmadığı hatırlatılırdı.]
+Siyahın dikkat çekici gelişim üstünlüğü harika bir saldırı etmesine olanak sağlıyor. Burada siyahın olası şah kanadı oyununu görme şansımız olurdu. Örneğin: 16.b5 Axh3+ 17.gxh3 Kxf3 18.bxc6?? Vh4 Siyahın mükemmel taşlarıyla feda ettiği atına karşılık kazanan bir saldırısı olurdu.]
 
 _14.Ag3 f6_
 
@@ -113,7 +112,7 @@ data-buttons="0"
 data-legend="Analiz diyagramı 15...exd4 sonrası konum">
 </div>
 
-16.Ah5! Şah kanadı saldırısını gösteren ilk konumda beyaz şimdş Axg7 fedasını, hem de Kxe6-Af4 fikrini hazırlıyor.
+16.Ah5! Şah kanadı saldırısını gösteren ilk konumda beyaz şimdi Axg7 fedasını, hem de Kxe6-Af4 fikrini hazırlıyor.
 
 16...dxc3 17.Vd3 Kxe6 veya Vg6 tehditleriyle. 17...Acb4?? Ke6 engelleniyor fakat şah-kanadı saldırısının gücünü görmemiz için bir imkan sunuyor :) 18.Vg6 Kf7 19.Fxh6 Ff5
 
@@ -154,7 +153,7 @@ data-legend="19...Axe6 sonrası konum">
 
 _20.Kae1_
 
-20.d5 hamlesi 20...Ag5 ile karşılanabilirdi ve d-dikeyindeki açmazdan ötürü beyaz taş kazanamaz. Giri analizlerinde ilk kaçırdığı varyantın bu olduğunu söylüyor. Ancak yine de Stockfish bu anda tasarlanan 20.Kae1 yerine d5 sürme tehdidiyle 20.Kd1'i oynamak istiyor.
+20.d5 hamlesi 20...Ag5 ile karşılanabilirdi ve d-dikeyindeki açmazdan ötürü beyaz taş kazanamaz. Giri [analizlerinde](https://www.youtube.com/watch?v=_gqjbst2ZCw&t=237s) ilk kaçırdığı varyantın bu olduğunu söylüyor. Ancak yine de Stockfish bu anda tasarlanan 20.Kae1 yerine d5 sürme tehdidiyle 20.Kd1'i oynamak istiyor.
 
 [20.Kd1 exd4 21.c4 Stockfish c4-c5 ile siyah fili oyun dışı bırakmayı tercih ediyor.]
 
