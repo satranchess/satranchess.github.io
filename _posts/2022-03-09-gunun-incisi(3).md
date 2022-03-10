@@ -135,7 +135,7 @@ data-legend="Analiz diyagramı 15...exd4 sonrası konum">
 
 16.Ah5! Şah kanadı saldırısını gösteren ilk konumda beyaz şimdi hem Axg7 fedasını, hem de Kxe6-Af4 fikrini hazırlıyor.
 
-16...dxc3 17.Vd3 Kxe6 veya Vg6 tehditleriyle. 17...Acb4?? Ke6 engelleniyor fakat şah-kanadı saldırısının gücünü görmemiz için bir imkan sunuyor :) 18.Vg6 Kf7 19.Fxh6 Ff5
+16...dxc3 17.Vd3 (Kxe6 veya Vg6 tehditleriyle) 17...Acb4?? Ke6 engelleniyor fakat şah-kanadı saldırısının gücünü görmemiz için bir imkan sunuyor :) 18.Vg6 Kf7 19.Fxh6 Ff5
 
 <div class="cbdiagram"
 data-size="400"
