@@ -146,7 +146,7 @@ _18.b4 Af4 19.Fxe6 Axe6_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="r5k1/1ppq1rp1/1bn1np1p/4p3/pP1PR3/B1P2NNP/P2Q1PP1/R5K1 w - - 0 1"
+data-fen="r5k1/1ppq1rp1/1bn1np1p/4p3/pP1PR3/B1P2NNP/P2Q1PP1/R5K1 w - - 0 20"
 data-buttons="0"
 data-legend="19...Axe6 sonrası konum">
 </div>
