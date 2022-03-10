@@ -10,7 +10,7 @@ photosource: "Mark Livshitz, FIDE"
 
 # Anish Giri - Nikita Vitiugov  Fide Grand Prix İkinci Tur Mücadelesi Belgrad
 
-2022 Fide Grand Prix ilk ayağı Berlin'de Nakamura'nın turnuvayı kazanmasıyla sonuçlanmıştı. Belgrad'da oynanan ikinci ayakta Andreikin, Vachier-Lagrave, Rapport ve Giri gruplarından çıkmayı başarmışlardı. Aşağıdaki oyun Giri'nin grubundan birinci olarak sonraki aşamaya geçmesinin önemli bir halkası olarak karşımıza çıkıyor.
+2022 Fide Grand Prix ilk ayağı Berlin'de Nakamura'nın turnuvayı kazanmasıyla sonuçlanmıştı. Belgrad'da devam eden ikinci ayakta Andreikin, Vachier-Lagrave, Rapport ve Giri gruplarından çıkmayı başarmışlardı. Aşağıdaki oyun Giri'nin grubundan birinci olarak sonraki aşamaya geçmesinin önemli bir halkası olarak karşımıza çıkıyor.
 
 _1.e4 e5 2.Af3 Ac6 3.Fc4 Fc5 4.0-0 Af6 5.d3 d6 6.c3 h6 7.Ke1 0-0 8.Abd2_
 
