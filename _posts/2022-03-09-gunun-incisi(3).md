@@ -199,7 +199,7 @@ data-legend="23.h4 sonrası konum">
 
 _23...Axb5_
 
-Çok riskli ancak mümkün. Şah kanadını kapalı tutan 23... g4 hamlesinden sonra durum yine hayli belirsiz olurdu. Siyah için oyunun belki de en önemli noktasının burası olduğu söylenebilir. [23...gxh4 24.Kxh4 ve devamında Vd3 ile bitirici saldırı hız kazanırdı.;
+Çok riskli ancak mümkün. Şah kanadını kapalı tutan 23... g4! hamlesinden sonra durum yine hayli belirsiz olurdu. Siyah için oyunun belki de en önemli noktasının burası olduğu söylenebilir. [23...gxh4 24.Kxh4 ve devamında Vd3 ile bitirici saldırı hız kazanırdı.
 23...g4! Eğer oyunun her bölümü bize bir ders sunacaksa, **şahımıza doğru bir saldırıyla karşılaştığımızda şahımızın bulunduğu kanattaki hatları kapalı tutmak ve merkezden karşı saldırıya odaklanmak en güvenli savunma yöntemlerinden biridir** diyebiliriz. 24.Vd1 Axb5 25.Fb4 c5 Giri'nin oyun sonrası röportajında analiz ederken fark ettiği önemli bir devam yolu. Siyahın kanat oyununa karşı merkezde harika bir karşı oyunu olurdu.
 
 <div class="cbdiagram"
