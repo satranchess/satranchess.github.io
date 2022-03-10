@@ -164,7 +164,7 @@ data-size="400"
 data-fen="
 r5k1/nppq1rp1/1b3p2/1P2p1p1/p2PR3/B1P3NP/P2Q1PP1/4R1K1 w - - 0 1"
 data-buttons="0"
-data-legend="19...Axe6 sonrası konum">
+data-legend="22...Aa7 sonrası konum">
 </div>
 
 
@@ -176,13 +176,22 @@ _23.h4_ Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan b
 data-size="400"
 data-fen="r5k1/nppq1rp1/1b3p2/1P2p1p1/p2PR2P/B1P3N1/P2Q1PP1/4R1K1 b - - 0 23"
 data-buttons="0"
-data-legend="19...Axe6 sonrası konum">
+data-legend="23.h4 sonrası konum">
 </div>
 
 _23...Axb5_
 
 Çok riskli ancak mümkün. Şah kanadını kapalı tutan 23... g4 hamlesinden sonra durum yine hayli belirsiz olurdu. Birazdan göreceğimiz gibi pratik olarak şah kanadını kapalı tutmak şah kanadını saldırısını savunmaktan daha zor oluyor. Siyah için oyunun belki de en önemli noktasının burası olduğu söylenebilir. [23...gxh4 24.Kxh4 ve devamında Vd3 ile bitirici saldırı hız kazanırdı.;
-23...g4! Eğer oyunun her bölümü bize bir ders sunacaksa, **şahımıza doğru bir saldırıyla karşılaştığımızda şahımızın bulunduğu kanattaki hatları kapalı tutmak ve merkezden karşı saldırıya odaklanmak en güvenli savunma yöntemlerinden biridir** diyebiliriz. 24.Vd1 Axb5 25.Fb4 c5 Giri'nin oyun sonrası röportajında analiz ederken fark ettiği önemli bir devam yolu. Siyahın kanat oyununa karşı merkezde harika bir karşı oyunu olurdu. 26.dxc5 Vxd1 27.Kxd1 Fxc5 28.Fxc5 Axc3 29.Kd2 Axe4 30.Axe4 Siyah materyal fazlasıyla çok üstün olurdu.]
+23...g4! Eğer oyunun her bölümü bize bir ders sunacaksa, **şahımıza doğru bir saldırıyla karşılaştığımızda şahımızın bulunduğu kanattaki hatları kapalı tutmak ve merkezden karşı saldırıya odaklanmak en güvenli savunma yöntemlerinden biridir** diyebiliriz. 24.Vd1 Axb5 25.Fb4 c5 Giri'nin oyun sonrası röportajında analiz ederken fark ettiği önemli bir devam yolu. Siyahın kanat oyununa karşı merkezde harika bir karşı oyunu olurdu.
+
+<div class="cbdiagram"
+data-size="400"
+data-fen="r5k1/1p1q1rp1/1b3p2/1np1p3/pB1PR1pP/2P3N1/P4PP1/3QR1K1 w - - 0 26"
+data-buttons="0"
+data-legend="Analiz diyagramı 25...c5 sonrası konum">
+</div>
+
+26.dxc5 Vxd1 27.Kxd1 Fxc5 28.Fxc5 Axc3 29.Kd2 Axe4 30.Axe4 Siyah materyal fazlasıyla çok üstün olurdu.]
 
 _24.hxg5_
 
