@@ -42,6 +42,13 @@ _10...d5_
 
 _11.exd5 Axd5_
 
+<div class="cbdiagram"
+data-size="400"
+data-fen="r2q1rk1/1pp2pp1/2n1b2p/p1bnp3/2B5/1PPP1N1P/P2N1PP1/R1BQR1K1 w - - 0 12"
+data-buttons="0"
+data-legend="11.Axd5 sonrası konum">
+</div>
+
 Bu değişimle birlikte yeni bir piyon yapısına gidiyoruz. İtalyan Açılışı için tipik olan bu piyon yapısında beyazın d3-piyonu zayıf bir durumdayken, e5-piyonunun da benzer şekilde değerlendirilebileceğini göreceğiz. Beyazın fikirleri arasında e5-karesine baskı yapmak varken, merkezde d4-sürüşü ve şah kanadı saldırısı diğer fikirler olarak karşımıza çıkıyor. Bundan sonra merkez mücadelesini ve bunun kanatlara yansımasının çok güzel bir örneğini ele alacağız.
 
 _12.Ae4 Fb6 13.Vd2!_
