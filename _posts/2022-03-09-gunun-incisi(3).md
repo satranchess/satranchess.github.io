@@ -66,7 +66,7 @@ _13...Vc8_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="r2q1rk1/1pp2pp1/1bn1b2p/p2np3/2B1N3/1PPP1N1P/P2Q1PP1/R1B1R1K1 b - - 0 1
+data-fen="r2q1rk1/1pp2pp1/1bn1b2p/p2np3/2B1N3/1PPP1N1P/P2Q1PP1/R1B1R1K1 b - - 0 1"
 data-buttons="0"
 data-legend="13...Vc8 sonrası konum">
 </div>
