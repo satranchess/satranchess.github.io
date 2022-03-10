@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Devlerden Öğrenmek"
-tagline: "2022 Fide Grand-Prix 2. ayağı Belgrad'da oynanmaya başladı. Zorlu mücadelelerin yine bize öğreteceği pek çok şey var. Giri ile Vitiugov'un oynadığı 2.tur oyunu İtalyan Açılışı'nın modern ele alınışı konusunda örnekler görmek ve oyun ortasında heyecanlı bir mücadeleye tanıklık etmek isteyenlerin ilgisini çekebilir.'" 
+title: "Günün İncisi(3)"
+tagline: "2022 Fide Grand-Prix 2. ayağı Belgrad'da oynanmaya başladı. Zorlu mücadelelerin yine bize öğreteceği pek çok şey var. Giri ile Vitiugov'un oynadığı 2.tur oyunu İtalyan Açılışı'nın modern ele alınışı konusunda örnekler görmek ve oyun ortasında heyecanlı bir mücadeleye tanıklık etmek isteyenlerin ilgisini çekebilir.'"
 tag: haber
 date: 2022-02-16
 image: "https://cdn.chess24.com/vHAee5PbT02vI6yKgOmszw/original/giri-beats-vitiugov.jpeg""
