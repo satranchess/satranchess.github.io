@@ -172,6 +172,13 @@ Giri'nin kaçırdığı ikinci hamle. Oyundan sonra belirttiği gibi kendisine g
 
 _23.h4_ Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan biteni şimdilik görmezden geliyor.
 
+<div class="cbdiagram"
+data-size="400"
+data-fen="r5k1/nppq1rp1/1b3p2/1P2p1p1/p2PR2P/B1P3N1/P2Q1PP1/4R1K1 b - - 0 23"
+data-buttons="0"
+data-legend="19...Axe6 sonrası konum">
+</div>
+
 _23...Axb5_
 
 Çok riskli ancak mümkün. Şah kanadını kapalı tutan 23... g4 hamlesinden sonra durum yine hayli belirsiz olurdu. Birazdan göreceğimiz gibi pratik olarak şah kanadını kapalı tutmak şah kanadını saldırısını savunmaktan daha zor oluyor. Siyah için oyunun belki de en önemli noktasının burası olduğu söylenebilir. [23...gxh4 24.Kxh4 ve devamında Vd3 ile bitirici saldırı hız kazanırdı.;
