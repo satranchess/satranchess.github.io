@@ -10,7 +10,7 @@ photosource: "Mark Livshitz, FIDE"
 
 # Anish Giri - Nikita Vitiugov  Fide Grand Prix İkinci Tur Mücadelesi Belgrad
 
-2022 Fide Grand Prix ilk ayağı Berlin'de Nakamura'nın turnuvayı kazanmasıyla sonuçlanmıştı. Belgrad'da devam eden ikinci ayakta Andreikin, Vachier-Lagrave, Rapport ve Giri gruplarından çıkmayı başarmışlardı. Aşağıdaki oyun Giri'nin grubundan birinci olarak sonraki aşamaya geçmesinin önemli bir halkası olarak karşımıza çıkıyor.
+2022 Fide Grand Prix ilk ayağı Berlin'de **Hikaru Nakamura**'nın turnuvayı kazanmasıyla sonuçlanmıştı. Belgrad'da devam eden ikinci ayakta Andreikin, Vachier-Lagrave, Rapport ve Giri gruplarından çıkmayı başarmışlardı. Aşağıdaki oyun Giri'nin grubundan birinci olarak sonraki aşamaya geçmesinin önemli bir halkası olarak karşımıza çıkıyor. (_Aşağıda diyagramlar üzerinde hamleleri oynatabilir ve klavye yardımıyla ileri geri hareket ettirebilirsiniz._)
 
 _1.e4 e5 2.Af3 Ac6 3.Fc4 Fc5 4.0-0 Af6 5.d3 d6 6.c3 h6 7.Ke1 0-0 8.Abd2_
 
@@ -163,7 +163,7 @@ data-legend="19...Axe6 sonrası konum">
 </div>
 
 
-Giri'nin kaçırdığı ikinci hamle. Kendisine göre "**üst üste kaçırılan iki hamle çok iyi bir konumu eşit hale getiriyor**." Siyah atın merkeze doğru dönüşünü uman beyaz şimdi bir şeyler yapmak zorunda b5 piyonu ve merkezi saldırı altında. Merkez mücadelesinin kanat oyunu ile birleştiğini gördüğümüz bu güzel oyunun zirve noktasına yavaş yavaş geliyoruz.
+Giri'nin kaçırdığı ikinci hamle. Oyundan sonra belirttiği gibi kendisine göre "**üst üste kaçırılan iki hamle çok iyi bir konumu eşit hale getiriyor**." Siyah atın merkeze doğru dönüşünü uman beyaz şimdi bir şeyler yapmak zorunda b5 piyonu ve merkezi saldırı altında. Merkez mücadelesinin kanat oyunu ile birleştiğini gördüğümüz bu güzel oyunun zirve noktasına yavaş yavaş geliyoruz.
 
 _23.h4_ Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan biteni şimdilik görmezden geliyor.
 
@@ -244,3 +244,11 @@ Vitiugov filini savunmaya dönmeyi deniyor.
 _31.Vg6 Fd8 32.Kh7_
 
 ve devamında Vh5-Kh8 ile mat kurgusuna çare yok. Bu varyantta bile siyahın 32...Vf7 hamlesini 33.Kh8 ile vezir kaybetmesi nedeniyle oynayamaması atın neden d6-karesine ulaşması gerektiğini gösteriyor.
+
+İzlenebilecek videolar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFiNH7X-g9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s5ASMyeg2mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dG3o5Y5hWdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
