@@ -85,7 +85,7 @@ Beyazın ilginç vezir hamlesine yine benzer şekilde ilginç bir yanıt! 10. ha
 
 [13...f5 14.Ag3 Vd6 Şimdiyse siyah vezir burada rahat bir şekilde konumlanamaz. 15.a4 Beyazın Fa3 fikri nedeniyle 13.Vd2 oynadığını görebildiğimiz güzel bir varyant. 15...Fc5 16.Fb5 Bu varyant siyahın 8.hamlesinin zayıf yönünü bir kez daha vurgulama şansı yaratırdı.;
 
-13...a4 Makinenin son derece keskin fikri beyazın rahatını bozmaya yönelik. 14.b4 Burada belki de 14.Kb1 hamlesi daha mantıklıdır. 14...Af4 (13...Af4 hamlesinin 14.d4! ile karşılanabildiğini görmüştük.) 15.Fxe6 fxe6!
+13...a4 Makinenin son derece keskin fikri beyazın rahatını bozmaya yönelik. 14.b4 (Burada belki de 14.Kb1 hamlesi daha mantıklıdır.) 14...Af4 (13...Af4 hamlesinin 14.d4! ile karşılanabildiğini görmüştük.) 15.Fxe6 fxe6!
 
 <div class="cbdiagram"
 data-size="400"
