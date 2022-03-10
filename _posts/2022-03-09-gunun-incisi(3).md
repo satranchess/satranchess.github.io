@@ -14,6 +14,13 @@ photosource: "Mark Livshitz, FIDE"
 
 _1.e4 e5 2.Af3 Ac6 3.Fc4 Fc5 4.0-0 Af6 5.d3 d6 6.c3 h6 7.Ke1 0-0 8.Abd2_
 
+<div class="cbdiagram"
+data-size="400"
+data-fen="r1bq1rk1/ppp2pp1/2np1n1p/2b1p3/2B1P3/2PP1N2/PP1N1PPP/R1BQR1K1 b - - 0 8"
+data-buttons="0"
+data-legend="8.Abd2 sonrası konum">
+</div>
+
 ### AÇILIŞ FELSEFESİ VE PİYON YAPISI
 
 [Satrançsever](https://www.satrancdukkanim.com/default.asp?git=7&kategori=6) dergisinde kısmen değinmeye çalıştığım **İtalyan Açılışı**'nda hamle sıralarmasının önemini üst düzey oyunlarda sık sık görmek mümkün, ancak detaylara vakıf olmak hayli zor. Bu turnuva Giri'nin İtalyan Açılışı'na dair hazırlığı oldukça dikkat çekici.
