@@ -21,7 +21,7 @@ data-buttons="0"
 data-legend="8.Abd2 sonrası konum">
 </div>
 
-### AÇILIŞ FELSEFESİ VE PİYON YAPISI
+### **AÇILIŞ FELSEFESİ VE PİYON YAPISI**
 
 [Satrançsever](https://www.satrancdukkanim.com/default.asp?git=7&kategori=6) dergisinde kısmen değinmeye çalıştığım **İtalyan Açılışı**'nda hamle sıralarmasının önemini üst düzey oyunlarda sık sık görmek mümkün, ancak detaylara vakıf olmak hayli zor. Bu turnuva Giri'nin İtalyan Açılışı'na dair hazırlığı oldukça dikkat çekici.
 
@@ -79,7 +79,7 @@ data-legend="13...Vc8 sonrası konum">
 </div>
 
 
-Beyazın ilginç vezir hamlesine yine benzer şekilde ilginç bir yanıt! 10. hamleye dair notta siyah vezirin daha güzel konumlanışı incelenmişti. Şimdiyse kalelerinin bağlantısını kesen siyah vezir bir kez daha oynanmak zorunda kalacak. Siyah elbette 10...Vd7 hamlesini 11.Fb5 ile e5-piyonunu tehdit eden önemli bir açmazda kalacağı için reddetti. Açılış oyunu kısmında değinilen b5-karesinin zayıflığını yine görmekteyiz.
+Beyazın ilginç vezir hamlesine yine benzer şekilde ilginç bir yanıt! 10. hamleye dair notta siyah vezirin daha güzel konumlanışı incelenmişti. Şimdiyse kalelerinin bağlantısını kesen siyah vezir bir kez daha oynamak zorunda kalacak. Siyah elbette 10...Vd7 hamlesini 11.Fb5 ile e5-piyonunu tehdit eden önemli bir açmazda kalacağı için reddetti. Açılış oyunu kısmında değinilen b5-karesinin zayıflığını yine görmekteyiz.
 
 [13...Af4 14.d4! ve siyah atın yeterince sağlam bir konumu olmadığı hatırlatılırdı.]
 
@@ -133,7 +133,7 @@ data-buttons="0"
 data-legend="Analiz diyagramı 15...exd4 sonrası konum">
 </div>
 
-16.Ah5! Şah kanadı saldırısını gösteren ilk konumda beyaz şimdi Axg7 fedasını, hem de Kxe6-Af4 fikrini hazırlıyor.
+16.Ah5! Şah kanadı saldırısını gösteren ilk konumda beyaz şimdi hem Axg7 fedasını, hem de Kxe6-Af4 fikrini hazırlıyor.
 
 16...dxc3 17.Vd3 Kxe6 veya Vg6 tehditleriyle. 17...Acb4?? Ke6 engelleniyor fakat şah-kanadı saldırısının gücünü görmemiz için bir imkan sunuyor :) 18.Vg6 Kf7 19.Fxh6 Ff5
 
