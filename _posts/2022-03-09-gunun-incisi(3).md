@@ -224,7 +224,7 @@ data-buttons="0"
 data-legend="25.Vxg5 sonrası konum">
 </div>
 
-a3'teki fili de bırakan bu devamyolu beyazın atağının doruk noktasını teşkil ediyor. Şimdi siyahın oyunda kalabilmek için tek hamleyi bulması gerekecek.
+Filini rakibe karşılıksız veren bu devamyolu beyazın atağının doruk noktasını teşkil ediyor. Şimdi siyahın oyunda kalabilmek için tek hamleyi bulması gerekecek.
 
 _25...Axa3_
 
