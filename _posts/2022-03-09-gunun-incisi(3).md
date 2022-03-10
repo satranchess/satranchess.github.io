@@ -219,8 +219,7 @@ _24...fxg5 25.Vxg5_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="
-r5k1/1ppq1rp1/1b6/1n2p1Q1/p2PR3/B1P3N1/P4PP1/4R1K1 b - - 0 1"
+data-fen="r5k1/1ppq1rp1/1b6/1n2p1Q1/p2PR3/B1P3N1/P4PP1/4R1K1 b - - 0 1"
 data-buttons="0"
 data-legend="25.Vxg5 sonrası konum">
 </div>
