@@ -167,7 +167,7 @@ data-legend="22...Aa7 sonrası konum">
 
 Giri'nin kaçırdığı ikinci hamle. Oyundan sonra belirttiği gibi kendisine göre "**üst üste kaçırılan iki hamle çok iyi bir konumu eşit hale getiriyor**." Siyah atın merkeze doğru dönüşünü uman beyaz şimdi bir şeyler yapmak zorunda b5 piyonu ve merkezi saldırı altında. Merkez mücadelesinin kanat oyunu ile birleştiğini gördüğümüz bu güzel oyunun zirve noktasına yavaş yavaş geliyoruz.
 
-_23.h4_ Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan biteni şimdilik görmezden geliyor.
+_23.h4_ Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan biteni şimdilik görmezden geliyor. Elbette artık doğru hesaplama önemi hiç olmadığı kadar önemli hale geliyor.
 
 <div class="cbdiagram"
 data-size="400"
