@@ -8,7 +8,7 @@ image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-p
 photosource: "worldchess.com"
 ---
 
-# Aronian - Keymer 2022 Fide Grand Prix 3. Tur Mücadelesi
+# Levon Aronian 2772 - VincentKeymer 2664 2022 Fide Grand Prix 3. Tur Mücadelesi
 
 **2022 Fide Grand Prix** incelemeye değer pek çok oyuna sahne olmuştu ve biz de buradan devam ediyoruz.
 Aronian ve Keymer arasındaki mücadelede, açılış hazırlığı ve oyun anlayışı konusunda çok önemli şeyleri görme şansımız olacak.  

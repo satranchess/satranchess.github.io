@@ -9,7 +9,7 @@ photosource: "worldchess.com"
 description: Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu.
 ---
 
-# Nakamura - Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi
+# Hikaru Nakamura 2736 - Andrey Esipenko 2714 2022 Fide Grand Prix 2. Tur Mücadelesi
 
 Aronian ve Keymer arasında oynanan [mücadeleyle](https://www.satranchess.net/2022/02/25/Haftanin_incisi.html) birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz. (En altta yer alan oynatıcıda varyantları ve oyunu ayrıca inceleyebilirsiniz.)
 
