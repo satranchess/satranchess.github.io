@@ -10,7 +10,7 @@ photosource: "Mark Livshitz, FIDE"
 
 # Anish Giri - Nikita Vitiugov  Fide Grand Prix İkinci Tur Mücadelesi Belgrad
 
-2022 Fide Grand Prix ilk ayağı Berlin'de **Hikaru Nakamura**'nın turnuvayı kazanmasıyla sonuçlanmıştı. Belgrad'da devam eden ikinci ayakta Andreikin, Vachier-Lagrave, Rapport ve Giri gruplarından çıkmayı başarmışlardı. Aşağıdaki oyun Giri'nin grubundan birinci olarak sonraki aşamaya geçmesinin önemli bir halkası olarak karşımıza çıkıyor. (_Aşağıda diyagramlar üzerinde hamleleri oynatabilir ve klavye yardımıyla ileri geri hareket ettirebilirsiniz._)
+2022 Fide Grand Prix ilk ayağı Berlin'de **Hikaru Nakamura**'nın turnuvayı kazanmasıyla sonuçlanmıştı. Belgrad'da devam eden ikinci ayakta Andreikin, Vachier-Lagrave, Rapport ve Giri gruplarından çıkmayı başarmışlardı. Aşağıdaki oyun Giri'nin grubundan birinci olarak sonraki aşamaya geçmesinin önemli bir halkası olarak karşımıza çıkıyor. (**Aşağıda diyagramlar üzerinde hamleleri oynatabilir ve klavye yardımıyla ileri geri hareket ettirebilirsiniz.**)
 
 _1.e4 e5 2.Af3 Ac6 3.Fc4 Fc5 4.0-0 Af6 5.d3 d6 6.c3 h6 7.Ke1 0-0 8.Abd2_
 
@@ -48,16 +48,22 @@ _12.Ae4 Fb6 13.Vd2!_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="r2q1rk1/1pp2pp1/1bn1b2p/p2np3/2B1N3/1PPP1N1P/P2Q1PP1/R1B1R1K1 b - - 0 1"
+data-fen="r2q1rk1/1pp2pp1/1bn1b2p/p2np3/2B1N3/1PPP1N1P/P2Q1PP1/R1B1R1K1 b - - 0 13"
 data-buttons="0"
 data-legend="13.Vd2 sonrası konum">
 </div>
 
-
-
 Açılış bölümünün en güzel hamlesi ve belli ki Giri'nin ev hazırlığının önemli bir parçası! 13.Fb2 hamlesi f4-karesini siyaha teslim ederken 13.Fd2 ise siyaha 13...f5 15.Ag3 Vd6 ile devam etme imkanı verir. Giri'nin orijinal seçimi Fa3 hamlesini saklama fikri taşırken siyaha nasıl devam etmesi gerektiğine dair önemli ve zor bir soru soruyor.
 
 _13...Vc8_
+
+div class="cbdiagram"
+data-size="400"
+data-fen="r2q1rk1/1pp2pp1/1bn1b2p/p2np3/2B1N3/1PPP1N1P/P2Q1PP1/R1B1R1K1 b - - 0 1
+data-buttons="0"
+data-legend="13...Vc8 sonrası konum">
+</div>
+
 
 Beyazın ilginç vezir hamlesine yine benzer şekilde ilginç bir yanıt! 10. hamleye dair notta siyah vezirin daha güzel konumlanışı incelenmişti. Şimdiyse kalelerinin bağlantısını kesen siyah vezir bir kez daha oynanmak zorunda kalacak. Siyah elbette 10...Vd7 hamlesini 11.Fb5 ile e5-piyonunu tehdit eden önemli bir açmazda kalacağı için reddetti. Açılış oyunu kısmında değinilen b5-karesinin zayıflığını yine görmekteyiz.
 
