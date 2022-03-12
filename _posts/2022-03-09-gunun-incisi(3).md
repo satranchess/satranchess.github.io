@@ -23,7 +23,7 @@ data-legend="8.Abd2 sonrası konum">
 
 ### **AÇILIŞ FELSEFESİ VE PİYON YAPISI**
 
-[Satrançsever](https://www.satrancdukkanim.com/default.asp?git=7&kategori=6) dergisinde kısmen değinmeye çalıştığım **İtalyan Açılışı**'nda hamle sıralarmasının önemini üst düzey oyunlarda sık sık görmek mümkün, ancak detaylara vakıf olmak hayli zor. Bu turnuva Giri'nin İtalyan Açılışı'na dair hazırlığı oldukça dikkat çekici.
+[Satrançsever](https://www.satrancdukkanim.com/default.asp?git=7&kategori=6) dergisinde kısmen değinmeye çalıştığım **İtalyan Açılışı**'nda hamle sıralamasının önemini üst düzey oyunlarda sık sık görmek mümkün, ancak detaylara vakıf olmak hayli zor. Bu turnuva Giri'nin İtalyan Açılışı'na dair hazırlığı oldukça dikkat çekici.
 
 _8...a5_
 
@@ -172,7 +172,7 @@ data-legend="19...Axe6 sonrası konum">
 
 _20.Kae1_
 
-20.d5 hamlesi 20...Ag5 ile karşılanabilirdi ve d-dikeyindeki açmazdan ötürü beyaz taş kazanamaz. Giri [analizlerinde](https://www.youtube.com/watch?v=_gqjbst2ZCw&t=237s) ilk kaçırdığı varyantın bu olduğunu söylüyor. Ancak yine de Stockfish bu anda tasarlanan 20.Kae1 yerine d5 sürme tehdidiyle 20.Kd1'i oynamak istiyor. Giri ise 20.Kae1 hamlesiyle e-dikeyinin açılması durumunda Ke7 fikirlerini kollamayı tasarlıyor. 
+20.d5 hamlesi 20...Ag5 ile karşılanabilirdi ve d-dikeyindeki açmazdan ötürü beyaz taş kazanamaz. Giri [analizlerinde](https://www.youtube.com/watch?v=_gqjbst2ZCw&t=237s) ilk kaçırdığı varyantın bu olduğunu söylüyor. Ancak yine de Stockfish bu anda tasarlanan 20.Kae1 yerine d5 sürme tehdidiyle 20.Kd1'i oynamak istiyor. Giri ise 20.Kae1 hamlesiyle e-dikeyinin açılması durumunda Ke7 fikirlerini kollamayı tasarlıyor.
 
 [20.Kd1 exd4 21.c4 Stockfish c4-c5 ile siyah fili oyun dışı bırakmayı tercih ediyor.]
 
