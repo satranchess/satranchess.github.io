@@ -108,7 +108,7 @@ data-buttons="0"
 data-legend="13.Fg2 sonrası konum">
 </div>
 
-_14.axb4 Kxb4 15.Fe1_
+_13...b4 14.axb4 Kxb4 15.Fe1_
 
 Daha önce belirttiğimiz planları tahta üzerinde görmeye başlıyoruz. Siyah hızlıca oyun yaratma arayışında olduğu için beyazın derhal bir şey yapması gerekiyor. Son hamlesiyle Ad5 tehdidi ortaya konmuş oldu ve şah kanadında h4 ile piyonlarını ilerletmeyi hedefliyor.
 
