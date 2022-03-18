@@ -184,7 +184,7 @@ Buraya kadar zamanını hiç kullanmayan siyah burada yarım saat kadar düşün
 
 _20...0-0 21.Kb1 Va5 22.Kxb5_
 
-Yarım saat düşünmenin ardından siyahın bu varyantı değerlendirmeye çalıştığı anlaşılıyor.
+Yarım saat düşünmenin ardından siyahın bu varyantı değerlendirmeye veya hazırlığını hatırlamaya çalıştığı anlaşılıyor. Zira burada Stockfish'in tercih ettiği devamyolu 22.Vxb5 olarak görünüyor. Bu takdirde siyahın 22...Vc7 dönüp ardından g7-g5 sürüşüyle e5-karesi için savaşmaya başlaması bilgisayarın tercihi.
 
 <div class="cbdiagram"
 data-size="400"
