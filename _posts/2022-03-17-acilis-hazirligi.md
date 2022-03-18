@@ -9,7 +9,7 @@ diagram: "2br2k1/R2nbpp1/2qppn1p/1R6/4PPP1/2N5/2PKQBBP/8 w - - 0 25"
 
 # Parham Maghsoodloo - Alexei Sarana Belgrad 2022
 
-Belgrad'da gerçekleştirilen bir başka organizasyon ise Belgrad'ın güçlü büyükustaları **Markus, Ivic, Indjic, Ivanisevic**'i **Navara, Sjugirov, Abdusattarov, Sarana, Sarin, Maghsoodloo** ile buluşturuyordu. Bu isimleri görünce elbette turnuvanın en az Grand-Prix kadar seyir zevki yüksek olacağı belliydi. Burada oynanan pek çok parti öğretici iken, şimdi incelemek istediğim parti belli bir konuyu ele alıyordu. Şimdi turnuvanın yedinci turuna gidelim.
+Belgrad'da gerçekleştirilen bir başka organizasyon ise Sırbistan'ın güçlü büyükustaları **Markus, Ivic, Indjic, Ivanisevic**'i **Navara, Sjugirov, Abdusattarov, Sarana, Sarin, Maghsoodloo** ile buluşturuyordu. Bu isimleri görünce elbette turnuvanın en az Grand-Prix kadar seyir zevki yüksek olacağı belliydi. Burada oynanan pek çok parti öğretici iken, şimdi incelemek istediğim parti belli bir konuyu ele alıyordu. Şimdi turnuvanın yedinci turuna gidelim.
 
 ### Açılış Hazırlığı
 
