@@ -195,7 +195,7 @@ data-legend="22.Kxb5 sonrası konum">
 
 _22...Vc7?_
 
-Sonraki hamleyle birleşince hemen kaybediyor. Beyazın kalelerini daha fazla etkinleştirmesini engelleyen 22...Va8 hamlesi gerekliydi. Böylece siyah sonraki hamlesinde Fa6 veya Fb7 ile devam edebilir ve oyun hayli belirsiz olurdu. Şimdi ise konum hiç beklenmedik bir şekilde çöküyor. Çok iyi bilinen bir açılışta bile tehlikeleri anlamak kolay olmuyor!
+Sonraki hamleyle birleşince hemen kaybediyor. Beyazın kalelerini daha fazla etkinleştirmesini engelleyen 22...Va8 hamlesi gerekliydi. Böylece siyah sonraki hamlesinde Fa6 veya Fb7 ile devam edebilir ve oyun hayli belirsiz olurdu. Şimdi ise konum hiç beklenmedik bir şekilde çöküyor. Burada ilginç olan şu ki 22.Vxb5 hamlesine 22...Vc7 iyi bir tercihken şimdi hatalı bir hamle oluyor Belki de güçlü büyükustanın hazırlığında bunun da olduğu ve **varyantları karıştırdığı** söylenebilir. Çok iyi bilinen bir açılışta bile tehlikeleri anlamak kolay olmuyor!
 
 _23.Ka1_  
 
