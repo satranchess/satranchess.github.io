@@ -11,10 +11,10 @@ diagram: "2br2k1/R2nbpp1/2qppn1p/1R6/4PPP1/2N5/2PKQBBP/8 w - - 0 25"
 
 Belgrad'da gerçekleştirilen bir başka organizasyon ise Sırbistan'ın güçlü büyükustaları **Markus, Ivic, Indjic, Ivanisevic**'i **Navara, Sjugirov, Abdusattarov, Sarana, Sarin, Maghsoodloo** ile buluşturuyordu. Bu isimleri görünce elbette turnuvanın en az Grand-Prix kadar seyir zevki yüksek olacağı belliydi. Burada oynanan pek çok parti öğretici iken, şimdi incelemek istediğim parti belli bir konuyu ele alıyordu. Şimdi turnuvanın yedinci turuna gidelim.
 
-### Açılış Hazırlığı
+### **Açılış Hazırlığı**
 
 Satrançta açılış hazırlığı tüm seviyeleri ilgilendiren önemli bir unsur. Bazen oyunları izlerken sporcuların açılış hazırlıklarının nerede başlayıp nerede bittiğini anlamak güç oluyor. Elbette sporcuların **zaman kullanımları** göz önünde bulundurularak belli bir fikir edinilebilir. Taraflar açılış kısmını görece hızlı geçiyorlarsa daha önce inceledikleri konumları oynadıklarını anlayabiliyoruz.
-Şimdi göreceğimiz oyunda da oyuncular belli bir yere kadar hızlı oynadılar ve sonrasında oyun ilginç bir şekilde birkaç hamle içinde bittiğinde, hatanın nerede olduğunu anlamak Stockfish yardımıyla o kadar zor olmadı. Zira bazı açılışları ne kadar iyi bilirseniz bilin, bir tane hata bile oyunu kaybetmenize yetebiliyor. Stockfish veya başka satranç motorları ile analiz yapmanın bilinen handikapı önde gelen sporcuların ortaya koydukları eforun küçümsenebilme tehlikesi oluyor.
+Şimdi göreceğimiz oyunda da oyuncular belli bir yere kadar hızlı oynadılar ve sonrasında oyun ilginç bir şekilde birkaç hamle içinde bittiğinde, Stockfish yardımıyla hatanın nerede olduğunu anlamak o kadar zor olmadı. Zira bazı açılışları ne kadar iyi bilirseniz bilin, bir tane hata bile oyunu kaybetmenize yetebiliyor. Stockfish veya başka satranç motorları ile analiz yapmanın bilinen handikapı önde gelen sporcuların ortaya koydukları eforun **küçümsenebilme** tehlikesi oluyor.
 
 _1.e4 c5 2.Af3 d6 3.d4 cxd4 4.Axd4 Af6 5.Ac3 a6_
 
