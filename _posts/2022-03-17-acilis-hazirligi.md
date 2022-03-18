@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Günün İncisi ve Açılış Faciası (3)"
+title: "Günün İncisi(3) ve Açılış Faciası"
 tagline: "En üst düzeyde açılış hazırlığının önemi herkesin malumu. Bazı açılışlar var ki, tek bir kötü hamle bile harika bir hazırlığı berbat edebilir. 2022 Fide Grand-Prix ikinci ayağı Belgrad'da oynanırken aynı yerde bir başka turnuva daha oynanmaktaydı. Sırbistan'ın en güçlü oyuncuları için organize edilen bu turnuva en az Grand-Prix kadar ilgi çekiciydi."
 tags: [turnuva]
 date: 2022-03-17
@@ -57,7 +57,7 @@ _10.a3_
 
 Najdorf'ta ne zaman bu hamlenin yapılacağını anlamak oldukça zor bir konu. Çünkü yanlış yapıldığında siyahın vezir kanadı oyununa hız kazandıracak **kanca** işlevi görürken uzun rok yapmış beyaz şahın önündeki dikeylerin açılması elbette hoş karşılanmayacaktır. Tecrübe gösteriyor ki beyazın bu hamlesi gayet uygun çünkü siyahın hızlıca b5-b4 sürme fikri kendisi için de riskler oluşturuyordu.
 
-_10..._Kb8_
+_10...Kb8_
 
 
 <div class="cbdiagram"
