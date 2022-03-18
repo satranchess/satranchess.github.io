@@ -86,7 +86,7 @@ data-buttons="0"
 data-legend="Analiz diyagramı: 16.fxe5 sonrası konum">
 </div>
 
-(16.Ac6! Şimdi Kb4 saldırı altında ve ayrıca Kd8 fikri sayesinde beyaz büyük bir üstünlük elde eder. 16.Ac6 Fe7 17.Vxe5 Vxe5 ve ardından 18.Axb4 beyazın teknik olarak kazanç bir oyunu olurdu. Oyunda ise farklı bir yol tercih eden beyaz kötü konumda kalarak oyunu kaybediyor.) 16...Ad7 ve siyahın çok iyi bir oyunu var ve sonrasında oyunu kazanmayı başarmış. Vykouk,J (2462)-Navara,D (2691) Prague 2021
+(16.Ac6! Şimdi Kb4 saldırı altında ve ayrıca Kd8 fikri sayesinde beyaz büyük bir üstünlük elde eder. 16.Ac6 Fe7 17.Vxe5 fxe5 ve ardından 18.Axb4 beyazın teknik olarak kazanç bir oyunu olurdu. Çünkü hem kale hem de Kd8 mat fikri aynı anda korunamaz. Oyunda ise farklı bir yol tercih eden beyaz kötü konumda kalarak oyunu kaybediyor.) 16...Ad7 ve siyahın çok iyi bir oyunu var ve sonrasında oyunu kazanmayı başarmış. Vykouk,J (2462)-Navara,D (2691) Prague 2021
 
 Oyunda beyaz bilindik konumlara doğru yol alıyor ancak 12.Fxf6 alınması durumunda siyahın ne yapmak istediğini görmek ilginç olabilirdi. Şimdi oyuna dönelim.
 
