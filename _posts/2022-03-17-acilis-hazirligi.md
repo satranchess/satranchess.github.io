@@ -180,7 +180,7 @@ data-buttons="0"
 data-legend="20.Şd2 sonrası konum">
 </div>
 
-Buraya kadar siyahın hiç zaman kullanmadığını şimdi ise yarım saat düşündüğünü belirtelim. Son derece karmaşık bu konumda roller birden bire değişiyor ve açılan a ve b-dikeylerinden beyazın oynama fikrinin dikkate alınması gerekiyor.
+Buraya kadar zamanını hiç kullanmayan siyah burada yarım saat kadar düşünüyor. Belli ki kendisi için asıl oyun yeni başlıyor. Son derece karmaşık bu konumda rollerin birden değişebilecek olması ve açılan a ve b-dikeylerinden beyazın oynama fikrinin dikkate alınması gerekiyor.
 
 _20...0-0 21.Kb1 Va5 22.Kxb5_
 
