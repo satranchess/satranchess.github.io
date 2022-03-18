@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Günün İncisi(3) ve Açılış Faciası"
+title: "Günün İncisi(4) ve Açılış Faciası"
 tagline: "En üst düzeyde açılış hazırlığının önemi herkesin malumu. Bazı açılışlar var ki, tek bir kötü hamle bile harika bir hazırlığı berbat edebilir. 2022 Fide Grand-Prix ikinci ayağı Belgrad'da oynanırken aynı yerde bir başka turnuva daha oynanmaktaydı. Sırbistan'ın en güçlü oyuncuları için organize edilen bu turnuva en az Grand-Prix kadar ilgi çekiciydi."
 tags: [turnuva]
 date: 2022-03-17
@@ -223,3 +223,6 @@ _25.Ad5!_
 
 Vezirini kaybetmek üzere olan siyah oyunu terk etti. Eğer at alınmazsa Ab4 vardır.
 Daha önce incelediğimiz Günün İncisi partilerinden farklı olarak açılış hamlelerinin çok daha büyük önem arz ettiği bir oyunu incelemiş olduk. Buradan bize bir ders çıkması gerekirse, kendimize seçtiğimiz açılışları hazırlık düzeyimize göre seçmemiz gerekir. Eğer açılış çalışmayı çok sevmiyorsak Najdorf gibi varyantları seçmek masa başında bize daha büyük zorluklar çıkarabilir. Sarana gibi Najdorf'un önemli uygulayıcılarından kuvvetli bir büyükustanın bile açılış hazırlığından hemen sonra zor duruma düşmesi bize bu konuda düşünmek üzere belli dersler sunabilir.
+
+
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Parham Maghsoodloo_Alexey Sarana_2022.pgn" style="max-width:100%;"></div>  
