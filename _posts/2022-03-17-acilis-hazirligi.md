@@ -14,7 +14,7 @@ Belgrad'da gerçekleştirilen bir başka organizasyon ise Sırbistan'ın güçl�
 ### **Açılış Hazırlığı**
 
 Satrançta açılış hazırlığı tüm seviyeleri ilgilendiren önemli bir unsur. Bazen oyunları izlerken sporcuların açılış hazırlıklarının nerede başlayıp nerede bittiğini anlamak güç oluyor. Elbette sporcuların **zaman kullanımları** göz önünde bulundurularak belli bir fikir edinilebilir. Taraflar açılış kısmını görece hızlı geçiyorlarsa daha önce inceledikleri konumları oynadıklarını anlayabiliyoruz.
-Şimdi göreceğimiz oyunda da oyuncular belli bir yere kadar hızlı oynadılar ve sonrasında oyun ilginç bir şekilde birkaç hamle içinde bittiğinde, Stockfish yardımıyla hatanın nerede olduğunu anlamak o kadar zor olmadı. Zira bazı açılışları ne kadar iyi bilirseniz bilin, bir tane hata bile oyunu kaybetmenize yetebiliyor. Stockfish veya başka satranç motorları ile analiz yapmanın bilinen handikapı önde gelen sporcuların ortaya koydukları eforun **küçümsenebilme** tehlikesi oluyor.
+Şimdi göreceğimiz oyunda da oyuncular belli bir yere kadar hızlı oynadılar ve açılış sonrasında oyun ilginç bir şekilde birkaç hamle içinde sona erdi. Açılışlarınızı ne kadar iyi bilirseniz bilin, açılışta yapılan bir tane hata bile oyunu kaybetmenize yetebiliyor. Hataları anlamaya çalışırken küçük bir tuzaktan kaçınmaya çalışacağız. Stockfish veya başka satranç motorları ile analiz yapmanın bilinen handikapı sporcuların ortaya koydukları eforun **küçümsenebilme** tehlikesi oluyor ve biz de bu hataya düşmemek için oyunu daha yakından anlamaya çalışalım.
 
 _1.e4 c5 2.Af3 d6 3.d4 cxd4 4.Axd4 Af6 5.Ac3 a6_
 
