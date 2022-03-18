@@ -67,7 +67,7 @@ data-buttons="0"
 data-legend="10...Kb8 sonrası konum">
 </div>
 
-Üst seviyelerde sıkça rastlanan bu konumda 10...Fb7 veya 10...Fe7 daha fazla tercih edilmektedir. Oyunda oynanan hamle doğrudan b5-b4 ilerleyişini kolluyordu, ancak oyunda öğretici bir şekilde görüleceği gibi beyazın buna karşı yeterli donanımı bulunuyor.
+Üst seviyelerde sıkça rastlanan bu konumda 10...Fb7 veya 10...Fe7 daha fazla tercih edilmektedir. Oyunda oynanan hamle doğrudan b5-b4 ilerleyişini kolluyordu, ancak birazdan öğretici bir şekilde görüleceği gibi beyazın buna karşı yeterli donanımı bulunuyor.
 
 _11.g4 h6_
 
