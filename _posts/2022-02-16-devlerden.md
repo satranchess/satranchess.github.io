@@ -27,7 +27,7 @@ data-buttons="0"
 data-legend="Siyah Oynar">
 </div>
 
-*AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için _**Bronznik ve Terekhin**_'in *Techniques of Positional Play* kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara Potansiyel Geçer Piyon kullanımına örnek için YouTube videosuna göz atabilir.)
+*AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için _**Bronznik ve Terekhin**_'in <i>*Techniques of Positional Play*</i> kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara Potansiyel Geçer Piyon kullanımına örnek için YouTube videosuna göz atabilir.)
 
 
 _25... h3?_
@@ -78,10 +78,9 @@ Beyazın h3 piyonunu almak için artık acele etmiyor.
  Son tuzak!
 
  _48. <f>♗</f>e3_ ve Siyah terk eder.
-(48.<f>♗</f>e3 <f>♔</f>f8 Güzel bir bitirişi göstermek için uygun bir varyant. 49.<f>♖</f>xd7 <f>♕</f>xd7 50.<f>♗</f>c5+ <f>♔</f>g8 51.<f>♘</f>h6+; )
-(48.<f>♗</f>e3 <f>♘</f>e6 49.<f>♕</f>xh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
+(48.<f>♗</f>e3 <f>♔</f>f8 Güzel bir bitirişi göstermek için uygun bir varyant: 49.<f>♖</f>xd7 <f>♕</f>xd7 50.<f>♗</f>c5+ <f>♔</f>g8 51.<f>♘</f>h6+) ya da (48.<f>♗</f>e3 <f>♘</f>e6 49.<f>♕</f>xh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin2_2022.pgn" style="max-width:100%;"></div>    
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin2_2022.pgn" style="max-width:100%;margin-bottom:1rem;"></div>    
 
 **Wojtazsek - Rapport** **2022 Fide GP 1.Tur**
 
@@ -94,7 +93,7 @@ data-legend="Beyaz Oynar">
 
 Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır hale geldi. Bunun nedeni elbette Beyazlarla 1.d4'lü açılışların git gide daha fazla oynanması ve Siyahların da genellikle sağlam Vezir Gambiti sularında gezinmesi. Bu konumu bizim için ilginç yapan şeyse siyahın bu sağlamlığını kırma arayışlarının zenginliği. Beyazın ağır taşları açıkça daha aktif d ve c-dikeylerinde rakipsiz gibiler, ancak siyahın da epey sağlam durduğu söylenebilir. Wojtazsek bize çok güzel bir şeyi hatırlatıyor. **Uzun çaprazdaki fille ve f6'daki atla baş etmenin en temel yöntemi e4-f3** piyon zinciri ile onları kısıtlamak. Vezir Gambiti için tipik olan bu fikrin uygulanışı bize hafif taşların ele alınışı bakımından önemli dersler sunabilir.      
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport2_2022.pgn" style="max-width:100%;"></div>        
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport2_2022.pgn" style="max-width:100%;margin-bottom:1rem;"></div>        
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
 
