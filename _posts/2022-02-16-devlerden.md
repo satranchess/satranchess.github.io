@@ -18,14 +18,14 @@ Paylaşacağım ilk konu piyonlarla ilgili. En üst düzeyde oynayan sporcuları
 
 **Fedoseev - Oparin** **2022 Fide GP 1.Tur**
 
+Beyazın *25.<f>♗</f>d4* hamlesinden sonra sıranın siyahta olduğu konumu ele alalım.
+
 <div class="cbdiagram"
 data-size="400"
 data-fen="6k1/3n1pp1/5n2/3p4/1q1Br2p/4N1P1/4PP1P/Q2R2K1 b - - 1 25"
 data-buttons="0"
 data-legend="Siyah Oynar">
 </div>
-
-Beyazın *25.<f>♗</f>d4* hamlesinden sonra sıranın siyahta olduğu konumu ele alalım.
 
 *AlphaZero* ile birlikte bir kez daha gündeme gelen h-piyonu saldırısı her seviyede sanki artık daha fazla rastlanmaya başladı ve daha da karşımıza çıkacak gibi görünüyor. Elbette doğru ve yanlış kullanımını ayırt etmenin son derece güç olduğu bir konu. Daha fazla öğrenmek isteyenler için _**Bronznik ve Terekhin**_'in *Techniques of Positional Play* kitabında *__Potansiyel Geçer Piyon__* başlığının incelenmesi öğretici olabilir. (Satranchess YouTube kanalında konuya dair örnek arayanlara Potansiyel Geçer Piyon kullanımına örnek için YouTube videosuna göz atabilir.)
 
@@ -56,14 +56,12 @@ zorlandığı söylenebilir.
 data-size="400"
 data-fen="4r1k1/3n1pp1/5n1q/3p4/3B4/4NPPp/2Q1PK1P/2R5 w - - 21 37"
 data-buttons="0"
-data-legend="Siyah Oynar">
+data-legend="Beyaz Oynar">
 </div>
 
 Şimdi sıra Beyazda: _37. <f>♕</f>f5!_
 
-Önemli bir
-hamle, artık top Beyazda. Vezirin kovulması için yapılacak ...g6 hamlesi
-konumu daha da zayıflatır. _37...<f>♘</f>f8_
+Önemli bir hamle, artık top Beyazda. Vezirin kovulması için yapılacak ...g6 hamlesi konumu daha da zayıflatır. _37...<f>♘</f>f8_
 
 (37...g6 38.<f>♕</f>d3 ve Siyah taşlar hareketsiz ve plansız kalırdı.)
 
