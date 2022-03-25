@@ -93,7 +93,10 @@ data-legend="Beyaz Oynar">
 
 Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır hale geldi. Bunun nedeni elbette Beyazlarla 1.d4'lü açılışların git gide daha fazla oynanması ve Siyahların da genellikle sağlam Vezir Gambiti sularında gezinmesi. Bu konumu bizim için ilginç yapan şeyse siyahın bu sağlamlığını kırma arayışlarının zenginliği. Beyazın ağır taşları açıkça daha aktif d ve c-dikeylerinde rakipsiz gibiler, ancak siyahın da epey sağlam durduğu söylenebilir. Wojtazsek bize çok güzel bir şeyi hatırlatıyor. **Uzun çaprazdaki fille ve f6'daki atla baş etmenin en temel yöntemi e4-f3** piyon zinciri ile onları kısıtlamak. Vezir Gambiti için tipik olan bu fikrin uygulanışı bize hafif taşların ele alınışı bakımından önemli dersler sunabilir.      
 
-<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport2_2022.pgn" style="max-width:100%;margin-bottom:1rem;"></div>        
+<div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport2_2022.pgn" style="max-width:100%;margin-bottom:1rem;"></div>
+<style>
+ .cbreplay {position:absolute;left:1rem;width:80vw;}
+ </style>
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
 
