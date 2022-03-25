@@ -81,7 +81,6 @@ Beyazın h3 piyonunu almak için artık acele etmiyor.
 (48.<f>♗</f>e3 <f>♔</f>f8 Güzel bir bitirişi göstermek için uygun bir varyant: 49.<f>♖</f>xd7 <f>♕</f>xd7 50.<f>♗</f>c5+ <f>♔</f>g8 51.<f>♘</f>h6+) ya da (48.<f>♗</f>e3 <f>♘</f>e6 49.<f>♕</f>xh3 ve Beyaz 2 piyon fazlasıyla saldırısına devam edebilir.)
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Fedoseev_Oparin2_2022.pgn" style="max-width:100%;margin-bottom:1rem;"></div>
-<style>.cbreplay {position:fixed;left:1rem;width:90vw;}</style>
 
 **Wojtazsek - Rapport** **2022 Fide GP 1.Tur**
 
