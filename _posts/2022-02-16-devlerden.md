@@ -95,7 +95,7 @@ Piyon yapısının böylesi simetrik olduğu durumlar oldukça sık rastlanır h
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Wojtaszek_Rapport2_2022.pgn" style="max-width:100%;margin-bottom:1rem;"></div>
 <style>
- .cbreplay {position:absolute;left:1rem;width:80vw;}
+ .cbreplay {min-width:80vw;}
  </style>
 
 Potansiyel geçer konusuna dair izlenebilecek videolar:
