@@ -26,9 +26,9 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
      data-buttons="0"
      data-legend="Budisavljevic (2519) - Deac (2679)">
 </div>
-Romanya'nın genç yeteneklerinden Deac 3. turda puan kaybeden önemli isimlerdendi. Gördüğümüz konumda beyazın elbette kazanç bir pozisyonu bulunuyor fakat kazanca en hızlı şekilde giden yolu bulmak satrançta her zaman önemli. Beyaz Oynar.
+Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerdendi. Gördüğümüz konumda beyazın elbette kazanç bir pozisyonu bulunuyor fakat kazanca en hızlı şekilde giden yolu bulmak satrançta her zaman önemli. Beyaz Oynar.
 
-<iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/nCr8VGPP" frameborder=0></iframe>
+<iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/nCr8VGPP#82" frameborder=0></iframe>
 
 <div class="cbdiagram"
      data-size="400"
