@@ -38,3 +38,5 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
 </div
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/WJyj6Ypg#50" frameborder=0></iframe>
+
+Devamı gelecek...
