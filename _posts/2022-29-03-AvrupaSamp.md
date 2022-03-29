@@ -16,7 +16,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
      data-legend="Volokitin (2687) - Stefansson (2520)">
 </div>
 
-İtalyan Açılışının sakin sularından gezinirken ciddi bir hata yapan siyah beyazın vezir kanadı operasyonuyla çok güçlü bir geçer piyon elde edebileceği ihtimalini bir an için unutuyor. Beyaz oynar kazanır! Oyunun devamını incelemek için:
+İtalyan Açılışının sakin sularında gezinirken ciddi bir hata yapan siyah beyazın vezir kanadı operasyonuyla çok güçlü bir geçer piyon elde edebileceği ihtimalini bir an için unutuyor. Beyaz oynar kazanır! Oyunun devamını incelemek için:
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/oehvJBQX#44" frameborder=0></iframe>
 
