@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avrupa Şampiyonasından İnciler"
+title: "Avrupa Şampiyonası İncileri"
 tagline: "Yıl içerisinde oynanan en önemli organizasyonlardan birisi olan 2022 Avrupa Bireysel Şampiyonası başladı. Elbette dünyanın en güçlü oyuncularını bir araya getiren organizasyonun oyunları da pek çok öğretici içerik barındırıyor."
 tag: haber
 date: 2022-03-29
