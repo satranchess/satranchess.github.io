@@ -35,7 +35,7 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
      data-fen="3qr3/1p5k/p3ppp1/1b2n3/n2pBQ1P/6P1/P4P2/2B1R1K1 w - - 0 26"
      data-buttons="0"
      data-legend="Ivanisevic (2601)- Cvitan (2458)">
-</div
+</div>
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/WJyj6Ypg#50" frameborder=0></iframe>
 
