@@ -111,4 +111,15 @@ Beyazın önceki hamledeki operasyonuyla bir tuzak kurduğunu göreceğiz. Siyah
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/LXJIOYWW#69" frameborder=0></iframe>
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="4r1k1/1ppr1pp1/2qn1np1/p1b1p1N1/P3P2B/2P4P/BPQ2PPK/3RR3 w - - 0 22"
+     data-buttons="0"
+     data-legend="Saric (2687) - Bilych (2342)">
+</div>
+
+Saric'in bir başka partisinde siyah atların yerleşimini değerlendirmeyi hedefleyen beyaz güçlü bir merkez operasonu başlatıyor.
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/oIp7gpzj#43" frameborder=0></iframe>
+
 Devamı gelecek...
