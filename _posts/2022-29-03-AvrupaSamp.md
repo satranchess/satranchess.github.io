@@ -9,7 +9,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 # 2022 Avrupa Bireysel'den Seçmeler
 
-En üst düzey sporcuları buluşturan organizasyonlar her zaman ilgi çekici oluyor. Yüksek seviyede oynayan sporcuların yerine kendimizi koyup düşünmek ise en güzel antrenman yöntemlerinden birisi. Aşağıdaki diyagramları bu gözle inceleyebilir ve diyagram altlarında verilen **lichess** çalışmalarında kendinizi sınamaya devam edebilirsiniz. **2022 Avrupa Şampiyonası**nın ilk 3 turu geride kaldı, turnuva verilerine ulaşmak için [bu bağlantıyı](https://chess-results.com/tnr607286.aspx?lan=1) kullanabilirsiniz. Bu gönderiyi turlar geçtikçe güncellemeye devam edeceğim...
+En üst düzey sporcuları buluşturan organizasyonlar her zaman ilgi çekici oluyor. Yüksek seviyede oynayan sporcuların yerine kendimizi koyup düşünmek ise en güzel antrenman yöntemlerinden birisi. Aşağıdaki diyagramları bu gözle inceleyebilir ve diyagram altlarında verilen **lichess** çalışmalarında kendinizi sınamaya devam edebilirsiniz. **2022 Avrupa Şampiyonası**'nın ilk 3 turu geride kaldı, turnuva verilerine ulaşmak için [bu bağlantıyı](https://chess-results.com/tnr607286.aspx?lan=1) kullanabilirsiniz. Bu gönderiyi turlar geçtikçe güncellemeye devam edeceğim...
 
 ### **3. Turda Emre Can Şov**
 
@@ -98,7 +98,7 @@ Yine bir başka büyük üstünlüğün kazanca dönüştürülmesi durumu. Büy
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/NYvSsvgY#66" frameborder=0></iframe>
 
-### Küçük Bir Tuzak
+### **Küçük Bir Tuzak!**
 
 <div class="cbdiagram"
      data-size="400"
