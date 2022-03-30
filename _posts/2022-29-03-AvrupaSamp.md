@@ -9,6 +9,8 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 # 2022 Avrupa Bireysel'den Seçmeler
 
+### İtalyan'da Vezir Kanadı Oyunu
+
 <div class="cbdiagram"
      data-size="400"
      data-fen="4r1k1/3qnpp1/1ppr1n1p/RP2p3/2P1P3/4NN1P/2Q2PP1/3R2K1 w - - 2 23"
@@ -20,15 +22,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/oehvJBQX#44" frameborder=0></iframe>
 
-<div class="cbdiagram"
-     data-size="400"
-     data-fen="4q3/1p1r1p2/1P1P1kp1/3Qp2p/B6P/6P1/5PK1/8 w - - 4 42"
-     data-buttons="0"
-     data-legend="Budisavljevic (2519) - Deac (2679)">
-</div>
-Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerdendi. Gördüğümüz konumda beyazın elbette kazanç bir pozisyonu bulunuyor fakat kazanca en hızlı şekilde giden yolu bulmak satrançta her zaman önemli. Beyaz Oynar.
-
-<iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/nCr8VGPP#82" frameborder=0></iframe>
+### Rok Yapmış Şaha saldırı
 
 <div class="cbdiagram"
      data-size="400"
@@ -39,7 +33,7 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/WJyj6Ypg#50" frameborder=0></iframe>
 
-### Sicilya Savunması'nda Kalite Fedası 
+### Sicilya Savunması'nda Kalite Fedası
 
 <div class="cbdiagram"
      data-size="400"
@@ -49,4 +43,17 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
 </div>
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/aSR4pjWK/EPCCoPhY#33" frameborder=0></iframe>
+
+### Avantajın Kazanca En Hızlı Dönüşümü
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="4q3/1p1r1p2/1P1P1kp1/3Qp2p/B6P/6P1/5PK1/8 w - - 4 42"
+     data-buttons="0"
+     data-legend="Budisavljevic (2519) - Deac (2679)">
+</div>
+Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerdendi. Gördüğümüz konumda beyazın elbette kazanç bir pozisyonu bulunuyor fakat kazanca en hızlı şekilde giden yolu bulmak satrançta her zaman önemli. Beyaz Oynar.
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/nCr8VGPP#82" frameborder=0></iframe>
+
 Devamı gelecek...
