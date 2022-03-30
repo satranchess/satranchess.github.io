@@ -31,7 +31,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
      data-legend="Ivanisevic (2601)- Cvitan (2458)">
 </div>
 
-<iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/WJyj6Ypg#50" frameborder=0></iframe>
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/N6Apuz9l#43" frameborder=0></iframe>
 
 ### **Sicilya Savunması'nda Kalite Fedası**
 
