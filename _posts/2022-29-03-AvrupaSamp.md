@@ -13,7 +13,7 @@ En üst düzey sporcuları buluşturan organizasyonlar her zaman ilgi çekici ol
 
 ### **3. Turda Emre Can Şov**
 
-Turnuvanın 3. turunda Ukrayna'nın en önemli oyuncularından **Andrei Volokitin** karşısında güzel bir minyatürle galip ayrılan büyükustamız **Emre Can**'ın partisini inceleyebilirsiniz. Kendisi 3 turun ardından tam puanla zirvedeki 7 isimden biri. 
+Turnuvanın 3. turunda Ukrayna'nın en önemli oyuncularından **Andrei Volokitin** karşısında güzel bir minyatürle galip ayrılan büyükustamız **Emre Can**'ın partisini inceleyebilirsiniz. Kendisi 3 turun ardından tam puanla zirvedeki 7 isimden biri.
 
 <div class="cbdiagram"
      data-size="400"
@@ -121,5 +121,17 @@ Beyazın önceki hamledeki operasyonuyla bir tuzak kurduğunu göreceğiz. Siyah
 Saric'in bir başka partisinde siyah atların yerleşimini değerlendirmeyi hedefleyen beyaz güçlü bir merkez operasonu başlatıyor.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/oIp7gpzj#43" frameborder=0></iframe>
+
+### **Savunmayı Önleyerek Saldırı**
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="4r1k1/2Q2pp1/1p6/pP3n1p/P2P2q1/R3PpP1/5P1K/7R b - - 0 39"
+     data-buttons="0"
+     data-legend="Michalik (2585)- Kjartansson (2450)">
+</div>
+
+Turnuvanın tam puanlı sporcularından **Kjartansson** rok yapmış şaha saldırı konusunda rakibin savunma olanaklarını önleyerek ilerleyerek rating favorisi rakibine karşı kazanmayı başarıyor ve böylelikle zirveye yerleşiyor.
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/i0rq30rx#76" frameborder=0></iframe>
 
 Devamı gelecek...
