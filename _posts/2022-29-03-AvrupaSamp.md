@@ -107,7 +107,7 @@ Yine bir başka büyük üstünlüğün kazanca dönüştürülmesi durumu. Büy
      data-legend="Saric (2687) - Pasti (2398)">
 </div>
 
-Beyazın önceki hamledeki operasyonuyla bir tuzak kurduğunu göreceğiz. Siyah elbette kalelerden biriyle atı alarak başlayabilir, ancak bu tuzağın temel parçasıydı. 35...Kfxf3 hamlesinden sonra beyazın rakibini düşürdüğü tuzağın hamlelerini bulabilir misiniz?
+Beyazın önceki hamledeki operasyonuyla bir tuzak kurduğunu göreceğiz. Siyah elbette kalelerden biriyle atı alarak başlayabilir, ancak bu tuzağın temel parçasıydı. 35...Kcxf3 hamlesinden sonra beyazın rakibini düşürdüğü tuzağın hamlelerini bulabilir misiniz?
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/LXJIOYWW#69" frameborder=0></iframe>
 
