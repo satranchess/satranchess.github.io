@@ -9,7 +9,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 # 2022 Avrupa Bireysel'den Seçmeler
 
-### İtalyan'da Vezir Kanadı Oyunu
+### **İtalyan'da Vezir Kanadı Oyunu**
 
 <div class="cbdiagram"
      data-size="400"
@@ -22,7 +22,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/oehvJBQX#44" frameborder=0></iframe>
 
-### Rok Yapmış Şaha saldırı
+### **Rok Yapmış Şaha saldırı**
 
 <div class="cbdiagram"
      data-size="400"
@@ -33,7 +33,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/WJyj6Ypg#50" frameborder=0></iframe>
 
-### Sicilya Savunması'nda Kalite Fedası
+### **Sicilya Savunması'nda Kalite Fedası**
 
 <div class="cbdiagram"
      data-size="400"
@@ -44,7 +44,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/aSR4pjWK/EPCCoPhY#33" frameborder=0></iframe>
 
-### Avantajın Kazanca En Hızlı Dönüşümü
+### **Avantajın Kazanca En Hızlı Dönüşümü**
 
 <div class="cbdiagram"
      data-size="400"
