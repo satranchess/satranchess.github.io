@@ -98,4 +98,17 @@ Yine bir başka büyük üstünlüğün kazanca dönüştürülmesi durumu. Büy
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/NYvSsvgY#66" frameborder=0></iframe>
 
+### Küçük Bir Tuzak
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="b4rk1/6np/p2Q2p1/q7/3NP1P1/2r2N1P/4RP2/4R1K1 b - - 0 35"
+     data-buttons="0"
+     data-legend="Saric (2687) - Pasti (2398)">
+</div>
+
+Beyazın önceki hamledeki operasyonuyla bir tuzak kurduğunu göreceğiz. Siyah elbette kalelerden biriyle atı alarak başlayabilir, ancak bu tuzağın temel parçasıydı. 35...Kfxf3 hamlesinden sonra beyazın rakibini düşürdüğü tuzağın hamlelerini bulabilir misiniz?
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/LXJIOYWW#69" frameborder=0></iframe>
+
 Devamı gelecek...
