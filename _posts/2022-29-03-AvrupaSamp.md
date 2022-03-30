@@ -11,7 +11,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 
 En üst düzey sporcuları buluşturan organizasyonlar her zaman ilgi çekici oluyor. Bu yüksek seviyede oynayan sporcuların yerine onların yerine koyup düşünmek ise en güzel antrenman yöntemlerinden birisi. Aşağıdaki diyagramları bu gözle inceleyebilir ve diyagram altlarında verilen **lichess** çalışmalarında kendinizi sınamaya devam edebilirsiniz. **2022 Avrupa Şampiyonası**nın ilk 3 turu geride kaldı, turnuva verilerine ulaşmak için [bu bağlantıyı](https://chess-results.com/tnr607286.aspx?lan=1) kullanabilirsiniz. Bu gönderiyi turlar geçtikçe güncellemeye devam edeceğim...
 
-### 3. Turda Emre Can Şov
+### **3. Turda Emre Can Şov**
 
 Turnuvanın 3. turunda Ukrayna'nın en önemli oyuncularından **Andrei Volokitin** karşısında güzel bir minyatürle galip ayrılan büyükustamız **Emre Can**ın partisini inceleyebilirsiniz.
 
