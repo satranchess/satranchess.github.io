@@ -87,4 +87,15 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/kjvb0kdu#82" frameborder=0></iframe>
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="3n2k1/RR3p1p/5b1B/4pN1p/2r1P3/8/P4PPK/3r4 w - - 0 34"
+     data-buttons="0"
+     data-legend="Korobov (2695) - Salimova (2399)">
+</div>
+
+Yine bir başka büyük üstünlüğün kazanca dönüştürülmesi durumu. Büyükusta **Korobov** tüm taşlarının en etkin şekilde yerleştirdiği bu konumda en çabuk şekilde zafere ulaşmasını biliyor.
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/NYvSsvgY#66" frameborder=0></iframe>
+
 Devamı gelecek...
