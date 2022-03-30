@@ -55,6 +55,6 @@ Sicilya Savunması'nın en tipik temalarından birisi olan Kxc3 kalite fedası t
 </div>
 Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerdendi. Gördüğümüz konumda beyazın elbette kazanç bir pozisyonu bulunuyor fakat kazanca en hızlı şekilde giden yolu bulmak satrançta her zaman önemli. Beyaz Oynar.
 
-<iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/nCr8VGPP#82" frameborder=0></iframe>
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/kjvb0kdu#82" frameborder=0></iframe>
 
 Devamı gelecek...
