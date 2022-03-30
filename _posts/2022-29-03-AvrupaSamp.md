@@ -11,6 +11,21 @@ En üst düzey sporcuları buluşturan organizasyonlar her zaman ilgi çekici ol
 
 # 2022 Avrupa Bireysel'den Seçmeler
 
+### Emre Can Şov
+
+Turnuvanın 3. turunda Ukrayna'nın en önemli oyuncularından **Andrei Volokitin** karşısında güzel bir minyatürle galip ayrılan **Emre Can**ın partisini inceleyebilirsiniz.
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="r1bqk2r/pp3ppp/2n2n2/3p2B1/Qb6/2N3P1/PPP2P1P/R3KBNR w KQkq - 0 9"
+     data-buttons="0"
+     data-legend="Can (2578) - Volokitin (2687)">
+</div>
+
+Açılış yavaş yavaş tamamlanırken beyazın taşlarını **izole vezir piyonu**na karşı en güzel şekilde organize etmesi ve gelişimini tamamlaması gerekiyor.
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/3qPDC99a#16" frameborder=0></iframe>
+
 ### **İtalyan'da Vezir Kanadı Oyunu**
 
 <div class="cbdiagram"
