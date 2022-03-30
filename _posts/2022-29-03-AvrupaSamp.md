@@ -64,6 +64,17 @@ Sicilya Savunması'nın en tipik temalarından birisi olan Kxc3 kalite fedası t
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/XQRSlNo6#33" frameborder=0></iframe>
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="1n2r1k1/1qr2ppp/2b5/Rp2Q3/8/2P3PB/3NPP1P/R5K1 w - - 1 26"
+     data-buttons="0"
+     data-legend="Svane (2637)- Martinovic (2554)">
+</div>
+
+25...Ke8 ile saldırıya geçen siyahın gözden kaçırdığı ayrıntı neydi? 
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/OPY1d2PQ#49" frameborder=0></iframe>
+
 ### **Avantajın Kazanca En Hızlı Dönüşümü**
 
 <div class="cbdiagram"
