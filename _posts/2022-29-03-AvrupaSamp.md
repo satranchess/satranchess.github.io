@@ -31,6 +31,8 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
      data-legend="Ivanisevic (2601)- Cvitan (2458)">
 </div>
 
+Önceki hamlesinde h7-karesine at feda eden beyaz rakip şaha saldırısına devam etmek için nasıl oynamalı?
+
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/MIqlrfUG#50" frameborder=0></iframe>
 
 ### **Sicilya Savunması'nda Kalite Fedası**
