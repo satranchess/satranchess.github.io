@@ -39,4 +39,14 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/TLzcccZt/WJyj6Ypg#50" frameborder=0></iframe>
 
+### Sicilya Savunması'nda Kalite Fedası 
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="4kb1r/1bq2ppp/p2ppn2/1p4P1/2rNPP2/P1NQB3/1PP4P/2KR2R1 b k - 0 17"
+     data-buttons="0"
+     data-legend="Dragnev (2546)- Moussard (2630)">
+</div>
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/aSR4pjWK/EPCCoPhY#33" frameborder=0></iframe>
 Devamı gelecek...
