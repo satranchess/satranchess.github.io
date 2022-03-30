@@ -43,7 +43,7 @@ image: "https://www.europechess.org/wp-content/uploads/2022/01/EICC2022-665x346.
 </div>
 Sicilya Savunması'nın en tipik temalarından birisi olan Kxc3 kalite fedası temasını izliyoruz. Oyunun devamında avantajını sürdüren siyahın parçalanan vezir kanadı piyonlarından nasıl faydalandığını ve merkezdeki üstünlüğünü kullanışı öğretici.
 
-<iframe width=600 height=371 src="https://lichess.org/study/embed/aSR4pjWK/EPCCoPhY#33" frameborder=0></iframe>
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/XQRSlNo6#33" frameborder=0></iframe>
 
 ### **Avantajın Kazanca En Hızlı Dönüşümü**
 
