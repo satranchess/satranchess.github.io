@@ -13,7 +13,7 @@ En üst düzey sporcuları buluşturan organizasyonlar her zaman ilgi çekici ol
 
 ### **3. Turda Emre Can Şov**
 
-Turnuvanın 3. turunda Ukrayna'nın en önemli oyuncularından **Andrei Volokitin** karşısında güzel bir minyatürle galip ayrılan büyükustamız **Emre Can**ın partisini inceleyebilirsiniz.
+Turnuvanın 3. turunda Ukrayna'nın en önemli oyuncularından **Andrei Volokitin** karşısında güzel bir minyatürle galip ayrılan büyükustamız **Emre Can**'ın partisini inceleyebilirsiniz.
 
 <div class="cbdiagram"
      data-size="400"
