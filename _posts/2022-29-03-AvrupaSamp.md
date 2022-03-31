@@ -131,7 +131,7 @@ Saric'in bir başka partisinde siyah atların yerleşimini değerlendirmeyi hede
      data-legend="Michalik (2585)- Kjartansson (2450)">
 </div>
 
-Turnuvanın tam puanlı sporcularından **Kjartansson** rok yapmış şaha saldırı konusunda rakibin savunma olanaklarını önleyerek saldırısını sürdürüyor ve rating favorisi rakibine karşı kazanmayı başarıyor ve böylelikle zirveye yerleşiyor.
+Siyah rok yapmış şaha saldırı konusunda rakibin savunma olanaklarını önleyerek saldırısını sürdürüyor ve rating favorisi rakibine karşı kazanmayı başarıyor ve böylelikle üçüncü tur itibariyle zirveye adını yazıyor.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/i0rq30rx#76" frameborder=0></iframe>
 
