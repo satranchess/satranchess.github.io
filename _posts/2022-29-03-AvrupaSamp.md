@@ -135,7 +135,7 @@ Turnuvanın tam puanlı sporcularından **Kjartansson** rok yapmış şaha sald�
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/i0rq30rx#76" frameborder=0></iframe>
 
-### **Ters Kanada Rok Atıldığında**
+### **Ters Kanada Roklar Atıldığında**
 
 <div class="cbdiagram"
      data-size="400"
@@ -143,6 +143,8 @@ Turnuvanın tam puanlı sporcularından **Kjartansson** rok yapmış şaha sald�
      data-buttons="0"
      data-legend="Volokitin (2687)- Fırat (2487)">
 </div>
+
+Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde olduğunu kanıtlaması gerekiyor. Siyah oynar kazanır!
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/ZvX5enah#50" frameborder=0></iframe>
 
