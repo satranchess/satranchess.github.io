@@ -148,7 +148,7 @@ Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde old
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/ZvX5enah#50" frameborder=0></iframe>
 
-### Sıra dışı bir ilerleme!
+### **Sıra dışı bir ilerleme!**
 
 <div class="cbdiagram"
      data-size="400"
@@ -159,7 +159,7 @@ Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde old
 
 Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor. Ancak oyunun devamının incelenmesi görünüşün aldatıcı olduğunu kanıtlayacak...
 
-### Zarif bitiriş
+### **Zarif bitiriş**
 
 <div class="cbdiagram"
      data-size="400"
