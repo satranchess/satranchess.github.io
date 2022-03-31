@@ -171,11 +171,11 @@ Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor.
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/A51UhpWz#86" frameborder=0></iframe>
 
 
-### Temiz Kazanç
+### **Temiz Kazanç**
 
 <div class="cbdiagram"
      data-size="400"
-     data-fen="r5k1/3nQ1p1/p1q2p2/R3p3/5P2/2B3P1/1P5P/6K1 b - - 0 29 "
+     data-fen="r5k1/4Q1p1/pnq2p2/R3p3/5P2/2B3P1/1P5P/6K1 w - - 1 30"
      data-buttons="0"
      data-legend="Deac (2679)- Lutsko (2390)">
 </div>
