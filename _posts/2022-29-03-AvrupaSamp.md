@@ -171,6 +171,18 @@ Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor.
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/A51UhpWz#86" frameborder=0></iframe>
 
 
+### Temiz Kazanç
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="r5k1/3nQ1p1/p1q2p2/R3p3/5P2/2B3P1/1P5P/6K1 b - - 0 29 "
+     data-buttons="0"
+     data-legend="Deac (2679)- Lutsko (2390)">
+</div>
+
+Kazanç konumlarda rakibin her türlü karşı oyunu incelikle hesaplanmalı ve çürütülmeli. **Deac** bu partide bunu öğretici bir şekilde başarıyor.
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/s5yU3qLj#57" frameborder=0></iframe>
 
 
 Devamı gelecek...
