@@ -148,6 +148,13 @@ Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde old
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/ZvX5enah#50" frameborder=0></iframe>
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="8/5kp1/P7/B2p4/2nP4/6Kp/8/8 b - - 0 44"
+     data-buttons="0"
+     data-legend="Kjartansson (2450)- Svane (2637)">
+</div>
 
+Beşinci tur itibariyle zirveyi ilgilendiren önemli mücadelede beyaz üstünlüğünü daha da arttırıyor. 
 
 Devamı gelecek...
