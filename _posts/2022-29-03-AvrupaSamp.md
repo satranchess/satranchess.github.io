@@ -135,4 +135,17 @@ Turnuvanın tam puanlı sporcularından **Kjartansson** rok yapmış şaha sald�
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/i0rq30rx#76" frameborder=0></iframe>
 
+### **Ters Kanada Rok Atıldığında**
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="1r3rk1/5pbp/p2p4/q2P2PP/np1Bp3/1P6/1P3Q2/1K1R1B1R b - - 0 26"
+     data-buttons="0"
+     data-legend="Volokitin (2687)- Fırat (2487)">
+</div>
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/ZvX5enah#50" frameborder=0></iframe>
+
+
+
 Devamı gelecek...
