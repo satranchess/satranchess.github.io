@@ -148,7 +148,18 @@ Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde old
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/ZvX5enah#50" frameborder=0></iframe>
 
-### Kalite Fedaları 
+### Sıra dışı bir ilerleme!
+
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="r5k1/pp1qr3/2n5/3p1pp1/2pPn3/2P4P/PRQ1PPBB/5RK1 w - - 0 22"
+     data-buttons="0"
+     data-legend="Korobov (2695)- Demuth (2496)">
+</div>
+
+Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor. Ancak oyunun devamının incelenmesi görünüşün aldatıcı olduğunu kanıtlayacak...
+
+### Zarif bitiriş
 
 <div class="cbdiagram"
      data-size="400"
@@ -157,6 +168,9 @@ Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde old
      data-legend="Kjartansson (2450)- Svane (2637)">
 </div>
 
-Beşinci tur itibariyle zirveyi ilgilendiren önemli mücadelede beyaz üstünlüğünü daha da arttırıyor.
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/A51UhpWz#86" frameborder=0></iframe>
+
+
+
 
 Devamı gelecek...
