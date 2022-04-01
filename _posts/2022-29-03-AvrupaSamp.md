@@ -163,7 +163,7 @@ Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor.
 
 <div class="cbdiagram"
      data-size="400"
-     data-fen="8/5kp1/P7/B2p4/2nP4/6Kp/8/8 b - - 0 44"
+     data-fen="8/5kp1/P7/3p4/2nP4/2B3Kp/8/8 w - - 0 44"
      data-buttons="0"
      data-legend="Kjartansson (2450)- Svane (2637)">
 </div>
