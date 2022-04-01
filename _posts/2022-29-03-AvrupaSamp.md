@@ -170,6 +170,17 @@ Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/A51UhpWz#86" frameborder=0></iframe>
 
+<div class="cbdiagram"
+     data-size="400"
+     data-fen="7r/1p3k1r/2b1pp2/p2p1q2/P2P2p1/1P2P1P1/2R2PB1/1Q2RK2 b - - 0 33"
+     data-buttons="0"
+     data-legend="Levin (2332)- Kozul (2619)">
+</div>
+
+Bir başka zarif bitiriş **Kozul**'dan. Siyahın başka kazanç yöntemleri olsa da Hırvat Büyükusta en hızlısını buluyor.
+
+<iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/5pivv2Qf#64" frameborder=0></iframe>
+
 
 ### **Temiz Kazanç**
 
