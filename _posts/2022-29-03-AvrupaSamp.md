@@ -87,6 +87,8 @@ Romanya'nın genç yeteneklerinden Deac 2. turda puan kaybeden önemli isimlerde
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/kjvb0kdu#82" frameborder=0></iframe>
 
+#### **Başka bir avantajlı durum**
+
 <div class="cbdiagram"
      data-size="400"
      data-fen="3n2k1/RR3p1p/5b1B/4pN1p/2r1P3/8/P4PPK/3r4 w - - 0 34"
@@ -110,6 +112,8 @@ Yine bir başka büyük üstünlüğün kazanca dönüştürülmesi durumu. Büy
 Beyazın önceki hamledeki operasyonuyla bir tuzak kurduğunu göreceğiz. Siyah elbette kalelerden biriyle atı alarak başlayabilir, ancak bu tuzağın temel parçasıydı. 35...Kcxf3 hamlesinden sonra beyazın rakibini düşürdüğü tuzağın fikrini bulabilir misiniz?
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/LXJIOYWW#69" frameborder=0></iframe>
+
+### **Merkezde İlerleme**
 
 <div class="cbdiagram"
      data-size="400"
@@ -169,6 +173,8 @@ Siyahın kanat sürüşlerine beyazın merkezden cevap vermesi zor görünüyor.
 </div>
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KojudVFP/A51UhpWz#86" frameborder=0></iframe>
+
+#### **Başka bir zarif bitiriş**
 
 <div class="cbdiagram"
      data-size="400"
