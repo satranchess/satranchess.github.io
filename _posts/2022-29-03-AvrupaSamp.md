@@ -145,7 +145,7 @@ Siyah rok yapmış şaha saldırı konusunda rakibin savunma olanaklarını önl
      data-size="400"
      data-fen="1r3rk1/5pbp/p2p4/q2P2PP/np1Bp3/1P6/1P3Q2/1K1R1B1R b - - 0 26"
      data-buttons="0"
-     data-legend="Volokitin (2687)- Fırat (2487)">
+     data-legend="Fırat (2487) - Volokitin (2687)">
 </div>
 
 Ters kanada rokların atılmış olduğu bu durumda siyahın bir adım önde olduğunu kanıtlaması gerekiyor. Siyah oynar kazanır!
