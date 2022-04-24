@@ -226,3 +226,8 @@ Daha önce incelediğimiz Günün İncisi partilerinden farklı olarak açılı�
 
 
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Parham Maghsoodloo_Alexey Sarana_2022.pgn" style="max-width:100%;"></div>  
+
+
+<ct-pgn-viewer has-url="true">
+https://github.com/satranchess/satranchess.github.io/blob/main/assets/pgn/Parham%20Maghsoodloo_Alexey%20Sarana_2022.pgn
+</ct-pgn-viewer>
