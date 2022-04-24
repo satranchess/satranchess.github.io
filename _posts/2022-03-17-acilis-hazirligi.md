@@ -228,6 +228,31 @@ Daha önce incelediğimiz Günün İncisi partilerinden farklı olarak açılı�
 <div class="cbreplay" data-url="{{ site.url }}/assets/pgn/Parham Maghsoodloo_Alexey Sarana_2022.pgn" style="max-width:100%;"></div>  
 
 
-<ct-pgn-viewer has-url="true">
-https://github.com/satranchess/satranchess.github.io/blob/main/assets/pgn/Parham%20Maghsoodloo_Alexey%20Sarana_2022.pgn
+<ct-pgn-viewer>
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "2022.03.12"]
+[Round "7"]
+[White "Maghsoodloo, Parham"]
+[Black "Sarana, Alexey"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2701"]
+[BlackElo "2685"]
+[PlyCount "49"]
+[EventDate "2022.03.06"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "SRB"]
+[EventCategory "17"]
+[SourceTitle "CB11_2022"]
+[SourceDate "2022.03.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.03.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+Qc7 9. O-O-O b5 10. a3 Rb8 11. g4 h6 12. Bh4 Be7 13. Bg2 b4 14. axb4 Rxb4 15.
+Be1 Qb6 16. Bf2 Rxb2 17. Ndb5 Qa5 18. Kxb2 Qb4+ 19. Kc1 axb5 20. Kd2 O-O 21.
+Rb1 Qa5 22. Rxb5 Qc7 23. Ra1 Rd8 24. Ra7 Qc6 25. Nd5 1-0
 </ct-pgn-viewer>
