@@ -11,3 +11,4 @@ video: "https://www.youtube.com/watch?v=0OJYVeFWIfo"
 
 
 <iframe src="https://lichess.org/study/embed/TCHULDkd/nW35cV2o"></iframe>
+<style>iframe {width:100%;}</style>
