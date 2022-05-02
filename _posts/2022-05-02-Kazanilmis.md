@@ -10,5 +10,4 @@ video: "https://www.youtube.com/watch?v=0OJYVeFWIfo"
 ## Pavel Eljanov - Eduardas Rozentaliz, 2022 Bundesliga
 
 
-<iframe src="https://lichess.org/study/embed/TCHULDkd/nW35cV2o"></iframe>
-<style>iframe {width:100%;}</style>
+<iframe width=600 height=371 src="https://lichess.org/study/embed/TCHULDkd/WAepTDNg#last" frameborder=0></iframe>
