@@ -3,7 +3,7 @@ layout: post
 title: "Satranç Motorlarının Dansı!"
 tagline: "TCEC 23. Sezon ve 1. Lig'de oynanan oyunların analizini Satranchess YouTube kanalında paylaşmıştım. Burada da oyunların analizine yer vermek istedim."
 tags: [turnuva]
-date: 2022-09-17
+date: 2022-09-16
 diagram: "5k2/1p1b1p2/4p3/3pP1pP/1P1b2N1/P2B4/6PK/8 w - - 2 45"
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/WtzDge6H/sX9IqIif" frameborder=0></iframe>
