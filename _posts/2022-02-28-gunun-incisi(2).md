@@ -64,7 +64,7 @@ _11.b4_
 
 <div class="cbdiagram"
 data-size="400"
-data-fen="r1bq1rk1/ppp2ppp/5n2/2b1p3/3n4/P1N2NP1/1PQPPPBP/R1B2RK1 w - - 0 10 "
+data-fen="r1bq1rk1/ppp2ppp/5n2/2b5/1P1p4/P1N3P1/2QPPPBP/R1B2RK1 b - - 0 11"
 data-buttons="0"
 data-legend="11.b4 sonrası konum">
 </div>
