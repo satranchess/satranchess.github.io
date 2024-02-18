@@ -8,6 +8,6 @@ image: "https://image.lichess1.org/display?h=550&op=thumbnail&path=nasil:ublog:E
 ---
 # London Chess Classic
 
-Küçükken severek takip ettiğim süper GM Michal Adams önemli bir zafere imza atarak 6/9 ile tek başına turnuvayı kazandı ve bu zafer için _"Kariyerimin en büyük başarısı muhtemelen 52 yaşında London Chess Classic turnuvasını kazanmak"_.  
+Küçükken severek takip ettiğim süper GM Michal Adams önemli bir zafere imza atarak 6/9 ile tek başına turnuvayı kazandı ve bu zafer için _"Kariyerimin en büyük başarısı muhtemelen 52 yaşında London Chess Classic turnuvasını kazanmak oldu"_ dedi.  
 
 <iframe width="600" height="371" src="https://lichess.org/study/embed/BR7gZIqE/EoVCbyBM" frameborder=0></iframe>
