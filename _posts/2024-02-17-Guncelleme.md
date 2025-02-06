@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Yazıları"
+title: "(Lichess) Blog Yazıları"
 tagline: "Çok istediğim halde güncelleyemediğim blog sayfasına lichess'teki çalışmaları eklemek istedim."
 tags: [turnuva]
 date: 2024-02-17
