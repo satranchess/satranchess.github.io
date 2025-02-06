@@ -4,7 +4,7 @@ title: "Günün İncisi"
 tagline: "En üst düzey oyunları anlamanın en iyi yollarından biri de onları bölümlere ayırarak her bir parçaya dikkatle bakmak. Aronian ile Keymer arasında oynanan partide Aronian'ın açılış felsefesini, oyunortasında az rastlanan piyon yapısıyla inisiyatifi ele alışını ve oyun sonunda sürdürdüğü aktif taş oyununu inceleyeceğiz."
 tags: [turnuva, taktik]
 date: 2022-02-26
-image: "https://cdn.chess24.com/oN3CYAviSjGJ4t0j4g6RQw/original/aronian-keymer-punch.jpeg"
+image: "https://www.chess-international.com/wp-content/uploads/2023/01/326298758_705969454402028_161010386466383947_n-e1674199975639.jpg"
 photosource: "worldchess.com"
 ---
 
