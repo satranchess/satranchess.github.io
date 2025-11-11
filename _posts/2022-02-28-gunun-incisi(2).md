@@ -4,14 +4,14 @@ title: "Günün İncisi (2)"
 tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu."
 tags: [turnuva, taktik]
 date: 2022-02-28
-image: "https://cbin.b-cdn.net/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
+image: "https://cbin.b-cdn.com/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
 photosource: "worldchess.com"
 description: Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu.
 ---
 
 # Hikaru Nakamura - Andrey Esipenko 2022 Fide Grand Prix 2. Tur Mücadelesi
 
-Aronian ve Keymer arasında oynanan [mücadeleyle](https://www.satranchess.net/2022/02/25/Haftanin_incisi.html) birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz. (En altta yer alan oynatıcıda varyantları ve oyunu ayrıca inceleyebilirsiniz.)
+Aronian ve Keymer arasında oynanan [mücadeleyle](https://www.satranchess.com/2022/02/25/Haftanin_incisi.html) birlikte güzelce ele alınması gereken bir başka güzel oyun daha. Eskiden bilgisayarımın yanına satranç tahtası ile oturur bu tip makalaleri incelerdim. Siz de benim yaptığım gibi yapabilir veya diyagramlar üzerinde taşları oynatarak oyunu ve analizleri kendi ellerinizle takip edebilirsiniz. (En altta yer alan oynatıcıda varyantları ve oyunu ayrıca inceleyebilirsiniz.)
 
 _1.c4 e5 2.Ac3 Af6 3.Af3 Ac6 4.g3 d5 5.cxd5 Axd5 6.Fg2 Fc5 7.0-0 0-0 8.Vc2_
 
@@ -85,7 +85,7 @@ data-legend="14.e3 sonrası konum">
 
 ### **FİL ÇİFTİ VE BİR ÜSTÜNLÜĞÜN BAŞKA BİR ÜSTÜNLÜĞE DÖNÜŞTÜRÜLMESİ**
 
-_14...d3_ Yine bir **potansiyel geçer piyon**! Önceki blog [yazısından](https://www.satranchess.net/2022/02/16/devlerden.html) hatırlayacağımız gibi piyonun durumunu belirlemek hayli güç bir konu. Esipenko potansiyel geçer piyon yaratmak istiyor.
+_14...d3_ Yine bir **potansiyel geçer piyon**! Önceki blog [yazısından](https://www.satranchess.com/2022/02/16/devlerden.html) hatırlayacağımız gibi piyonun durumunu belirlemek hayli güç bir konu. Esipenko potansiyel geçer piyon yaratmak istiyor.
 
 [14...dxe3 15.dxe3 Beyazın yine filleri ve şah-kanadı piyon çoğunluğu kendisine iyi bir oyun verecek gibi duruyor. 15...c6 16.e4 b5 17.Kd1 Ve7 18.Fe3 Fe6 19.Fd4 Ad7 20.f4;
 14...b5 Piyonu d4-karesinde tutmaya çalışmak malesef mümkün değil. 15.Fb2 dxe3 16.fxe3 Ka6 17.Kac1]
