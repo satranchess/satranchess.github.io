@@ -4,7 +4,7 @@ title: "Günün İncisi (2)"
 tagline: "Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu."
 tags: [turnuva, taktik]
 date: 2022-02-28
-image: "https://cbin.b-cdn.com/img/NA/Naka%20Esipenko_8DXN2_1024x683.jpeg"
+image: "https://images.chesscomfiles.com/uploads/v1/news/1057265.66d495e4.668x375o.eebc4a7b1a64@2x.jpeg"
 photosource: "worldchess.com"
 description: Son yıllarda Twitch üzerinden yayıncılık faaliyetlerine ağırlık veren Hikaru Nakamura 2022 Fide Grand Prix turnuvasını etkileyici bir şekilde kazanmıştı. Onun güzel oyunlarından Esipenko ile oynadığı karşılaşma bizler için öğretici anlar barındırıyordu.
 ---
