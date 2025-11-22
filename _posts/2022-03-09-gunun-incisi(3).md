@@ -4,7 +4,7 @@ title: "Günün İncisi (3)"
 tagline: "2022 Fide Grand-Prix 2. ayağı Belgrad'da oynanmaya başladı. Zorlu mücadelelerin yine bize öğreteceği pek çok şey var. Giri ile Vitiugov'un oynadığı 2.tur oyunu İtalyan Açılışı'nın modern ele alınışı konusunda örnekler görmek ve oyun ortasında heyecanlı bir mücadeleye tanıklık etmek isteyenlerin ilgisini çekebilir.'"
 tag: haber
 date: 2022-03-09
-image: "https://cdn.chess24.com/vHAee5PbT02vI6yKgOmszw/original/giri-beats-vitiugov.jpeg"
+image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapp.fide.com%2Fupload%2F14903%2F4efdd2f969559e8b1c92e99f32ded48e.jpg&f=1&nofb=1&ipt=1f031c66ffc3a5169407b8df12d90506b40d9ebb860760bee0d2ab9bc4032881"
 photosource: "Mark Livshitz, FIDE"
 ---
 
