@@ -33,6 +33,15 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+#Burasını chatgpt ile yaptım düzgün çalışmazsa silinecek.
+
+collections:
+  dersler:
+    output: true
+    permalink: /dersler/:title/
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
