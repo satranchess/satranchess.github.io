@@ -4,40 +4,34 @@ title: Analizli Oyunlar
 permalink: /oyun-analizi/
 ---
 
-<!-- Bu sayfa, PythonAnywhere üzerinde çalışan canlı Flask uygulamasını yükler. -->
 <style>
-    /* Stil 1: Iframe'i duyarlı yapmak ve sayfada ortalamak için dış çerçeve */
+    /* REMOVE the <h1> and <p> text that are outside the iframe */
+    h1 { display: none; }
+    p { display: none; }
+    
     .viewer-wrapper {
-        width: 100%;
-        /* 1300px, Flask uygulamasının CSS'indeki maksimum genişliğe uyar */
-        max-width: 1300px; 
+        /* Maximize width for cleaner look */
+        max-width: 1400px; 
+        padding: 0;
         margin: 0 auto; 
-        padding: 20px 0;
     }
 
-    /* Stil 2: Iframe'in kendisi */
     .viewer-iframe {
         width: 100%;
-        /* Yeterli boşluk sağlamak için minimum yüksekliği sabitliyoruz */
-        min-height: 950px; 
-        border: 2px solid #ccc;
-        border-radius: 10px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        /* Setting a very large height to eliminate scrollbar conflicts */
+        min-height: 1200px; 
+        border: none; /* Remove the visible border */
         display: block;
-    }
-
-    h1 {
-        text-align: center;
-        color: #333;
-        margin-bottom: 20px;
+        
+        /* Ensure the iframe itself is styled cleanly */
+        background-color: #f5f5f5; 
+        box-shadow: none; 
     }
 </style>
 
 <div class="viewer-wrapper">
-    <h1>Analizli Oyun Kütüphanesi</h1>
-    <p style="text-align: center; color: #555;">Aşağıda, Satranç Analiz Motorumuz tarafından hazırlanan, yorumlanmış oyunları inceleyebilirsiniz.</p>
+    <!-- Removed redundant H1/P tags that might conflict -->
     
-    <!-- 🛑 CRITICAL: iframe, Flask uygulamanızın canlı adresinden veriyi çeker. -->
     <iframe 
         class="viewer-iframe" 
         src="https://strnchess.pythonanywhere.com/library" 
