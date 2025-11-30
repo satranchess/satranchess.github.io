@@ -1,0 +1,33 @@
+---
+layout: default
+title: Deneme Oyunları
+permalink: /deneme-pgn/
+---
+
+<!-- Bu sayfa, Flask'tan 'deneme-pgn' listesini yüklüyor -->
+<style>
+    .viewer-wrapper {
+        width: 100%;
+        max-width: 1300px; 
+        margin: 0 auto; 
+        padding: 0;
+    }
+    .viewer-iframe {
+        width: 100%;
+        min-height: 1200px; 
+        border: none;
+        display: block;
+        background-color: #f5f5f5; 
+        box-shadow: none; 
+    }
+</style>
+
+<div class="viewer-wrapper">
+    <!-- CRITICAL: Flask uygulamasına dosya adını doğrudan gönderir -->
+    <iframe 
+        class="viewer-iframe" 
+        src="https://strnchess.pythonanywhere.com/library/deneme-pgn" 
+        title="Deneme PGN Kütüphanesi">
+        Tarayıcınız iframe'leri desteklemiyor.
+    </iframe>
+</div>
