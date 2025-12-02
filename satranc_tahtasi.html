@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Satranç Tahtası FEN Gösterici</title>
+    <link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+    <style>
+        /* Tahta boyutunu ayarlayın */
+        #myBoard { width: 400px; } 
+    </style>
+</head>
+<body>
+    <div id="myBoard"></div>
+    <input type="text" id="fenInput" placeholder="FEN Notasyonunu Girin">
+    <button onclick="updateBoard()">Tahtayı Güncelle</button>
+
+    <script src="https://unpkg.com/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+    <script src="https://unpkg.com/chess.js@0.10.3/chess.js"></script>
+
+    <script>
+        var board = null;
+
+        function initBoard (fen) {
+            var config = {
+                draggable: true,
+                position: fen || 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+            };
+            board = Chessboard('myBoard', config);
+        }
+
+        function updateBoard() {
+            var fen = document.getElementById('fenInput').value;
+            if (fen) {
+                // FEN notasyonunu doğrudan tarayıcıda görselleştirir
+                board.position(fen);
+            } else {
+                 alert('Lütfen FEN notasyonu girin.');
+            }
+        }
+
+        initBoard(); // Sayfa yüklendiğinde tahtayı başlat
+    </script>
+</body>
+</html>
