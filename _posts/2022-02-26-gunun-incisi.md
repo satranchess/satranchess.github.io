@@ -233,11 +233,7 @@ _33.Sg3 Kc3+ 34.f3 Kc6 35.h4 Kc8_
 
 (35...h5 36.Sf4 ikinci cephe açıldı.)
 
-_36.h5 Kc6_
-
-(36...g5 37.Sh3 Kc2 38.Ka8+ Kc8 39.Fe7+ Sc7 40.Kxc8+ Sxc8 41.g4 ve Beyaz piyonlardan biri vezir olacak, Siyah at hala oynayamıyor 41...Sc7 42.f4 gxf4 43.g5)
-
-_37.Sh4 Kc8 38.g4 Se8 39.f4 Sd8 40.hxg6 fxg6 41.g5 h5_
+_36.h5 Kc6 37.Sh4 Kc8 38.g4 Se8 39.f4 Sd8 40.hxg6 fxg6 41.g5 h5_
 
 <div class="cbdiagram"
 data-size="400"
