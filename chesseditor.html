@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: 'unsafe-inline'">
+
+<title>Satranç Bilen Editör</title>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.1/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+
+<script type="module">
+import { Chess } from "https://unpkg.com/chess.js@1.1.0/dist/esm/chess.js";
+window.Chess = Chess;
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"></script>
+
+<style>
+body{margin:5rem;font-family:system-ui;height:100vh;overflow:hidden;}
+textarea{font-size:14px;resize:none;}
+
+#ribbon{height:56px;display:flex;gap:12px;padding:0 12px;background:#f5f5f5;align-items:center;}
+.fab{width:44px;height:44px;border-radius:50%;border:none;background:#333;color:white;display:flex;align-items:center;justify-content:center;cursor:pointer;}
+.material-symbols-outlined{font-size:24px;}
+
+#container{display:flex;height:80vh;}
+
+#editorColumn{
+ width:40%;
+ min-width:260px;
+ display:flex;
+ flex-direction:column;
+ overflow:hidden;
+}
+
+#cssWrap{display:none;flex-direction:column;border-bottom:1px solid #ccc;}
+#cssWrap.open{display:flex;}
+
+#cssBar{display:flex;padding:6px;gap:6px;background:#fafafa;border-bottom:1px solid #ddd;}
+#cssPreset{width:160px;}
+
+#cssEditor{
+ height:120px;
+ min-height:120px;
+ resize:vertical;
+ max-width:100%;
+ box-sizing:border-box;
+ font-family:monospace;
+ border:none;
+ padding:12px;
+}
+
+#md{
+ flex:1;
+ padding:16px;
+ padding-bottom:2rem;
+ border:none;
+ font-family:monospace;
+ overflow:auto;
+ -webkit-overflow-scrolling:touch;
+}
+
+#divider{
+ width:4px;
+ background:lightgrey;
+ cursor:col-resize;
+ touch-action:none;
+ user-select:none;
+ -webkit-user-select:none;
+}
+
+#pageoutput{
+ flex:1;
+ padding:1rem;
+ padding-top:0;
+ line-height:1.6;
+ font-size:20px;
+ overflow:auto;
+ -webkit-overflow-scrolling:touch;
+ transition:opacity 0.15s ease;
+ margin:0 auto;
+ max-width:100%;
+}
+
+#pageoutput > *:first-child {
+  margin-top: 0 !important;
+}
+
+.diagram{
+ margin:auto;
+ break-inside:avoid;
+ max-width:100%;
+}
+
+h1,h5,h6{margin-top:0;}
+h6{text-align:center;font-weight:normal;}
+h4,h5{margin-bottom:0;}
+h5,h6{margin-top:0;font-weight:normal;color:grey;}
+
+.move{display:inline-block;font-weight:bold;padding-right:2px;}
+.movenumber{font-weight:bold;}
+.move.error{color:#d00;text-decoration:underline;}
+.comment-inline,.variation,.variation .move,.variation .movenumber{font-weight:normal;}
+
+body.resizing{user-select:none;}
+body.resizing #pageoutput{pointer-events:none;}
+
+#floatingControls{
+ position:fixed;
+ top:20px;
+ left:20px;
+ display:flex;
+ flex-direction:row;
+ gap:12px;
+ z-index:999;
+}
+
+.preview-placeholder{
+  color:#999;
+  font-style:italic;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  height:100%;
+  text-align:center;
+}
+
+@media (max-width:768px){
+ body{margin:0;padding:0;}
+ #container{flex-direction:column;}
+ #editorColumn{
+  width:100% !important;
+  min-width:0;
+  min-height:50vh;
+ }
+ #divider{display:none;}
+ #pageoutput{min-height:50vh;}
+
+ #cssEditor{
+  height:160px;
+ }
+    
+ #floatingControls{
+  top:auto;
+  left:50%;
+  bottom:16px;
+  transform:translateX(-50%);
+ }
+}
+
+@media print{
+  #ribbon,
+  #editorColumn,
+  #divider,
+  #floatingControls{
+    display:none !important;
+  }
+
+  body{
+    margin:0;
+  }
+
+  #container{
+    display:block;
+  }
+
+  #pageoutput{
+    max-width:800px;
+    margin:0 auto;
+  }
+}
+
+</style>
+
+<style id="previewStyle"></style>
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<div id="editorColumn">
+
+<div id="cssWrap">
+ <div id="cssBar">
+  <select id="cssPreset">
+   <option value="BlankTheme">BlankTheme</option>
+   <option value="Raleway">Raleway</option>
+   <option value="Book">Book</option>
+   <option value="TSF">TSF</option>
+   <option value="AnotherTheme">AnotherTheme</option>
+  </select>
+ </div>
+ <textarea id="cssEditor" aria-label="CSS Editor"></textarea>
+</div>
+
+<textarea id="md" aria-label="Markdown Editor" placeholder="Write Markdown here..."></textarea>
+
+</div>
+
+<div id="divider" role="separator" aria-orientation="vertical"></div>
+<div id="pageoutput"></div>
+
+</div>
+
+<div id="floatingControls">
+
+<button class="fab" id="fileBtn" aria-label="Load Markdown" title="Load Markdown">
+ <span class="material-symbols-outlined">folder_open</span>
+</button>
+
+<button class="fab" id="cssBtn" aria-label="Edit CSS Theme" title="Edit CSS Theme">
+ <span class="material-symbols-outlined">palette</span>
+</button>
+
+<button class="fab" id="downloadHtmlBtn" aria-label="Download HTML" title="Download HTML">
+ <span class="material-symbols-outlined">html</span>
+</button>
+
+<button class="fab" id="savePdfBtn" aria-label="Print PDF" title="Print PDF">
+ <span class="material-symbols-outlined">print</span>
+</button>
+
+</div>
+
+<script>
+(()=>{"use strict";
+
+/* MARKED */
+
+marked.setOptions({
+ mangle:false,
+ headerIds:false,
+ gfm:true,
+ breaks:false
+});
+
+/* PRESETS */
+
+const PRESETS={
+ BlankTheme:
+`#pageoutput{font-size:20px;}
+.pgn{column-count:2;
+column-rule:1px solid lightgrey;
+column-gap: 2.5rem;}
+.diagram {width:300px;}
+.variation .diagram {width:200px;}`,
+ Raleway:
+`@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+#pageoutput{font-family:Raleway;font-size:18px;color:#4A4A4A;line-height:1.5rem;}
+h1{text-decoration:underline;text-decoration-color:tomato;}
+a{color:tomato;}
+.diagram{width:300px;}
+.pgn{column-count:2;column-gap:40px;}`,
+ Book:
+`@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+#pageoutput{font-family:'Garamond';background:#fbfaf7;font-size:20px;line-height:28px;padding:3rem;}
+h1,h2,h3,h6{text-align:center;}
+.pgn{column-count:2;column-gap:48px;}
+p:first-of-type::first-letter{float:left; font-size:5rem; line-height:1; padding-right:8px; font-weight:700;}
+.diagram{width:300px;}`,   
+ TSF:
+`#pageoutput{font-family:Times New Roman,serif;
+font-size:16px;padding-left:2rem;padding-right:2rem;}
+p{text-align:justify;}
+h1,h2,h3,h4,h5{text-align:center;margin:0;}
+h3{line-height:0rem; padding-top:1rem;}
+h5{margin-bottom:1rem;}
+h6{font-size:.75em;color:black;font-style:italic;}
+img{display:block;margin:auto;}
+table{border-collapse:collapse;margin:auto;}
+th,td{padding:0 .5rem;text-align:left;}
+th{background:#f2f2f2;}
+tr:nth-child(even){background:#fafafa;}
+.pgn{column-count:2;
+column-rule:1px solid lightgrey;
+column-gap: 2.5rem;}
+.pgn > p {margin-top:0;margin-bottom:0;}
+.pgn > p:first-child{margin-top:0;}
+.diagram {width:300px;}
+.variation .diagram {width:200px;}
+.variation p {margin-top:0;margin-bottom:0;}
+@media print{
+  @page{size: A4;
+    margin: 7mm 7mm 7mm 7mm;
+    border: 1px solid lightgrey;
+    padding-top:2rem;
+    padding-bottom:1rem;}
+}`,
+ AnotherTheme:".diagram{width:300px;}",
+};
+
+const PIECE_THEME = "https://chessboardjs.com/img/chesspieces/wikipedia/{piece}.png";
+
+/* ELEMENTS */
+
+const md=document.getElementById("md");
+const pageoutput=document.getElementById("pageoutput");
+const cssEditor=document.getElementById("cssEditor");
+const cssPreset=document.getElementById("cssPreset");
+const cssWrap=document.getElementById("cssWrap");
+const previewStyle=document.getElementById("previewStyle");
+const divider=document.getElementById("divider");
+const editorColumn=document.getElementById("editorColumn");
+const container=document.getElementById("container");
+
+/* ========= CSS SYSTEM ========= */
+
+function scopeCSS(css){
+  return css.replace(/(^|})\s*([^@}{][^{]+)\s*\{/g,
+    (m, brace, sel) => {
+
+      const clean = sel.trim();
+
+      if(clean === "#pageoutput" || clean === ":root"){
+        return `${brace}\n#pageoutput{`;
+      }
+
+      // Leave at-rules untouched
+      if(clean.startsWith("@")) return m;
+
+      const scoped = clean
+        .split(",")
+        .map(s => "#pageoutput " + s.trim())
+        .join(", ");
+
+      return `${brace}\n${scoped}{`;
+    }
+  );
+}
+
+let initialCSS=PRESETS.BlankTheme;
+
+previewStyle.textContent=scopeCSS(initialCSS);
+cssEditor.value=initialCSS;
+
+let lastPresetCSS=PRESETS.BlankTheme;
+
+cssPreset.onchange=()=>{
+ if(cssEditor.value!==lastPresetCSS){
+  if(!confirm("Unsaved CSS will be replaced. Continue?")){
+   cssPreset.value="BlankTheme";
+   return;
+  }
+ }
+ lastPresetCSS=PRESETS[cssPreset.value];
+ cssEditor.value=lastPresetCSS;
+previewStyle.textContent=scopeCSS(lastPresetCSS);
+ resizeBoards();
+ if(window.innerWidth<768){
+  cssWrap.classList.remove("open");
+ }
+};
+
+let cssResizeTimer=null;
+cssEditor.oninput=()=>{
+previewStyle.textContent=scopeCSS(cssEditor.value);
+ if(cssResizeTimer) cancelAnimationFrame(cssResizeTimer);
+ cssResizeTimer=requestAnimationFrame(resizeBoards);
+};
+
+/* FILE LOAD */
+
+const fileInput=document.createElement("input");
+fileInput.type="file";
+fileInput.accept=".md";
+
+fileInput.onchange=()=>{
+ if(!fileInput.files[0])return;
+ const r=new FileReader();
+ r.onload=e=>{
+  md.value=e.target.result;
+  md.scrollTop=0;
+  pageoutput.scrollTop=0;
+
+/* ===== COLUMN RESIZER ===== */
+
+let isResizing = false;
+
+divider.addEventListener("pointerdown", e=>{
+  isResizing = true;
+  document.body.classList.add("resizing");
+  divider.setPointerCapture(e.pointerId);
+});
+
+window.addEventListener("pointermove", e=>{
+  if(!isResizing) return;
+
+  const rect = container.getBoundingClientRect();
+  let x = e.clientX - rect.left;
+
+  const min = 200;
+  const max = rect.width - 200;
+
+  x = Math.max(min, Math.min(max, x));
+
+  const percent = (x / rect.width) * 100;
+  editorColumn.style.width = percent + "%";
+});
+
+window.addEventListener("pointerup", e=>{
+  if(!isResizing) return;
+  isResizing = false;
+  document.body.classList.remove("resizing");
+});
+
+  render();
+ };
+ r.readAsText(fileInput.files[0]);
+};
+
+document.getElementById("fileBtn").onclick=()=>{
+ fileInput.value="";
+ fileInput.click();
+};
+      
+/* CSS BUTTON */
+
+document.getElementById("cssBtn").onclick=()=>{
+ cssWrap.classList.toggle("open");
+ if(cssWrap.classList.contains("open")){
+  cssEditor.focus();
+  cssEditor.scrollIntoView({behavior:"smooth",block:"center"});
+ }
+};
+
+/* PRINT */
+
+document.getElementById("savePdfBtn").onclick=()=>{
+ window.print();
+};
+
+/* DOWNLOAD HTML */
+
+document.getElementById("downloadHtmlBtn").onclick = () => {
+
+ const content = pageoutput.innerHTML;
+ const css = previewStyle.textContent;
+
+ const html =
+`<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Exported Chess Document</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css">
+<style>
+body{
+ margin:3rem;
+}
+.diagram{
+ margin:auto;
+ break-inside:avoid;
+ max-width:100%;
+}
+
+h1,h5,h6{margin-top:0;}
+h6{text-align:center;font-weight:normal;}
+h4,h5{margin-bottom:0;}
+h5,h6{margin-top:0;font-weight:normal;color:grey;}
+
+.move{display:inline-block;font-weight:bold;padding-right:2px;}
+.movenumber{font-weight:bold;}
+.move.error{color:#d00;text-decoration:underline;}
+.comment-inline,.variation,.variation .move,.variation .movenumber{font-weight:normal;}
+#pageoutput{max-width:60vw;margin:auto;}
+${css}
+</style>
+</head>
+<body>
+<div id="pageoutput">
+${content}
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"><\/script>
+</body>
+</html>`;
+
+ const blob = new Blob([html], { type: "text/html;charset=utf-8" });
+ const url = URL.createObjectURL(blob);
+
+ const a = document.createElement("a");
+ a.href = url;
+ a.download = "ChessDocument.html";
+ document.body.appendChild(a);
+ a.click();
+ a.remove();
+
+ URL.revokeObjectURL(url);
+};
+
+
+/* UTIL */
+
+function stripHTML(s){
+ return DOMPurify.sanitize(s,{
+  ALLOWED_TAGS:[],
+  ALLOWED_ATTR:[]
+ }).replace(/&lt;|&gt;|&amp;/g,m=>(
+  {"&lt;":"<","&gt;":">","&amp;":"&"}[m]
+ ));
+}
+
+/* TOKENS */
+
+const FEN_TOKEN="@@FEN@@";
+const PGN_TOKEN="@@PGN@@";
+
+const FIGURINES = {
+  K:"♔",
+  Q:"♕",
+  R:"♖",
+  B:"♗",
+  N:"♘"
+};
+
+function toFigurine(text){
+
+  // Real SAN pattern (balanced)
+  const SAN =
+    /\b(O-O-O|O-O|[KQRBN]?[a-h]?[1-8]?x?[a-h][1-8](?:=[QRBN])?[+#]?)\b/g;
+
+  return text.replace(SAN, token => {
+
+    // Castling
+    if(token === "O-O" || token === "O-O-O") return token;
+
+    // Promotion like g8=Q or exd8=Q
+    if(/=([QRBN])/.test(token)){
+      return token.replace(/=([QRBN])/, (_,p)=>"="+FIGURINES[p]);
+    }
+
+    // Piece move starting with KQRBN
+    const p = token[0];
+    if(FIGURINES[p]){
+      return FIGURINES[p] + token.slice(1);
+    }
+
+    return token;
+  });
+}
+
+
+/* PGN PARSER */
+
+function parsePGN(pgn){
+
+  const headers=[];
+  pgn=pgn.replace(/^\s*\[(\w+)\s+"([^"\n]*)"\s*\]\s*$/gm,(_,k,v)=>{
+    headers.push({k,v});
+    return "";
+  });
+
+  pgn=pgn.replace(/\$[0-9]+/g,"");
+  pgn=pgn.replace(/\[\s*%(?:eval|clk|csl|cal)[^\]]*\]/gi,"");
+  pgn=pgn.replace(/%[a-zA-Z0-9_]+/g,"");
+  pgn=pgn.replace(/(\d+)\.(\.\.)?([A-Za-zNBRQK])/g,"$1.$2 $3");
+
+  let i=0;
+
+  function skipWS(){
+    while(i<pgn.length && /\s/.test(pgn[i])) i++;
+  }
+
+  function readBlock(open,close){
+    let d=1,s="";
+    while(i<pgn.length){
+      const c=pgn[i++];
+      if(c===open) d++;
+      if(c===close){
+        d--;
+        if(d===0) break;
+      }
+      s+=c;
+    }
+    return s;
+  }
+
+function parseSequence(chess, state, inVariation=false){
+
+    let moveNumber = state.moveNumber;
+    let side = state.side;
+
+    let out=[];
+    let buf=[];
+    let interruption=inVariation;
+
+    function flush(){
+      if(buf.length){
+        out.push("<p>"+buf.join(" ")+"</p>");
+        buf=[];
+      }
+    }
+
+    while(i<pgn.length){
+
+      skipWS();
+      const c=pgn[i];
+      if(!c) break;
+      if(c===")"){ i++; break; }
+
+      i++;
+
+      if(c==="{"){
+const raw = toFigurine(stripHTML(readBlock("{","}").trim()));
+        if(raw){
+          if(inVariation){
+            buf.push(`<span class="comment-inline">${raw}</span>`);
+          }else{
+            flush();
+            out.push("<p class='comment-inline'>"+raw+"</p>");
+          }
+          interruption=true;
+        }
+        continue;
+      }
+
+      if(c==="("){
+
+        const lastMove = chess.history().length ? chess.undo() : null;
+
+        const savedFen = chess.fen();
+        const savedState = {
+          moveNumber: lastMove && lastMove.color === "b" ? moveNumber - 1 : moveNumber,
+          side: chess.turn()
+        };
+
+        flush();
+
+        const inner = parseSequence(chess, {
+          moveNumber: savedState.moveNumber,
+          side: savedState.side
+        }, true);
+
+        chess.load(savedFen);
+
+        if(lastMove){
+          chess.move(lastMove);
+        }
+
+        moveNumber = savedState.moveNumber;
+        side = savedState.side === "w" ? "b" : "w";
+
+        out.push("<div class='variation'>"+inner+"</div>");
+        interruption=true;
+        continue;
+      }
+
+      if(c==="[" && /^D\s*\]/.test(pgn.slice(i))){
+        i+=pgn.slice(i).match(/^D\s*\]/)[0].length;
+        flush();
+        out.push(`<div class="diagram" data-fen="${stripHTML(chess.fen())}"></div>`);
+        interruption=true;
+        continue;
+      }
+
+      let t=c;
+      while(i<pgn.length && !/\s|\(|\)|\{|\[/.test(pgn[i])){
+        t+=pgn[i++];
+      }
+
+      t=t.replace(/^(\d+\.(?:\.\.)?)([A-Za-z])/,"$1 $2");
+
+      if(/^\d+\.(?:\.\.)?$/.test(t)){
+        const n=parseInt(t);
+        if(!isNaN(n)) moveNumber=n;
+
+        if(t.endsWith("...")){
+          side="b";
+          if(!interruption) continue;
+        }else{
+          side="w";
+        }
+
+        buf.push("<span class='movenumber'>"+t+"</span>");
+        interruption=false;
+        continue;
+      }
+
+      if(interruption && side==="b"){
+        buf.push("<span class='move'>"+moveNumber+"...</span>");
+      }
+
+      t=t.replace(/([!?+#]+)$/,"");
+      const displayMove = toFigurine(stripHTML(t));
+
+      let m=null;
+      try{
+        m=chess.move(t.trim(),{sloppy:true});
+      }catch(e){
+        m=null;
+      }
+
+      if(!m){
+        buf.push(`<span class="move error" title="Illegal move: ${displayMove}">${displayMove}</span>`);
+        interruption=true;
+        continue;
+      }
+
+      buf.push("<span class='move'>"+displayMove+"</span>");
+
+      side=side==="w"?"b":"w";
+      if(side==="w") moveNumber++;
+      interruption=false;
+    }
+
+    flush();
+    state.moveNumber=moveNumber;
+    state.side=side;
+
+    return out.join("");
+  }
+
+  const chess=new Chess();
+  const body=parseSequence(chess,{moveNumber:1,side:"w"});
+
+  let white="",black="",event="",year="";
+  headers.forEach(o=>{
+    if(o.k==="White") white=o.v;
+    if(o.k==="Black") black=o.v;
+    if(o.k==="Event") event=o.v;
+    if(o.k==="Date" && /^\d{4}/.test(o.v)) year=o.v.slice(0,4);
+  });
+
+  let h="";
+  if(white||black) h+=`<h4>${stripHTML(white)} - ${stripHTML(black)}</h4>`;
+  if(event||year) h+=`<h5>${stripHTML(event)}${event&&year?", ":""}${stripHTML(year)}</h5>`;
+
+  return h+`<div class="pgn">${body}</div>`;
+}
+
+/* RENDER */
+
+let renderTimer=null;
+let lastHTML="";
+let lastMD="";
+let renderSeq=0;
+
+const PURIFY_CONFIG={
+ ADD_ATTR:["data-fen"],
+ ALLOW_DATA_ATTR:true,
+ FORBID_TAGS:["style","script","iframe","object"],
+ FORBID_ATTR:["onerror","onload","onclick"]
+};
+
+function deferRender(fn){
+ if("requestIdleCallback" in window){
+  return requestIdleCallback(fn,{timeout:200});
+ }else{
+  return setTimeout(fn,180);
+ }
+}
+
+function initBoard(d){
+ const fen=d.dataset.fen;
+ if(typeof Chessboard==="function"){
+  try{
+   d.__board=Chessboard(d,{
+    draggable:false,
+    position:fen,
+    pieceTheme:PIECE_THEME
+   });
+  }catch(e){
+   d.innerHTML="<p style='color:red'>Invalid FEN</p>";
+  }
+ }
+}
+
+function resizeBoards(){
+  const diagrams = pageoutput.getElementsByClassName("diagram");
+  for(const d of diagrams){
+    if(d.__board && typeof d.__board.resize === "function"){
+      try{
+        d.__board.resize();
+      }catch(e){}
+    }
+  }
+}
+
+/* ===== INIT COLUMN RESIZER ===== */
+
+function initDividerDrag(){
+
+  let isResizing = false;
+
+  const start = e=>{
+    isResizing = true;
+    document.body.classList.add("resizing");
+  };
+
+  const move = e=>{
+    if(!isResizing) return;
+
+    const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+    const rect = container.getBoundingClientRect();
+
+    let x = clientX - rect.left;
+
+    const min = 200;
+    const max = rect.width - 200;
+
+    x = Math.max(min, Math.min(max, x));
+
+    const percent = (x / rect.width) * 100;
+    editorColumn.style.width = percent + "%";
+  };
+
+  const stop = ()=>{
+    if(!isResizing) return;
+    isResizing = false;
+    document.body.classList.remove("resizing");
+  };
+
+  divider.addEventListener("mousedown", start);
+  divider.addEventListener("touchstart", start, {passive:true});
+
+  window.addEventListener("mousemove", move);
+  window.addEventListener("touchmove", move, {passive:true});
+
+  window.addEventListener("mouseup", stop);
+  window.addEventListener("touchend", stop);
+}
+
+initDividerDrag();
+
+
+function render(){
+
+ if(md.value === lastMD && lastHTML !== "") return;
+lastMD = md.value;
+
+ const seq=++renderSeq;
+
+ if(renderTimer){
+  if("cancelIdleCallback" in window){
+   cancelIdleCallback(renderTimer);
+  }else{
+   clearTimeout(renderTimer);
+  }
+ }
+
+ pageoutput.style.opacity="0.6";
+
+renderTimer = deferRender(() => {
+
+ if (seq !== renderSeq) return;
+
+ const scrollPos = pageoutput.scrollTop;
+ const mdScroll = md.scrollTop;
+
+ let src = md.value;
+ const fenBlocks = [], pgnBlocks = [];
+
+ pageoutput.style.opacity = "0.6";
+
+ src=src.replace(/\[FEN>\s*([\s\S]*?)\s*<FEN\]/gi,(_,c)=>{
+  const id=fenBlocks.length;
+  fenBlocks.push(c);
+  return FEN_TOKEN+id+FEN_TOKEN;
+ });
+
+ src=src.replace(/\[PGN>\s*([\s\S]*?)\s*<PGN\]/gi,(_,c)=>{
+  const id=pgnBlocks.length;
+  pgnBlocks.push(c);
+  return PGN_TOKEN+id+PGN_TOKEN;
+ });
+
+ let html = DOMPurify.sanitize(marked.parse(src), PURIFY_CONFIG);
+
+ html = toFigurine(html);
+
+ fenBlocks.forEach((c,i)=>{
+  const lines=c.trim().split(/\n/);
+  const fen=stripHTML(lines.shift());
+  const cap=lines.join("\n");
+  const rep=`<div class="diagram" data-fen="${fen}"></div>`+(cap?`<h6>${stripHTML(cap)}</h6>`:"");
+  html=html.replaceAll(FEN_TOKEN+i+FEN_TOKEN,rep);
+ });
+
+ pgnBlocks.forEach((c,i)=>{
+  html=html.replaceAll(PGN_TOKEN+i+PGN_TOKEN,parsePGN(c));
+ });
+
+ html=DOMPurify.sanitize(html,PURIFY_CONFIG);
+ html = html.replace(/(?:href|src)\s*=\s*["']\s*javascript:[^"']*["']/gi,"");
+
+ const oldDiagrams=pageoutput.getElementsByClassName("diagram");
+ for(const d of oldDiagrams){
+  if(d.__board){
+   try{
+    if(d.__board && typeof d.__board.destroy==="function"){
+     d.__board.destroy();
+    }
+   }catch(e){}
+   d.__board=null;
+   d.innerHTML="";
+  }
+ }
+
+ if(html===lastHTML){
+  pageoutput.scrollTop=scrollPos;
+  md.scrollTop=mdScroll;
+  pageoutput.style.opacity="1";
+  return;
+ }
+ lastHTML=html;
+
+ pageoutput.innerHTML=html;
+
+ const newDiagrams = pageoutput.getElementsByClassName("diagram");
+ for(const d of newDiagrams){
+  initBoard(d);
+ }
+
+ pageoutput.scrollTop=scrollPos;
+ md.scrollTop=mdScroll;
+
+ pageoutput.style.opacity="1";
+
+ });
+
+}
+
+/* INIT */
+
+let mdRAF=null;
+md.oninput=()=>{
+ if(mdRAF) return;
+ mdRAF=requestAnimationFrame(()=>{
+  mdRAF=null;
+  render();
+ });
+};
+
+md.addEventListener("keydown",e=>{
+ if(e.key==="Tab"){
+  e.preventDefault();
+  const s=md.selectionStart;
+  const epos=md.selectionEnd;
+  const v=md.value;
+  md.value=v.slice(0,s)+"\t"+v.slice(epos);
+  md.selectionStart=md.selectionEnd=s+1;
+ }
+});
+
+render();
+
+})();
+</script>
+</body>
+</html>
