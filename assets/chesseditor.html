@@ -22,210 +22,57 @@ window.Chess = Chess;
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.js"></script>
 
 <style>
-body{margin:5rem;font-family:system-ui;height:100vh;overflow:hidden;}
-textarea{font-size:14px;resize:none;}
 
-#ribbon{height:56px;display:flex;gap:12px;padding:0 12px;background:#f5f5f5;align-items:center;}
+/* ===== MOBILE FIRST BASE ===== */
+
+body{margin:0;padding:0;font-family:system-ui;max-width:100vw;height:100vh;overflow:hidden;}
+textarea{font-size:14px;resize:none;}
 .fab{width:44px;height:44px;border-radius:50%;border:none;background:#333;color:white;display:flex;align-items:center;justify-content:center;cursor:pointer;}
 .material-symbols-outlined{font-size:24px;}
-
-#container{display:flex;height:80vh;}
-
-#editorColumn{
- width:40%;
- min-width:260px;
- display:flex;
- flex-direction:column;
- overflow:hidden;
-}
-
+#container{flex-direction:column;max-width:100vw;}
+#editorColumn{width:100%;min-width:260px;max-width:100vw;min-height:40vh;display:flex;flex-direction:column;overflow:hidden;}
 #cssWrap{display:none;flex-direction:column;border-bottom:1px solid #ccc;}
 #cssWrap.open{display:flex;}
-
 #cssBar{display:flex;padding:6px;gap:6px;background:#fafafa;border-bottom:1px solid #ddd;}
-#cssPreset{width:160px;}
-
-#cssEditor{
- height:120px;
- min-height:120px;
- resize:vertical;
- max-width:100%;
- box-sizing:border-box;
- font-family:monospace;
- border:none;
- padding:12px;
-}
-
-#md{
- flex:1;
- padding:16px;
- padding-bottom:2rem;
- border:none;
- font-family:monospace;
- overflow:auto;
- -webkit-overflow-scrolling:touch;
-}
-
-#divider{
- width:4px;
- background:lightgrey;
- cursor:col-resize;
- touch-action:none;
- user-select:none;
- -webkit-user-select:none;
-}
-
-#pageoutput{
- flex:1;
- padding:1rem;
- padding-top:0;
- line-height:1.6;
- font-size:20px;
- overflow:auto;
- -webkit-overflow-scrolling:touch;
- transition:opacity 0.15s ease;
- margin:0 auto;
- max-width:100%;
-}
-
-#pageoutput > *:first-child {
-  margin-top: 0 !important;
-}
-
-.diagram{
- margin:auto;
- break-inside:avoid;
- max-width:100%;
-}
-
+#cssPreset{width:100px;}
+#cssEditor{height:120px;min-height:120px;resize:vertical;max-width:100vw;box-sizing:border-box;font-family:monospace;border:none;padding:12px;}
+#md{flex:1;padding:16px;padding-bottom:2rem;border:none;font-family:monospace;overflow:auto;-webkit-overflow-scrolling:touch;}
+#divider{display:none;}
+#pageoutput{flex:1;padding:1rem;line-height:1.5;font-size:20px;margin:1rem auto;max-width:100vw;height:60vh;overflow:auto;-webkit-overflow-scrolling:touch;border-top:4px solid lightgrey;}
+.diagram{margin:auto;break-inside:avoid;max-width:100%;}
 h1,h5,h6{margin-top:0;}
 h6{text-align:center;font-weight:normal;}
 h4,h5{margin-bottom:0;}
 h5,h6{margin-top:0;font-weight:normal;color:grey;}
-
 .move{display:inline-block;font-weight:bold;padding-right:2px;}
 .movenumber{font-weight:bold;}
 .move.error{color:#d00;text-decoration:underline;}
 .comment-inline,.variation,.variation .move,.variation .movenumber{font-weight:normal;}
-
 body.resizing{user-select:none;}
 body.resizing #pageoutput{pointer-events:none;}
+#floatingControls{position:fixed;top:auto;left:50%;bottom:16px;display:flex;flex-direction:row;gap:12px;transform:translateX(-50%);z-index:999;max-width:100vw;}
 
-#floatingControls{
- position:fixed;
- top:20px;
- left:20px;
- display:flex;
- flex-direction:row;
- gap:12px;
- z-index:999;
-}
-
-.preview-placeholder{
-  color:#999;
-  font-style:italic;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  height:100%;
-  text-align:center;
-}
-
-/* ===== MOBILE FIRST BASE ===== */
-
-body{
- margin:0;
- padding:0;
-}
-
-#container{
- flex-direction:column;
-}
-
-#editorColumn{
- width:100%;
- min-width:0;
- min-height:50vh;
-}
-
-#divider{
- display:none;
-}
-
-#pageoutput{
- min-height:50vh;
-}
-
-#cssEditor{
- height:160px;
-}
-
-#floatingControls{
- top:auto;
- left:50%;
- bottom:16px;
- transform:translateX(-50%);
-}
-
+/* ===== LARGER SCREENS ===== */
+    
 @media (min-width:768px){
-
- body{
-  margin:5rem;
- }
-
- #container{
-  flex-direction:row;
- }
-
- #editorColumn{
-  width:40%;
-  min-width:260px;
-  min-height:auto;
- }
-
- #divider{
-  display:block;
- }
-
- #pageoutput{
-  min-height:auto;
- }
-
- #cssEditor{
-  height:120px;
- }
-
- #floatingControls{
-  top:20px;
-  left:20px;
-  bottom:auto;
-  transform:none;
- }
-
+ body{margin:5rem;}
+ #container{display:flex;height:80vh;flex-direction:row;}
+ #editorColumn{width:40%;min-width:260px;min-height:auto;}
+ #divider{display:block;width:4px;background:lightgrey;cursor:col-resize;touch-action:none;user-select:none;-webkit-user-select:none;}
+ #pageoutput{padding:2rem;padding-top:0;margin-top:0;height:75vh;max-height:75vh;max-width:auto;overflow:scroll;border:none;}
+ #pageoutput > *:first-child {margin-top:0 !important;}
+ #cssEditor{height:120px;}
+ #floatingControls{top:20px;left:20px;bottom:auto;transform:none;flex-direction:row;}
 }
+
+/* ===== PRINT ===== */
 
 @media print{
-  #ribbon,
-  #editorColumn,
-  #divider,
-  #floatingControls{
-    display:none !important;
-  }
-
-  body{
-    margin:0;
-  }
-
-  #container{
-    display:block;
-  }
-
-  #pageoutput{
-    max-width:800px;
-    margin:0 auto;
-  }
+ #editorColumn,#divider,#floatingControls{display:none !important;}
+ body{margin:0;}
+ #container{display:block;}
+ #pageoutput{max-width:800px;margin:0 auto;}
 }
-
 </style>
 
 <style id="previewStyle"></style>
@@ -233,7 +80,6 @@ body{
 </head>
 
 <body>
-
 
 <div id="container">
 
@@ -521,7 +367,7 @@ h5,h6{margin-top:0;font-weight:normal;color:grey;}
 .movenumber{font-weight:bold;}
 .move.error{color:#d00;text-decoration:underline;}
 .comment-inline,.variation,.variation .move,.variation .movenumber{font-weight:normal;}
-#pageoutput{max-width:60vw;margin:auto;}
+@media print{#pageoutput{max-width:60vw;margin:auto;}}
 ${css}
 </style>
 </head>
