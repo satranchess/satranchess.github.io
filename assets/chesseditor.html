@@ -4,7 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: 'unsafe-inline'">
+
 <title>Satranç Bilen Editör</title>
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chessboard-js/1.0.0/chessboard-1.0.0.min.css">
 
@@ -129,27 +131,77 @@ body.resizing #pageoutput{pointer-events:none;}
   text-align:center;
 }
 
-@media (max-width:768px){
- body{margin:0;padding:0;}
- #container{flex-direction:column;}
- #editorColumn{
-  width:100% !important;
-  min-width:0;
-  min-height:50vh;
+/* ===== MOBILE FIRST BASE ===== */
+
+body{
+ margin:0;
+ padding:0;
+}
+
+#container{
+ flex-direction:column;
+}
+
+#editorColumn{
+ width:100%;
+ min-width:0;
+ min-height:50vh;
+}
+
+#divider{
+ display:none;
+}
+
+#pageoutput{
+ min-height:50vh;
+}
+
+#cssEditor{
+ height:160px;
+}
+
+#floatingControls{
+ top:auto;
+ left:50%;
+ bottom:16px;
+ transform:translateX(-50%);
+}
+
+@media (min-width:768px){
+
+ body{
+  margin:5rem;
  }
- #divider{display:none;}
- #pageoutput{min-height:50vh;}
+
+ #container{
+  flex-direction:row;
+ }
+
+ #editorColumn{
+  width:40%;
+  min-width:260px;
+  min-height:auto;
+ }
+
+ #divider{
+  display:block;
+ }
+
+ #pageoutput{
+  min-height:auto;
+ }
 
  #cssEditor{
-  height:160px;
+  height:120px;
  }
-    
+
  #floatingControls{
-  top:auto;
-  left:50%;
-  bottom:16px;
-  transform:translateX(-50%);
+  top:20px;
+  left:20px;
+  bottom:auto;
+  transform:none;
  }
+
 }
 
 @media print{
