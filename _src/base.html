@@ -1,0 +1,130 @@
+<!doctype html>
+{%- assign has_player = false -%}{%- if content contains '<pgn-player' %}{% assign has_player = true %}{% endif %}
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.collection == 'posts' %}{{ page.title | strip | escape }} – {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | escape }}{% else %}{{ site.description }}{% endif %}">
+{%- unless page.private %}
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="{% if page.collection == 'posts' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{% if page.collection == 'posts' %}{{ page.title | strip | escape }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.summary %}{{ page.summary | strip_html | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ '/assets/og-logo.png' | absolute_url }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ site.title }} logosu">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ '/assets/og-logo.png' | absolute_url }}">
+{%- endunless %}
+{%- if page.private %}
+<meta name="robots" content="noindex, nofollow">
+{%- endif %}
+<link rel="preload" href="{{ '/assets/fonts/instrument-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/assets/fonts/instrument-latin-ext.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/assets/fonts/bricolage-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/assets/fonts/bricolage-latin-ext.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ '/assets/chesspublica/chessboard.css' | relative_url }}">
+{%- if has_player %}
+<link rel="stylesheet" href="{{ '/assets/chesspublica/player.css' | relative_url }}">
+{%- endif %}
+<link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/favicon/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}" sizes="48x48">
+<link rel="icon" href="{{ '/assets/favicon/favicon-32.png' | relative_url }}" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
+<script>try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+<script>document.documentElement.className += " js";</script>
+<script>/* the article is hidden until site.js has aligned it (see site.css); on a slow connection that script comes last, so do not keep the text waiting longer than this */setTimeout(function () { var s = document.querySelector(".site"); if (s) s.classList.add("site-ready"); }, 700);</script>
+</head>
+<body>
+{%- assign who = site.author -%}
+{%- comment -%} The brand: site.title split before its second capital letter ("SatranChess" -> bold "Satran" + light "Chess"). {%- endcomment -%}
+{%- assign brand_chars = site.title | split: "" -%}{%- assign brand_caps = 0 -%}{%- assign brand_cut = 0 -%}
+{%- for c in brand_chars -%}{%- assign c_low = c | downcase -%}{%- if c != c_low -%}{%- assign brand_caps = brand_caps | plus: 1 -%}{%- if brand_caps == 2 -%}{%- assign brand_cut = forloop.index0 -%}{%- endif -%}{%- endif -%}{%- endfor -%}
+{%- if brand_cut == 0 -%}{%- assign brand_cut = brand_chars.size -%}{%- endif -%}
+{%- assign brand_bold = site.title | slice: 0, brand_cut -%}{%- assign brand_light = site.title | slice: brand_cut, 100 -%}
+{%- assign has_game = false -%}{%- if content contains '<pgn>' %}{% assign has_game = true %}{% endif -%}
+{%- assign is_post = false -%}{%- assign is_home = true -%}
+{%- if page.collection == 'posts' or page.private %}{% assign is_home = false %}{% endif -%}
+{%- if page.collection == 'posts' %}{% assign is_post = true %}{% endif -%}
+<div class="site{% if page.private %} site-single{% endif %}{% if page.wide %} site-wide{% endif %}" lang="tr"{% if is_home %} data-board="interactive"{% endif %}>
+  <aside class="site-left">
+    <div class="site-brand"><div class="brand">
+      <span class="mark"><span class="sr">{{ site.title }}</span><span aria-hidden="true">{{ brand_bold }}</span><wbr><span class="lt"><span aria-hidden="true">{{ brand_light }}</span><a class="mark-dot" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} ana sayfa">{% include icon.html name="logo-dot" %}</a></span></span>
+      <p class="who">{{ who | replace: " ", "&nbsp;" }}</p>
+    </div></div>
+{%- if has_game %}
+    <div class="site-board-wrap"><div class="site-board"><div class="site-board-box"><div id="site-board-host"></div></div></div></div>
+{%- elsif is_home %}
+    <div class="site-board-wrap board-home" role="group" aria-label="Oynanabilir satranç tahtası"><div class="site-board"><div class="site-board-box"><div id="home-board" data-pieces="{{ '/assets/chesspublica/pieces/' | relative_url }}"></div><a class="board-link" id="board-link" target="_blank" rel="noopener" hidden><span class="bl-title"></span><span class="bl-text"></span></a></div></div><button type="button" class="board-reset" id="board-reset" hidden>↺ Başa dön</button></div>
+{%- elsif page.private %}
+{%- else %}
+    <div class="site-board-wrap board-empty"><div class="site-board"><div class="site-board-box"><div id="site-board-host"></div></div></div></div>
+{%- endif %}
+  </aside>
+  <main class="site-right">
+    <div class="site-scroll{% if is_home %} site-home{% endif %}">
+{%- if is_post %}
+{%- assign months = "Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık" | split: "," -%}
+{%- assign month_idx = page.date | date: "%-m" | minus: 1 -%}
+{%- assign listed = site.posts | where_exp: "p", "p.listed != false" | where_exp: "p", "p.private != true" -%}
+{%- assign prev_post = nil -%}{%- assign next_post = nil -%}
+{%- for p in listed -%}
+  {%- if p.url == page.url -%}
+    {%- unless forloop.last -%}{%- assign prev_post = listed[forloop.index] -%}{%- endunless -%}
+    {%- unless forloop.first -%}{%- assign k = forloop.index0 | minus: 1 -%}{%- assign next_post = listed[k] -%}{%- endunless -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign prev_body = prev_post.content | strip -%}{%- assign next_body = next_post.content | strip -%}
+      <header class="post-header">
+        <h1>{{ page.title | strip | escape }}</h1>
+{%- unless page.hide_date %}
+        <p class="post-byline"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d" }} {{ months[month_idx] }} {{ page.date | date: "%Y" }}</time></p>
+{%- endunless %}
+      </header>
+      <div class="post-body">
+{{ content | replace: '<pgn>', '<script type="text/x-pgn">' | replace: '</pgn>', '</script>' }}
+      </div>
+      <footer class="foot">
+{%- if prev_post or next_post %}
+        <nav class="post-nav" aria-label="Yazılar arasında gezin">
+  {%- if prev_post %}
+          <a{% if prev_body != "" %} href="{{ prev_post.url | relative_url }}"{% else %} aria-disabled="true"{% endif %} rel="prev"><span class="nav-label">← Önceki yazı</span><span class="nav-title"><span class="hv">{{ prev_post.title | strip | escape }}</span></span></a>
+  {%- endif %}
+  {%- if next_post %}
+          <a{% if next_body != "" %} href="{{ next_post.url | relative_url }}"{% else %} aria-disabled="true"{% endif %} rel="next"><span class="nav-label">Sonraki yazı →</span><span class="nav-title"><span class="hv">{{ next_post.title | strip | escape }}</span></span></a>
+  {%- endif %}
+        </nav>
+{%- endif %}
+{%- unless page.private %}
+        <div class="morerow foot-home"><a class="morebtn" href="{{ '/' | relative_url }}"><span class="hv">← Ana sayfa</span></a></div>
+{%- endunless %}
+        <p class="foot-copy">© {{ site.time | date: "%Y" }} Nazmi Can Doğan · Powered by <a href="https://chesspublica.github.io" target="_blank" rel="noopener">ChessPublica</a></p>
+      </footer>
+{%- else %}
+<h1 class="sr">{{ site.title }}</h1>
+{{ content }}
+{%- endif %}
+    </div>
+  </main>
+</div>
+<div role="region" aria-label="Görünüm"><button type="button" class="theme-toggle" id="theme-toggle" aria-label="Açık / koyu görünümü değiştir" title="Açık / koyu görünüm">
+  <svg class="ic-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7z"/></svg>
+  <svg class="ic-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.6M12 18.9v2.6M2.5 12h2.6M18.9 12h2.6M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+</button></div>
+{%- if is_home and site.data.secrets %}
+<script type="application/json" id="board-secrets">{{ site.data.secrets | jsonify }}</script>
+{%- endif %}
+<script>window.__pieceBase = "{{ '/assets/chesspublica/pieces/' | relative_url }}";</script>
+<script src="{{ '/assets/chesspublica/chess-libs.min.js' | relative_url }}"></script>
+{%- if has_player %}
+<script src="{{ '/assets/chesspublica/player.min.js' | relative_url }}"></script>
+{%- endif %}
+<script src="{{ '/assets/site.js' | relative_url }}"></script>
+</body>
+</html>

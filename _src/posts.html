@@ -1,0 +1,21 @@
+{%- assign visible = site.visible_posts | default: 2 -%}
+{%- assign all_posts = site.posts | where_exp: "p", "p.listed != false" | where_exp: "p", "p.private != true" -%}
+{%- assign pinned_posts = all_posts | where: "pinned", true -%}
+{%- assign other_posts = all_posts | where_exp: "p", "p.pinned != true" -%}
+{%- assign sorted_posts = pinned_posts | concat: other_posts -%}
+{%- assign remaining = sorted_posts.size | minus: visible -%}
+{%- assign months = "Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık" | split: "," -%}
+<ol class="list" id="posts-list">
+{%- for p in sorted_posts %}
+  <li{% if forloop.index > visible %} class="more" hidden{% else %}{% assign li_class = "" %}{% if p.pinned %}{% assign li_class = "pinned" %}{% endif %}{% if forloop.index == visible or forloop.last %}{% assign li_class = li_class | append: " last-visible" | strip %}{% endif %}{% if li_class != "" %} class="{{ li_class }}"{% endif %}{% endif %}>{% assign body_text = p.content | strip %}{% assign fen_parts = p.content | split: '[FEN "' %}{% assign post_fen = "" %}{% if fen_parts.size > 1 %}{% assign post_fen = fen_parts[1] | split: '"' | first %}{% endif %}{% if body_text != "" %}<a href="{{ p.url | relative_url }}"{% if post_fen != "" %} data-fen="{{ post_fen }}"{% endif %}>{% else %}<a aria-disabled="true">{% endif %}
+    {%- if p.pinned %}{% include icon.html name="pin" %}{% endif %}
+    <span class="pt"><span class="hv">{{ p.title | strip | escape }}</span></span>
+    {%- assign month_idx = p.date | date: "%-m" | minus: 1 %}
+    <time class="pd" datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%-d" }} {{ months[month_idx] }} {{ p.date | date: "%Y" }}</time>
+    <span class="px">{{ p.summary }}</span>
+  </a></li>
+{%- endfor %}
+</ol>
+{%- if remaining > 0 %}
+<button class="morebtn" id="morebtn" type="button" aria-expanded="false" aria-controls="posts-list" data-rest="{{ remaining }}"><span class="hv">Tüm yazıları gör</span> <span class="count">{{ remaining }} yazı daha</span></button>
+{%- endif %}

@@ -1,0 +1,11 @@
+{%- for v in site.data.videos -%}
+<div class="vid" data-id="{{ v.id }}" data-title="{{ v.title | escape }}">
+  <div class="vm"><span class="vl">{% if v.kind != "" and v.kind %}{{ v.kind }}{% else %}Video{% endif %}</span><span class="vd">{{ v.published | date: "%d.%m.%Y" }}</span></div>
+  <a class="thumb" href="{{ v.url }}" target="_blank" rel="noopener" aria-label="Videoyu oynat: {{ v.title | escape }}">
+    <img src="{{ '/assets/videos/' | append: v.id | append: '.jpg' | relative_url }}" alt="" width="1280" height="720">
+    <span class="play" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5.5v13l11-6.5z"/></svg></span>
+  </a>
+  <div class="vt-row"><a class="vt" href="{{ v.url }}" target="_blank" rel="noopener">{{ v.title | escape }}</a></div>
+</div>
+{%- endfor %}
+<div class="morerow"><a class="morebtn" href="https://www.youtube.com/@SatranChess" target="_blank" rel="noopener"><span class="hv">Tüm videoları gör {% include icon.html name="youtube" %}</span></a></div>
