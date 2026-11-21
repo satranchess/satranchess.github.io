@@ -2,7 +2,7 @@ title: SatranChess
 author: FM Nazmi Can Doğan
 description: FM Nazmi Can Doğan ile satranç analizleri
 lang: tr
-url: https://ogulkoseoglu.com   # for absolute addresses (sitemap); GitHub Pages adds baseurl /satranchess itself
+url: https://www.satranchess.com   # for absolute addresses (sitemap); GitHub Pages adds baseurl /satranchess itself
 
 # Number of posts visible in the "Yazılar" section when the page opens (newest first). The rest is behind "Tüm yazıları gör".
 visible_posts: 3
