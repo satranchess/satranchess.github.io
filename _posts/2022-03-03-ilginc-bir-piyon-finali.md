@@ -19,7 +19,7 @@ oyunun geri kalanı bunu kanıtlar nitelikte.
 
 Oysa durum belki de böyle değil!
 
-> ![Stockfish analizi: Shankland - Grischuk]({{ '/assets/images/shankland-stockfish.png' | relative_url }})
+> ![Stockfish analizi: Shankland - Grischuk]({{ '/assets/images/ilginc-bir-piyon-finali/shankland-stockfish.png' | relative_url }})
 
 Stockfish’e göre durum daha farklı. Beyaz sadece 36. b3!! oynayarak kazanabiliyor. Elbette oyun çok daha derin bir analizi hak ediyor, ancak şimdilik ana doğrultularla yetineceğim.
 
