@@ -4,12 +4,14 @@ layout: base
 
 ## Yayınlar
 
+
 - [{% include icon.html name="youtube" %}YouTube Canlı Yayınları](https://www.youtube.com/@SatranChess/streams)
   SatranChess YouTube kanalındaki canlı yayınlar. Yayınları izlemek için tıklayın.
-- [{% include icon.html name="lichess" %}Lichess Blog Yazıları](https://lichess.org/@/NaSil/blog)
-  Blog yazılarını Lichess üzerinde sürdürüyorum. Türkçe ve İngilizce blog yazılarıma buradan göz atabilirsiniz.
 - [{% include icon.html name="satrancvs" %}Satranç vs.](https://satrancvs.com)
   *Satranç vs.*, yayın yönetmenliğini yürüttüğüm dijital satranç dergisi. Dergiye göz atmak için tıklayın.
+- [{% include icon.html name="lichess" %}Lichess Blog Yazıları](https://lichess.org/@/NaSil/blog)
+  Blog yazılarını Lichess üzerinde sürdürüyorum. Türkçe ve İngilizce blog yazılarıma buradan göz atabilirsiniz.
+
 
 ## Yazılar
 
