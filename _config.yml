@@ -24,4 +24,4 @@ kramdown:
 # (make one with: python3 -c "import secrets; print(secrets.token_urlsafe(6))"). The file name still needs the date prefix (YYYY-MM-DD-name.md).
 
 # The repository the "new private lesson" wizard saves to (see _posts/private/*-yardimci.md)
-repository: okoseoglu/satranchess
+repository: satranchess/satranchess.github.io
