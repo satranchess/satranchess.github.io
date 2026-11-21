@@ -1,0 +1,13 @@
+---
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ '/' | absolute_url }}</loc></url>
+{%- assign listed = site.posts | where_exp: "p", "p.private != true" | where_exp: "p", "p.listed != false" %}
+{%- for p in listed %}
+  {%- assign body_text = p.content | strip %}{%- if body_text != "" %}
+  <url><loc>{{ p.url | absolute_url }}</loc><lastmod>{{ p.date | date_to_xmlschema }}</lastmod></url>
+  {%- endif %}
+{%- endfor %}
+</urlset>

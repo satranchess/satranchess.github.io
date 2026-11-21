@@ -1,0 +1,27 @@
+title: SatranChess
+author: FM Nazmi Can Doğan
+description: FM Nazmi Can Doğan ile satranç analizleri
+lang: tr
+url: https://ogulkoseoglu.com   # for absolute addresses (sitemap); GitHub Pages adds baseurl /satranchess itself
+
+# Number of posts visible in the "Yazılar" section when the page opens (newest first). The rest is behind "Tüm yazıları gör".
+visible_posts: 3
+
+# Templates, includes and data all live in _src/ (see README); posts stay in _posts/
+layouts_dir: _src
+includes_dir: _src
+data_dir: _src
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: base }
+
+kramdown:
+  auto_ids: false   # no automatic id attributes on headings
+
+# Private pages (shared by link only): a post with `private: true` in its front matter is not listed on the home page or in the
+# previous/next links and is hidden from search engines (noindex). Give it a hard-to-guess address, e.g. `permalink: /ozel/k7x2m9qp/`
+# (make one with: python3 -c "import secrets; print(secrets.token_urlsafe(6))"). The file name still needs the date prefix (YYYY-MM-DD-name.md).
+
+# The repository the "new private lesson" wizard saves to (see _posts/private/*-yardimci.md)
+repository: okoseoglu/satranchess

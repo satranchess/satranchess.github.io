@@ -1,0 +1,8 @@
+---
+permalink: /robots.txt
+---
+User-agent: *
+Allow: /
+Disallow: {{ '/ozel/' | relative_url }}
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
