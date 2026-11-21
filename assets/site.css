@@ -1,0 +1,537 @@
+/* Fonts: Bricolage Grotesque (display) and Instrument Sans (text), latin + latin-ext (Turkish), served from this site (no request to Google) */
+/* Bricolage Grotesque normal latin-ext */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 200 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(fonts/bricolage-latin-ext.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Bricolage Grotesque normal latin */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 200 800;
+  font-stretch: 75% 100%;
+  font-display: swap;
+  src: url(fonts/bricolage-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Instrument Sans italic latin-ext */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: italic;
+  font-weight: 400 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(fonts/instrument-italic-latin-ext.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Instrument Sans italic latin */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: italic;
+  font-weight: 400 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(fonts/instrument-italic-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Instrument Sans normal latin-ext */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 400 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(fonts/instrument-latin-ext.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Instrument Sans normal latin */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 400 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(fonts/instrument-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face { font-family: "Figurine"; src: url("fonts/figurine.woff2") format("woff2"); unicode-range: U+2654-265F; font-display: swap; font-weight: 100 500; size-adjust: 135%; ascent-override: 70%; descent-override: 18%; line-gap-override: 0%; }   /* chess figurines: FreeSerif subset (GNU FreeFont, GPL with font-embedding exception), glyphs sit on the baseline; first in the font stacks */
+@font-face { font-family: "Figurine"; src: url("fonts/figurine-bold.woff2") format("woff2"); unicode-range: U+2654-265F; font-display: swap; font-weight: 600 900; size-adjust: 135%; ascent-override: 70%; descent-override: 18%; line-gap-override: 0%; }   /* chess figurines: FreeSerif subset, outlines thickened for bold text (GNU FreeFont, GPL with font-embedding exception), glyphs sit on the baseline; first in the font stacks */
+/* SatranChess: every page (home, posts, game posts) uses the same layout (.site):
+   left: brand + board (fixed), right: the page content (scrolls).
+   Black and white, Bricolage Grotesque / Instrument Sans. */
+:root {
+  --bg: #ffffff;
+  --fg: #0a0a0a;
+  --muted: #6b6b6b;
+  --rule: #d9d9d9;
+  --display: "Figurine", "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --font: "Figurine", "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --pp-accent: red;              /* the player's accent: the move list's scroll thumb */
+  --panel-bg: #1c1c1e; --panel-fg: #f2f0eb;   /* the inverted player panel: the dark theme's dark grey on the light theme (not near-black) ... */
+  --pill-radius: 3px;            /* corner radius shared by the move buttons and the links in article text */
+  --pill-pad: .02em .18em;       /* and their inner padding */
+  --mid-size: clamp(1.35rem, 2vw, 1.8rem);
+  --heading-size: clamp(2rem, 3.4vw, 2.75rem);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #1c1c1e; --fg: #f2f0eb; --muted: #9b9a96; --rule: #38383a; --panel-bg: #f2f0eb; --panel-fg: #1c1c1e; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #1c1c1e; --fg: #f2f0eb; --muted: #9b9a96; --rule: #38383a; --panel-bg: #f2f0eb; --panel-fg: #1c1c1e; color-scheme: dark; }   /* ... and the light panel on the dark theme */
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 1rem;
+  line-height: 1.45;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+a:focus-visible { outline: 2px solid var(--fg); outline-offset: 4px; }
+
+/* Name */
+.who { margin: 0; white-space: nowrap; }
+
+/* Contact block under the articles */
+.site-home h2 { margin: 0 0 clamp(.9rem, 1.6vw, 1.4rem); font-family: var(--display); font-weight: 800; font-size: var(--heading-size); line-height: 1; letter-spacing: -0.03em; font-variation-settings: "wdth" 100, "opsz" 72; }
+.sr { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+/* Latest video */
+.vid { display: grid; gap: .75rem; }
+.vid + .vid { margin-top: 2rem; }
+.thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; overflow: hidden; }
+.thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.thumb iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.thumb.playing .play { display: none; }
+.thumb:focus-visible { outline: 2px solid var(--fg); outline-offset: 4px; }
+.thumb .play { position: absolute; left: 50%; top: 50%; width: 4.25rem; height: 4.25rem; margin: -2.125rem 0 0 -2.125rem; border-radius: 50%; background: #fff; color: #0a0a0a; display: grid; place-items: center; }
+.thumb .play svg { width: 1.9rem; height: 1.9rem; fill: currentColor; margin-left: .05rem; }
+.vm { display: flex; gap: 1rem; align-items: baseline; justify-content: space-between; flex-wrap: wrap; }
+.vl { font-size: .75rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; }
+.vd { font-size: .9rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.vt { font-family: var(--display); font-weight: 600; font-size: 1.25rem; line-height: 1.15; letter-spacing: -0.02em; font-variation-settings: "wdth" 100, "opsz" 36; }
+
+/* Links */
+.ic { width: 1.25rem; height: 1.25rem; fill: currentColor; flex: none; }
+
+/* Articles */
+.list { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--fg); }
+.list li + li { border-top: 1px solid var(--rule); }
+.list li a { position: relative; display: grid; grid-template-columns: minmax(0, 1fr); column-gap: 1.25rem; row-gap: .4rem; padding-block: 1.25rem 1.4rem; }
+.pt { grid-column: 1; text-wrap: balance; }
+.pin { position: absolute; top: 1.3rem; right: .2rem; width: 1.05rem; height: 1.05rem; fill: var(--muted); transform: rotate(35deg); }
+.pinned .pt, .pinned .px { padding-right: 1.6rem; }
+.px { grid-column: 1; font-size: 1rem; line-height: 1.5; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.morebtn { margin-top: 1.5rem; display: flex; width: 100%; align-items: baseline; gap: .9rem; padding: .9rem 0; background: none; border: 0; border-bottom: 1px solid var(--rule); color: var(--fg); font-family: var(--display); font-weight: 700; font-size: 1.5rem; letter-spacing: -0.03em; font-variation-settings: "wdth" 100, "opsz" 72; cursor: pointer; }
+.morebtn .count { font-family: var(--font); font-weight: 400; font-size: .9rem; letter-spacing: 0; color: var(--muted); }
+.morebtn:focus-visible { outline: 2px solid var(--fg); outline-offset: 4px; }
+
+.foot { color: var(--muted); font-size: .875rem; }
+
+@media (max-width: 36rem) {
+  .list li a { grid-template-columns: 1fr; }
+}
+
+/* ---- Post pages ---- */
+.post-body { font-size: 1.125rem; line-height: 1.65; overflow-wrap: break-word; }
+.post-body p { margin: 0 0 1.1em; }
+.post-body h2, .post-body h3, .post-body h4 { font-family: var(--display); font-weight: 700; line-height: 1.12; letter-spacing: -0.02em; margin: 2em 0 .6em; text-wrap: balance; font-variation-settings: "wdth" 100, "opsz" 48; }
+.post-body h2 { font-size: 1.9rem; }
+.post-body h3 { font-size: 1.45rem; }
+.post-body h4 { font-size: 1.2rem; }
+.post-body a { color: inherit; text-decoration-thickness: 1.5px; text-underline-offset: .18em; }
+/* Links in article text: a soft grey pill, inverted (like the move buttons) on hover */
+.post-body a:not([class]) { text-decoration: none; padding: var(--pill-pad); border-radius: var(--pill-radius); background: var(--rule); background: color-mix(in srgb, var(--fg) 14%, transparent); -webkit-box-decoration-break: clone; box-decoration-break: clone; transition: background-color .15s ease, color .15s ease; }
+.post-body a:not([class]):hover, .post-body a:not([class]):focus-visible { background: var(--fg); color: var(--bg); outline: none; }
+.post-body strong { font-weight: 600; }
+.post-body ul, .post-body ol { padding-left: 1.25rem; margin: 0 0 1.1em; }
+.post-body img { display: block; max-width: 100%; height: auto; margin: 1.5rem 0; }
+.post-body pgn-player img { display: inline; max-width: none; margin: 0; }
+.post-body pgn-player .video-title-players { color: var(--fg); }
+.post-body pgn-player .video-title-event { color: var(--muted); }
+.post-body pgn-player .video-title-elo { margin-left: .4em; font-weight: 400; font-size: .75em; color: var(--muted); white-space: nowrap; }
+.post-body pgn-player { display: block; width: fit-content; max-width: 100%; margin: 1.5rem auto; --board-size: min(400px, calc(100vw - 3rem)); }   /* centred; shrinks on narrow screens */   /* the player's board pieces and icons are not article pictures */
+.post-body iframe { display: block; max-width: 100%; border: 0; margin: 1.5rem 0; }
+
+/* Date under the title in the home page post list */
+.pd { grid-column: 1; font-family: var(--display); font-size: .9rem; color: var(--muted); }
+
+/* The punctuation square at the end of the brand: a diagonally hatched square */
+.logo-dot { display: inline-block; width: .24em; height: .24em; margin-left: .08em; vertical-align: baseline; overflow: visible; }
+
+/* Channel link under the video section (same look as the "Tüm yazıları gör" button) */
+a.morebtn { color: var(--fg); text-decoration: none; }
+a.morebtn .ic { width: 1.1em; height: 1.1em; vertical-align: -.19em; fill: currentColor; }
+
+/* ==== Game posts: board on the left, text and clickable moves on the right ==== */
+.game-section { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); }
+.game-header h2 { margin: 0; font-family: var(--display); font-weight: 800; font-size: 1.6rem; line-height: 1.1; letter-spacing: -0.03em; }
+.game-header .gn { white-space: nowrap; }
+@media (max-width: 36rem) { .game-header .gn { white-space: normal; } }
+.game-header .elo { font-weight: 400; font-size: .6em; color: var(--muted); letter-spacing: 0; white-space: nowrap; }
+.game-header p { margin: .35rem 0 1.25rem; color: var(--muted); font-size: 1rem; }
+.game-moves { font-size: 1.0625rem; line-height: 1.7; }
+.game-moves p { margin: 0 0 .7em; }
+.game-moves .cm { color: var(--fg); }
+.game-moves .var { margin: 0 0 .9em .15rem; padding-left: 1rem; border-left: 1px solid var(--rule); font-size: .96em; }
+.game-moves .var .var { margin-left: 0; }
+.mv { font: inherit; color: inherit; background: none; border: 0; padding: var(--pill-pad); margin: 0; border-radius: var(--pill-radius); cursor: pointer; white-space: nowrap; }
+.line-main .mv { font-weight: 700; }
+.mv:hover, .mv:focus-visible { background: var(--fg); color: var(--bg); outline: none; }
+.mv.on { background: var(--fg); color: var(--bg); }
+.kbd-nav .mv:not(.on):hover { background: none; color: inherit; }
+.move-line .mv { font-weight: 600; }
+
+/* Links share one transition for opacity/colour changes */
+a, .morebtn, .mv, .board-reset, .theme-toggle { transition: opacity .15s ease, background-color .15s ease, color .15s ease; }
+
+/* Thin, faint rule under the last visible post and under the video title */
+.list li.last-visible { border-bottom: 1px solid var(--rule); }
+.list li.last-visible:has(+ li.more:not([hidden])) { border-bottom: 0; }
+.vt-row { padding-bottom: .9rem; border-bottom: 1px solid var(--rule); }
+
+/* ==== Shared layout (.site): identical on every page ==== */
+.site { --site-pad: clamp(1.25rem, 3.5vw, 2.5rem); max-width: 38rem; margin: 0 auto; padding: 3.75rem 0 var(--site-pad); }
+.site-left, .site-right { display: contents; }
+
+/* Marka: SatranChess + ad */
+.site-brand { container-type: inline-size; margin-bottom: 1.25rem; }
+.brand { display: flex; flex-direction: column; align-items: flex-end; gap: 1rem; width: fit-content; max-width: 100%; margin-inline: auto; text-align: center; }
+.mark { display: block; margin: 0; font-family: var(--display); font-weight: 800; font-size: clamp(3.5rem, 15.8cqw, 14rem); line-height: .85; letter-spacing: -0.03em; font-variation-settings: "wdth" 100, "opsz" 96; text-align: center; }
+.mark .lt { font-weight: 200; letter-spacing: -0.02em; font-variation-settings: "wdth" 100, "opsz" 96; }
+.brand .who { text-align: right; }
+
+/* Tahta */
+.site-board-wrap { position: sticky; top: 0; z-index: 5; background: var(--bg); padding-block: .5rem; margin-bottom: 1.25rem; }
+.board-empty, .board-home { position: relative; top: auto; padding: 0; margin: 0 0 1.5rem; background: none; }
+.site-board { --board-size: min(100%, 17.5rem); }
+.site-board-box { position: relative; width: var(--board-size); margin-inline: auto; touch-action: none; }
+#home-board { width: 100%; }
+.board-reset { position: absolute; right: 0; top: 100%; margin-top: .2rem; padding: 0; border: 0; background: none; color: var(--muted); font: inherit; font-size: .75rem; line-height: 1; cursor: pointer; }
+
+html { scroll-behavior: smooth; }
+.site-home h2 { scroll-margin-top: 1.5rem; }
+
+/* Right column */
+.site-scroll { min-width: 0; }
+.post-header h1 { margin: 0 0 .9rem; font-family: var(--display); font-weight: 800; font-size: clamp(2rem, 6vw, 3.25rem); line-height: 1.02; letter-spacing: -0.04em; text-wrap: balance; }
+.post-header h1:last-child { margin-bottom: 1.75rem; }   /* no date under the title */
+.post-byline { margin: 0 0 1.75rem; color: var(--muted); font-family: var(--display); font-size: .9rem; }
+.site-right .post-body > :first-child { margin-top: 0; }
+.site-scroll .foot { margin-top: 2.5rem; padding-bottom: 1rem; }
+
+/* Wide screens: two columns, the left column is sticky and the page scrolls (not on private pages, .site-single: one centred column) */
+@media (min-width: 64rem) {
+  html:has(:where(.site:not(.site-single))), body:has(:where(.site:not(.site-single))) { padding-inline: 0; }
+  .site:where(:not(.site-single)) { --gut: max(16px, calc((100vw - 63rem) / 2)); max-width: none; margin: 0; padding: 0 max(0px, calc(var(--gut) - (100vw - 100%))) 0 var(--gut); min-height: 100dvh; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-rows: auto; column-gap: clamp(3rem, 6vw, 7rem); }
+  :where(.site:not(.site-single), .brand-clone) .site-left { display: grid; grid-column: 1; grid-row: 1; grid-template-rows: auto minmax(0, 1fr); position: sticky; top: 0; height: 100dvh; align-self: start; min-height: 0; container-type: inline-size; }
+  :where(.site:not(.site-single), .brand-clone) .site-brand { padding-top: var(--site-pad); margin-bottom: 1rem; }
+  :where(.site:not(.site-single), .brand-clone) .brand { gap: 1.25rem; margin-left: auto; margin-right: 0; text-align: right; }
+  :where(.site:not(.site-single), .brand-clone) .mark { font-size: 27.65cqw; line-height: .8; text-align: right; }
+  :where(.site:not(.site-single), .brand-clone) .mark > span { display: block; }
+  :where(.site:not(.site-single), .brand-clone) .mark wbr { display: none; }
+  :where(.site:not(.site-single), .brand-clone) .mark .lt { margin-left: -.03em; }
+  :where(.site:not(.site-single), .brand-clone) .site-board-wrap, :where(.site:not(.site-single), .brand-clone) .board-empty, :where(.site:not(.site-single), .brand-clone) .board-home { position: relative; container-type: size; min-height: 0; padding: 0; margin: 0 0 1.25rem; background: none; }
+  :where(.site:not(.site-single), .brand-clone) .site-board { --board-size: min(100%, calc(100cqh - 6px)); display: flex; justify-content: flex-end; }
+  :where(.site:not(.site-single), .brand-clone) .site-board-box { margin-inline: 0; }
+    .site-right { display: block; grid-column: 2; grid-row: 1; min-height: 0; }
+  :where(.site:not(.site-single), .brand-clone) .site-scroll { margin-left: -.75rem; padding: var(--site-pad) .5rem var(--site-pad) .75rem; }
+  .list { border-top: 0; }
+  /* the baseline of the right column's first line is aligned to the left "Chess" line by game.js */
+  /* when scrolled: brand becomes one small line, the name goes away, the board grows */
+  .site-compact .mark { font-size: 10cqw; line-height: .9; }
+  .site-compact .mark > span { display: inline; }
+  .site-compact .brand .who { display: none; }
+  .site-compact .site-brand { margin-bottom: 1.25rem; }
+  /* thick scrollbar at the far right of the window (the page itself scrolls; the left column is sticky) */
+  html { scrollbar-width: auto; }
+  html::-webkit-scrollbar { width: 16px; }
+  html::-webkit-scrollbar-track { background: transparent; }
+  html::-webkit-scrollbar-thumb { background: var(--muted); border: 4px solid var(--bg); border-radius: 8px; min-height: 3rem; }
+  html::-webkit-scrollbar-thumb:hover { background: var(--fg); }
+  @supports not selector(::-webkit-scrollbar) { html { scrollbar-color: var(--muted) transparent; } }
+  .board-reset { top: 100%; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Light / dark theme button (on every page, top right) */
+.theme-toggle { position: fixed; top: max(.9rem, env(safe-area-inset-top, 0px)); right: max(.9rem, env(safe-area-inset-right, 0px)); z-index: 50; width: 2.5rem; height: 2.5rem; display: grid; place-items: center; padding: 0; border: 1px solid var(--rule); border-radius: 50%; background: var(--bg); color: var(--fg); cursor: pointer; transition: opacity .15s ease; }
+.theme-toggle:focus-visible { outline: 2px solid var(--fg); outline-offset: 3px; }
+.theme-toggle svg { grid-area: 1 / 1; width: 1.2rem; height: 1.2rem; fill: currentColor; }
+.theme-toggle .ic-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .ic-moon { display: none; }
+:root[data-theme="dark"] .theme-toggle .ic-sun { display: block; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .ic-moon { display: none; }
+  :root:not([data-theme="light"]) .theme-toggle .ic-sun { display: block; }
+}
+
+/* Post footer and previous / next post */
+.foot .morebtn { margin-top: 0; border-top: 1px solid var(--rule); justify-content: center; }
+.foot-copy { margin: 1.75rem 0 0; }
+.post-nav { display: grid; grid-template-columns: 1fr 1fr; column-gap: 1.5rem; border-top: 1px solid var(--rule); }
+.post-nav a { display: grid; gap: .25rem; padding: 1rem 0 1.1rem; align-content: start; }
+.post-nav a[rel="prev"] { grid-column: 1; }
+.post-nav a[rel="next"] { grid-column: 2; text-align: right; }
+.post-nav .nav-label { font-size: .85rem; color: var(--muted); }
+.post-nav .nav-title, .foot .morebtn { font-family: var(--display); font-weight: 700; font-size: 1.25rem; line-height: 1.15; letter-spacing: -0.025em; color: var(--fg); }
+
+/* Home board: grey + book link on the Italian Game position */
+#home-board { transition: filter .4s ease, opacity .4s ease; }
+.board-gray #home-board { filter: grayscale(1); opacity: .45; }
+.board-link { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: min(86%, 19rem); display: grid; gap: .3rem; padding: .9rem 1rem 1rem; background: var(--bg); color: var(--fg); border: 1px solid var(--fg); text-align: left; z-index: 2; }
+.board-link[hidden] { display: none; }
+.board-link .bl-title { font-family: var(--display); font-weight: 800; font-size: 1.35rem; line-height: 1.05; letter-spacing: -0.03em; }
+.board-link .bl-text { font-size: .9rem; line-height: 1.35; color: var(--muted); }
+
+/* The brand text is not a link; only the square logo at the end links to the home page */
+.mark-dot { display: inline-block; line-height: 0; color: inherit; }
+
+/* Home board: the dragged piece (a copy added to body) shows above the board; squares get no yellow highlight */
+body > img.piece-417db { z-index: 9999; pointer-events: none; }
+#home-board [class*="highlight"] { box-shadow: none !important; }
+.baseline-probe { display: inline-block; width: 0; height: 0; }
+
+/* Arrow over the board (last move) */
+.site-arrow { position: absolute; left: 0; top: 0; pointer-events: none; }
+.site-arrow polygon { fill: rgba(110, 110, 110, .5); }
+
+/* ChessPublica link in the footer */
+.foot-copy a, .site-home > p:last-child a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .18em; }
+
+/* Copyright line aligned right */
+.foot-copy, .site-home > p:last-child { text-align: right; }
+
+/* Normal arrow cursor over text (not the text cursor); hand cursor on links and buttons */
+body { cursor: default; }
+a, a *, button, button *, .mv, .morebtn, .thumb, .thumb * { cursor: pointer; }
+#home-board img { cursor: grab; }
+
+/* Video play button */
+.thumb .play { transition: box-shadow .2s ease; }
+.thumb:hover .play { box-shadow: 0 0 0 .4rem rgba(255, 255, 255, .28); }
+
+/* On load the right column stays hidden until the baseline alignment is computed (visible at once without JavaScript) */
+.js .site:not(.site-ready) .site-scroll { opacity: 0; }
+.site-scroll { transition: opacity .15s ease; }
+
+/* The name and the list titles (publication titles, post titles...) share one font, size and weight */
+.who, .pt { font-family: var(--display); font-weight: 600; font-size: var(--mid-size); line-height: 1.1; letter-spacing: -0.02em; font-variation-settings: "wdth" 100, "opsz" 36; }
+@media (min-width: 64rem) { :where(.site:not(.site-single), .brand-clone) .brand { gap: .5rem; } }
+
+/* The name gets a top margin that puts it on the same baseline as the first publication title on the home page; the formula is the
+   same on every page, so the board has the same size and position on all pages */
+@media (min-width: 64rem) { :where(.site:not(.site-single), .brand-clone) .brand .who { margin-top: calc(.2055 * var(--heading-size) + .437cqw - 2.75px); } }
+
+/* Disabled entries (no link): look normal, show the "not allowed" cursor on hover, not clickable */
+a[aria-disabled="true"], a[aria-disabled="true"] * { cursor: not-allowed; }
+a[aria-disabled="true"], a[aria-disabled="true"]:hover, a[aria-disabled="true"]:focus-visible { opacity: 1; }
+
+/* ==== On hover: inverted colours like the selected move (dark background, light text) ==== */
+/* Only the inner spans that hold the text (.hv) change colour; the row/box itself does not. If the text wraps, each line is highlighted separately. */
+.hv { padding: .02em .18em; margin: -.02em -.18em; border-radius: var(--pill-radius); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+a[href]:hover .hv, a[href]:focus-visible .hv, button:hover .hv, button:focus-visible .hv { background: var(--fg); color: var(--bg); }
+/* small stand-alone links highlight themselves */
+.foot-copy a, .site-home > p:last-child a, .vt, .mark-dot { padding-inline: .2em; margin-inline: -.2em; border-radius: var(--pill-radius); }
+.vt { justify-self: start; }
+.foot-copy a:hover, .site-home > p:last-child a:hover, .vt:hover, .vt:focus-visible,
+.board-link:hover, .board-link:focus-visible, .board-reset:hover, .board-reset:focus-visible,
+.theme-toggle:hover, .theme-toggle:focus-visible { background: var(--fg); color: var(--bg); }
+.board-link:hover .bl-text { color: inherit; opacity: .75; }
+.theme-toggle:hover svg { color: var(--bg); }
+
+/* Icons inside the title highlight: the icon's "cut-out" parts (drawn in the background colour) take the highlight background colour */
+.hv svg { vertical-align: -.05em; }
+a[href]:hover .hv [style*="var(--bg)"], button:hover .hv [style*="var(--bg)"] { fill: var(--fg) !important; }
+/* Satranç vs. logo: the squares do not swap places, only the outline turns to the opposite colour */
+a[href]:hover .ic-vs rect:first-child { fill: var(--fg); stroke: var(--bg); }
+a[href]:hover .ic-vs [style*="var(--bg)"] { fill: var(--bg) !important; }
+
+/* All cards/sections on the home page share one width */
+.site-home { --card-w: 26rem; }
+.site-home > * { max-width: var(--card-w); }
+.site-home > p:last-child { max-width: none; }
+
+/* Home page: sections are plain headings and lists in a row; the space between sections comes from the heading's top margin */
+.site-home { --section-gap: clamp(2.5rem, 6vw, 4rem); }
+.site-home > p:last-child { margin: var(--section-gap) 0 0; padding-bottom: 1rem; color: var(--muted); font-size: .875rem; }
+.site-home h2:nth-of-type(n+3) { margin-top: calc(var(--section-gap) + 1rem); }
+.site-home h2:nth-of-type(3) { margin-top: calc(var(--section-gap) + clamp(0rem, 1vw, .5rem) + 1rem); }
+.site-home h2:last-of-type { margin-bottom: calc(clamp(.9rem, 1.6vw, 1.4rem) + 1.25rem); }
+
+/* Publications: a plain markdown list ("- [icon Title](url)" + summary line). The link is the title; the card is clickable as a whole. */
+.site-home > ul { list-style: none; margin: 0 0 clamp(1.75rem, 3.5vw, 2.75rem); padding: 0; border-top: 2px solid var(--fg); border-bottom: 1px solid var(--rule); }
+.site-home > ul > li { position: relative; padding-block: 1.25rem 1.4rem; font-size: 1rem; line-height: 1.5; color: var(--muted); }
+.site-home > ul > li + li { border-top: 1px solid var(--rule); }
+.site-home > ul > li a { display: block; width: fit-content; color: var(--fg); font-family: var(--display); font-weight: 600; font-size: var(--mid-size); line-height: 1.1; letter-spacing: -0.02em; font-variation-settings: "wdth" 100, "opsz" 36; text-wrap: balance; text-decoration: none; padding: .02em .18em; margin: -.02em -.18em .4rem; border-radius: var(--pill-radius); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.site-home > ul > li a::after { content: ""; position: absolute; inset: 0; }
+.site-home > ul > li a:hover, .site-home > ul > li a:focus-visible { background: var(--fg); color: var(--bg); }
+.site-home > ul > li a:hover [style*="var(--bg)"] { fill: var(--fg) !important; }
+.site-home > ul .ic { width: .8em; height: .8em; margin-right: .32em; vertical-align: -.09em; }
+@media (min-width: 64rem) { .site-home > ul { border-top: 0; } }
+
+/* Links list (the last markdown list on the home page): "- icon [**Name** rest](url)" + address line */
+.site-home > ul:last-of-type { margin: 0; border: 0; }
+.site-home > ul:last-of-type > li { display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: 1rem; align-items: center; padding-block: .8rem; font-size: .875rem; line-height: 1.4; border-top: 1px solid var(--rule); }
+.site-home > ul:last-of-type > li:last-child { border-bottom: 1px solid var(--rule); }
+.site-home > ul:last-of-type > li > .ic { color: var(--fg); grid-row: 1 / span 2; grid-column: 1; width: 1.5rem; height: 1.5rem; margin: 0; vertical-align: baseline; }
+.site-home > ul:last-of-type > li > p { grid-column: 2; margin: 0; min-width: 0; }
+.site-home > ul:last-of-type > li > p > a { display: block; width: fit-content; margin: 0 -.18em .1rem; overflow-wrap: anywhere; font-weight: 300; font-size: 1.125rem; line-height: 1.2; letter-spacing: -0.015em; font-variation-settings: "wdth" 100, "opsz" 24; }
+.site-home > ul:last-of-type > li > p > a strong { font-weight: 700; }
+.site-home > ul:last-of-type > li:has(a:hover) > .ic { background: var(--fg); color: var(--bg); padding: .12em; margin: -.12em; border-radius: var(--pill-radius); box-sizing: content-box; }
+.site-home > ul:last-of-type > li:has(a:hover) > .ic [style*="var(--bg)"] { fill: var(--fg) !important; }
+
+/* Post panel (_posts/private/2020-20-20-panel.md, assets/wizard.js) */
+.site.site-wide { max-width: 64rem; }
+/* Private pages (lessons, panel): the brand is a letterhead, small, with the name on the same line and a thin rule below */
+.site-single .site-brand { margin: 0 0 1.75rem; padding: 0 0 .85rem; border-bottom: 1px solid var(--rule); }
+.site-single .brand { flex-direction: row; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .25rem 1rem; width: 100%; max-width: none; margin-inline: 0; text-align: left; }
+.site-single .mark { font-size: 2.1rem; line-height: 1; text-align: left; }
+.site-single .brand .who { font-size: .95rem; font-weight: 500; color: var(--muted); text-align: right; }
+#wizard h2 { margin: 1.25rem 0 .75rem; font-size: 1.4rem; }
+.wiz-bar { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1rem; margin: 0 0 1.5rem; padding: .9rem 1.1rem; border: 1px solid var(--rule); border-radius: 4px; }
+.wiz-ok { color: #1e8449; font-weight: 700; }
+.wiz-connect { display: grid; gap: .5rem; width: 100%; }
+.wiz-connect-row { display: flex; gap: .5rem; }
+.wiz-connect-row input { flex: 1; }
+.wiz-grid { display: grid; gap: 1.5rem; grid-template-columns: minmax(0, 1fr); align-items: start; }
+@media (min-width: 56rem) { .wiz-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+.wiz-main, .wiz-side { padding: 0 1.25rem 1.25rem; border: 1px solid var(--rule); border-radius: 4px; }
+.wiz-head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.wiz-field { display: grid; gap: .3rem; margin: 0 0 1.1rem; }
+.wiz-field > span { font-weight: 600; }
+.wiz-field small { color: var(--muted); font-size: .85rem; line-height: 1.35; }
+#wizard textarea, #wizard input[type="text"], #wizard input[type="date"], #wizard input[type="password"] { width: 100%; padding: .6rem .7rem; font: inherit; font-size: 1rem; color: var(--fg); background: var(--bg); border: 1px solid var(--rule); border-radius: 3px; }
+#wizard textarea:focus, #wizard input:focus { outline: 2px solid var(--fg); outline-offset: 2px; }
+#wizard button, .wiz-open, .wiz-btnlink { display: inline-block; margin: .25rem .5rem .25rem 0; padding: .5rem .95rem; font: inherit; font-family: var(--display); font-weight: 700; color: var(--bg); background: var(--fg); border: 1px solid var(--fg); border-radius: 3px; cursor: pointer; text-decoration: none; }
+#wizard button.wiz-ghost, .wiz-btnlink { color: var(--fg); background: none; border-color: var(--rule); }
+#wizard button:disabled { opacity: .5; cursor: wait; }
+.wiz-check { display: block; margin: .15rem 0 .5rem; font-size: .95rem; color: var(--muted); }
+.wiz-field > .wiz-check { margin: 0; color: var(--fg); font-size: 1rem; }
+.wiz-help { margin: .25rem 0 0; font-size: .9rem; color: var(--muted); }
+.wiz-help summary { cursor: pointer; font-weight: 600; color: var(--fg); }
+.wiz-help ol { margin: .5rem 0 0; padding-left: 1.25rem; line-height: 1.45; }
+.wiz-help code { font-size: .85em; }
+.wiz-list { display: grid; gap: .5rem; margin: 0 0 1rem; }
+.wiz-error { color: #c0392b; font-weight: 600; }
+.wiz-sum, .wiz-status { color: var(--muted); }
+.wiz-link { display: block; margin: 1rem 0 .75rem; font-family: var(--display); font-weight: 700; font-size: 1.15rem; overflow-wrap: anywhere; text-decoration: underline; }
+.wiz-row { display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: center; justify-content: space-between; padding: .85rem 0; border-top: 1px solid var(--rule); }
+.wiz-row > div:first-child { min-width: 0; flex: 1 1 14rem; }
+.wiz-row .wiz-sum { font-size: .9rem; }
+.wiz-actions { display: flex; flex-wrap: wrap; gap: .25rem; }
+#wizard .wiz-actions > * { margin: 0; padding: .35rem .7rem; font-size: .9rem; line-height: 1.3; }
+.wiz-url { display: block; font-size: .85rem; overflow-wrap: anywhere; text-decoration: underline; color: var(--muted); }
+.wiz-badge { display: inline-block; padding: .05rem .5rem; font-size: .75rem; font-weight: 600; border: 1px solid var(--rule); border-radius: 999px; color: var(--muted); vertical-align: .1em; }
+.wiz-badge-yayin { color: #1e8449; border-color: #1e8449; }
+.wiz-badge-taslak { color: #b9770e; border-color: #b9770e; }
+.wiz-tabs { display: flex; gap: .25rem; margin: 0 0 .5rem; border-bottom: 1px solid var(--rule); }
+#wizard .wiz-tab { margin: 0 0 -1px; padding: .5rem .9rem; color: var(--muted); background: none; border: 1px solid transparent; border-bottom: 0; border-radius: 3px 3px 0 0; }
+#wizard .wiz-tab[aria-selected="true"] { color: var(--fg); background: var(--bg); border-color: var(--rule); border-bottom: 1px solid var(--bg); }
+#wizard .wiz-tab:hover { color: var(--fg); }
+
+/* ==== Wide screens, pages with players: board in the left column, title/comments/variations in the right column (see site.js) ==== */
+.pp-split .post-body pgn-player { width: 100%; max-width: none; margin: 1.5rem 0; }
+.pp-split .post-body pgn-player .player-wrapper { width: 100% !important; min-height: 0; }
+.pp-split .post-body pgn-player .player-container,
+.pp-split .post-body pgn-player .video-moves { position: fixed; z-index: 6; visibility: hidden; pointer-events: none; margin: 0; }
+.pp-split .post-body pgn-player .player-container.pp-on,
+.pp-split .post-body pgn-player .video-moves.pp-on { visibility: visible; pointer-events: auto; }
+.pp-split .post-body pgn-player .board-toolbar { top: auto; bottom: 0; transform: translateY(100%); padding: 8px 0 0; gap: 8px; align-items: center; }   /* same spot as the puzzle's hint row buttons (8 px under the board, 8 px apart) */
+.pp-split.pp-active .board-empty .site-board-box { visibility: hidden; }   /* the empty placeholder board behind the player's board */
+.pp-split .post-body pgn-player .comment-play-btn { display: none; }
+.pp-toggle svg { display: block; margin: auto; }
+.pp-split .post-body pgn-player .board-wrap .play { display: none; }
+.pp-split .board-empty .site-board { --board-size: min(var(--pp-size, 100%), calc(100cqh - 6px)); }   /* the plain diagram has the size of the player's board, so nothing resizes when the player takes over */
+
+/* The player whose board is shown in the left column gets a thin frame (the space is always reserved, so nothing shifts) */
+.pp-split .post-body pgn-player { box-sizing: border-box; border: 1px solid transparent; border-radius: .8rem; padding: .7rem 1rem; margin-inline: -1rem; width: calc(100% + 2rem); transition: border-color .3s ease, box-shadow .3s ease; }
+/* ... and its colours are inverted (light panel on the dark theme, dark panel on the light theme), like a selected move */
+.pp-split .post-body pgn-player.pp-current { --pp-mute: color-mix(in srgb, var(--panel-fg) 58%, var(--panel-bg)); background: var(--panel-bg); color: var(--panel-fg); border-color: var(--panel-bg); }
+.pp-split .post-body pgn-player.pp-current .video-title-players { color: var(--panel-fg); }
+.pp-split .post-body pgn-player.pp-current .video-title-event,
+.pp-split .post-body pgn-player.pp-current .video-title-elo { color: var(--pp-mute); }
+.pp-split .post-body pgn-player.pp-current a:not([class]) { background: color-mix(in srgb, var(--panel-fg) 14%, transparent); }
+.pp-split .post-body pgn-player.pp-current a:not([class]):hover { background: var(--panel-fg); color: var(--panel-bg); }
+.pp-split .post-body pgn-player .video-comment { margin: 0; padding-bottom: 0; }
+.pp-split .post-body pgn-player .video-comment:not(:empty) { margin-top: .5rem; }
+
+/* A "more" row whose line spans the width, but only the text is the link (the empty space around it is not clickable) */
+.morerow { margin-top: 1.5rem; padding: .9rem 0; border-bottom: 1px solid var(--rule); }
+.morerow > a.morebtn { display: inline-flex; width: auto; margin: 0; padding: 0; border: 0; }
+.morerow.foot-home { margin-top: 0; border-top: 1px solid var(--rule); display: flex; justify-content: center; }
+
+/* Only the text is the link: the row/card around it is not clickable (hover and keyboard still reach the link through its text) */
+.list li a { pointer-events: none; justify-items: start; }
+.list li a .pt, .list li a .pd, .list li a .px { pointer-events: auto; max-width: 100%; }
+.list li a .pin { pointer-events: none; }
+.post-nav a { pointer-events: none; }
+.post-nav a[rel="prev"] { justify-items: start; }
+.post-nav a[rel="next"] { justify-items: end; }
+.post-nav a .nav-label, .post-nav a .nav-title { pointer-events: auto; max-width: 100%; }
+.pp-split .post-body pgn-player.pp-current .player-container,
+.pp-split .post-body pgn-player.pp-current .video-moves { color: var(--fg); }   /* the board and move list sit in the left column, outside the inverted panel */
+
+/* In a puzzle the play/pause toggle makes no sense (the reader makes the moves) */
+.pp-split .post-body pgn-player .player-container.puzzle-active .pp-toggle { display: none; }
+.pp-split .post-body pgn-player .player-container.puzzle-active .board-toolbar { top: auto; bottom: 4px; right: 44px; transform: none; padding: 0; }   /* in a puzzle the settings gear sits in the hint row, left of the hint button */
+
+/* The move list's scroll thumb has the player accent; there is no frame around the board in a puzzle */
+.post-body pgn-player .video-moves::-webkit-scrollbar-thumb { background: var(--pp-accent); }
+.post-body pgn-player .player-container.puzzle-active .board-wrap .board-b72b1 { box-shadow: none; }
+/* Firefox has no ::-webkit-scrollbar: colour its move list scrollbar the same (not in Chromium, where scrollbar-color would switch off the rules above) */
+@supports not selector(::-webkit-scrollbar) {
+  .post-body pgn-player .video-moves { scrollbar-color: var(--pp-accent) #d3d3d3; scrollbar-width: thin; }
+}
+
+/* the play/pause toggle is as big as the puzzle hint button (36 px), a little bigger than the settings gear */
+.pp-toggle { width: 36px; height: 36px; }
+
+/* A diagram inside the article text ([#] / [D] in a game comment) */
+.dg { display: block; width: min(100%, 17rem); aspect-ratio: 1; margin: 1.25rem 0; }
+.post-body .dg img { display: inline; max-width: none; margin: 0; }   /* the article picture rules must not touch the board's pieces */
+
+/* Block quotes (> in the markdown): a thin frame with a faint fill; a picture inside fills the frame */
+.post-body blockquote { margin: 1.5rem 0; padding: .9rem 1rem; border: 1px solid var(--muted); border: 1px solid color-mix(in srgb, var(--fg) 28%, transparent); border-radius: .7rem; background: color-mix(in srgb, var(--fg) 4%, transparent); }
+.post-body blockquote > :first-child { margin-top: 0; }
+.post-body blockquote > :last-child { margin-bottom: 0; }
+.post-body blockquote img { width: 20rem; max-width: 100%; margin: 0; border-radius: .35rem; }
+.post-body blockquote:has(> p > img:only-child) { width: fit-content; max-width: 100%; }   /* a quote that only holds a picture is as wide as the picture */
+
+/* Headings inside a game's comments (### / #### in the PGN comment) */
+.game-moves .cm-h { margin: 1.6em 0 .5em; }
+.game-moves h3.cm-h { font-size: 1.3rem; }
+.game-moves h4.cm-h { font-size: 1.1rem; }
+
+/* YouTube videos in the article text keep their 16:9 shape at any width */
+.post-body iframe[src*="youtube"] { width: 100%; height: auto; aspect-ratio: 16 / 9; }
+
+/* Table of contents at the top of a long article (<nav class="toc">) */
+.toc { margin: 0 0 2rem; padding: .9rem 1.1rem 1rem; border: 1px solid var(--rule); border-radius: .7rem; }
+.toc .toc-title { margin: 0 0 .5rem; font-family: var(--display); font-weight: 700; font-size: 1.15rem; letter-spacing: -0.02em; }
+.toc ol { margin: 0; padding-left: 1.25rem; }
+.toc li { margin: .35rem 0; }
+.toc .toc-game { color: var(--muted); margin-left: .35rem; white-space: nowrap; }
+.post-body .section-date { margin: -.35rem 0 1.4rem; }   /* the date under an article section's heading, like the date under a post title */
+
+/* A subtitle under an article section's heading (above its date) */
+.post-body .section-sub { margin: -.6rem 0 .5rem; font-family: var(--display); font-weight: 600; font-size: 1.3rem; line-height: 1.2; letter-spacing: -0.02em; color: var(--muted); }
+.post-body .section-sub + .section-date { margin-top: 0; }
+
+/* The site logo used instead of a smiley in the text */
+.smiley-logo { display: inline-block; width: .95em; height: .95em; margin-inline: .12em; vertical-align: -.12em; overflow: visible; }
+
+/* Tables in article text (match results etc.) */
+.post-body table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; margin: 1.25rem 0; font-size: .95rem; }
+.post-body th, .post-body td { padding: .35rem .75rem; border-bottom: 1px solid var(--rule); text-align: left; white-space: nowrap; }
+.post-body thead th { font-weight: 700; }
