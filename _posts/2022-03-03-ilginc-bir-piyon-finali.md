@@ -1,0 +1,64 @@
+---
+title: "İlginç Bir Piyon Finali!"
+date: 2022-03-03
+permalink: /yazilar/ilginc-bir-piyon-finali
+pinned: true
+summary: "Çekişmeli oyunlara sahne olan en üst düzey satranç organizasyonlarından Grand-Prix'de karşıma çıkan dikkat çekici bir konumu sizlerle paylaşmak istedim."
+---
+
+2022 Fide Grand Prix ikinci ayağı Belgrad'da başladı. Oldukça çekişmeli oyunlara sahne olan en üst düzey satranç organizasyonlarından Grand-Prix'de karşıma çıkan dikkat çekici bir konumu sizlerle paylaşmak istedim. Shankland ile Grischuk arasında oynanan oyunun son bölümü oldukça ilginç idi. Beyazların ne yaparsa yapsın kazandığı düşünülebilecek bir konumun derinine inince işlerin o kadar kolay olmadığı fark ediliyor. Satranç motorlarının artık kesin zaferini ilan ettiği günümüzde yine de sürekli tetikte olmak gerekiyor!
+
+## Daha Fazla Derinlik!
+
+**2022 Fide Grand Prix** ikinci ayağı Belgrad’da oynanırken ilginç bir oyunsonu dikkatimi çekti. Bunu sizlerle paylaşmak istedim. Stockfish’in konumu anlamak için daha fazla derinliğe ihtiyaç duyduğu bu ilginç finalin sonucu hakkında bir netliğe ulaşmak kolay görünmüyor. Piyon finallerinin çok uzun hesaplarla anlaşılabildiğini göz önünde bulundurunca bilgisayarların bile zorlanması normal elbette.
+
+Tarafların ciddi zaman sıkışması yaşadığı bu konumda ilk gözlem beyazın sahip olduğu **uzak geçer piyon**un oyunu kolayca kazanacağı düşüncesi yönünde ve
+oyunun geri kalanı bunu kanıtlar nitelikte.
+
+<p><span class="move-line" data-fen="8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36">{[D]} 36. b4 g5 37. b5 h4 38. gxh4 gxh4 39. a4</span> ve Siyah terk eder.</p>
+
+Oysa durum belki de böyle değil!
+
+> ![Stockfish analizi: Shankland - Grischuk]({{ '/assets/images/shankland-stockfish.png' | relative_url }})
+
+Stockfish’e göre durum daha farklı. Beyaz sadece 36. b3!! oynayarak kazanabiliyor. Elbette oyun çok daha derin bir analizi hak ediyor, ancak şimdilik ana doğrultularla yetineceğim.
+
+<pgn>
+[Event "All Pools | Belgrade FIDE Grand Prix"]
+[Site "chess24.com"]
+[Date "2022.03.02"]
+[Round "2.2"]
+[White "Shankland, Sam"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2704"]
+[BlackElo "2758"]
+[Annotator "Dogan,Nazmi Can"]
+[SetUp "1"]
+[FEN "8/p2k1pp1/4p3/2K4p/8/P3P1P1/1P4P1/8 w - - 0 36"]
+[PlyCount "28"]
+[EventDate "2022.??.??"]
+
+36. b4 (36. b3 $3 Kc7 {Beyaz şah bu kadar yakınken şah kanadı
+piyonlarını sürmek anlamsızdır.} 37. b4 $1 Kd7 (37... Kb7 38. Kd6) 38. Kb5
+$1 Kc7 39. Ka6 Kb8 40. b5 {Beyazın büyük en iyi hamleleri oynamasından
+sonra anlaşılıyor ki beyaz piyonu e3 karesinde iken siyahın karşı oyunu
+kısa düşüyor.} e5 {Siyah şimdi ilerlemeye başlayabilir fakat Beyaz şah
+çok hızlı.} 41. b6 axb6 42. Kxb6 f6 43. Kc6 Ka7 44. Kd5 Kb6 45. Ke6 $18 {
+Piyon e3 karesinde iken şah rahatlıkla siyah piyonları alabilir.Çünkü
+siyah aşağıda görüleceği gibi merkezden bir geçer piyon yaratamaz.})
+36... Kc7 {ve zorlu bir berabere ile.} (36... g5 $4 37. b5 h4 38. gxh4 gxh4 39.
+a4 {Sam Shankland – Alexander Grischuk, FIDE Grand Prix Belgrad 2022, 2. tur, 1-0. [Lichess →](https://lichess.org/game/piwgqfCu#52) }) 37. b5 (37. Kb5 {Bu fikir şimdi olmuyor ve
+eğer beyaz fazla hırslı davranırsa siyah kazanıyor. Az sonra
+göreceğiniz varyant siyahın şah-kanadı ilerleyişini göstermek için
+verildi.} f5 {[D]} 38. Kc5 (38. Ka6 Kb8 39. b5 $4 g5 40. b6 e5 41. bxa7+ Ka8 42. Kb5
+f4 43. exf4 exf4 44. gxf4 gxf4 45. Kc4 f3 $19) 38... g5 39. a4 h4 40. gxh4 gxh4
+41. b5 e5 42. Kd5 f4 43. exf4 exf4 44. Ke4 Kb6 45. Kxf4 Ka5 46. Kg4 Kxa4 47.
+Kxh4 Kxb5 $11) 37... Kb7 38. a4 f6 39. e4 {Beyaz üstte görüldüğü gibi bu
+piyonu sürmeden de kazanamıyor.} (39. a5 Kc7 40. b6+ axb6+ 41. axb6+ Kb7 42.
+Kd6 e5 43. Ke6 Kxb6 44. Kf7 Kc5 45. Kxg7 Kd5 46. Kxf6 Ke4 47. Ke6 Kxe3 48. Kxe5
+Kf2 49. Kf4 Kxg2 $11) 39... Kc7 40. a5 Kd7 41. b6 axb6+ 42. Kxb6 Kc8 43. Kc6 e5
+44. Kd6 Kb7 45. Ke6 Ka6 46. Kf5 Kxa5 47. Kg6 Ka4 48. Kxg7 f5 49. exf5 e4 {
+Tarafların vezir çıktığı bu konum "Tablebase berabere".} 1-0
+</pgn>
