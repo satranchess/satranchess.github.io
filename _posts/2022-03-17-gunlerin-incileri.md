@@ -273,7 +273,7 @@ karşı oyunu olurdu.
 
 *Analiz diyagramı: 25...c5 sonrası konum*
 
-[D]} 26. dxc5 Qxd1 27. Rxd1 Bxc5 28. Bxc5 $1  Nxc3 29. Rd2 Nxe4 30. Nxe4 {Siyah materyal fazlasıyla çok üstün
+[D]} 26. dxc5 Qxd1 27. Rxd1 Bxc5 28. Bxc5 $2  Nxc3 29. Rd2 Nxe4 30. Nxe4 {Siyah materyal fazlasıyla çok üstün
 olurdu.}) 24. hxg5 {Siyah direk fili alırsa g6 ve devamında Qe2-Qh5 bitirici olurdu.} 24... fxg5 (24... Nxa3
 25. g6 Re7 26. Qe2 {[%cal Ge2h5]}) 25. Qxg5 {[D]
 
