@@ -124,7 +124,7 @@ saat düşünmenin ardından siyahın bu varyantı değerlendirmeye veya hazırl
 anlaşılıyor. Zira burada Stockfish’in tercih ettiği devamyolu 22.Qxb5 olarak görünüyor. Bu takdirde siyahın
 22…Qc7 dönüp ardından g7-g5 sürüşüyle e5-karesi için savaşmaya başlaması bilgisayarın tercihi.
 
-[D]} (22. Qxb5 Qc7 23. h3 g5 24. f5 d5) 22... Qc7 $2 {Sonraki hamleyle birleşince hemen kaybediyor. Beyazın
+[D]} (22. Qxb5 Qc7 23. h3 g5 24. f5 d5 {Tam bir kaos, fakat rakip şahın konumu nedeniyle Siyahın kaliteye karşı yeterli oyunu var.}) 22... Qc7 $2 {Sonraki hamleyle birleşince hemen kaybediyor. Beyazın
 kalelerini daha fazla etkinleştirmesini engelleyen 22…Qa8 hamlesi gerekliydi. Böylece siyah sonraki hamlesinde
 Ba6 veya Bb7 ile devam edebilir ve oyun hayli belirsiz olurdu. Şimdi ise konum hiç beklenmedik bir şekilde
 çöküyor. Burada ilginç olan şu ki 22.Qxb5 hamlesine 22…Qc7 iyi bir tercihken şimdi hatalı bir hamle oluyor
