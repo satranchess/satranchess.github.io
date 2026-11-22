@@ -42,8 +42,7 @@ Stockfish’e göre durum daha farklı. Beyaz sadece 36. b3!! oynayarak kazanabi
 
 36. b4 (36. b3 $3 Kc7 {Beyaz şah bu kadar yakınken şah kanadı
 piyonlarını sürmek anlamsızdır.} 37. b4 $1 Kd7 (37... Kb7 38. Kd6) 38. Kb5
-$1 Kc7 39. Ka6 Kb8 40. b5 {Beyazın büyük en iyi hamleleri oynamasından
-sonra anlaşılıyor ki beyaz piyonu e3 karesinde iken siyahın karşı oyunu
+$1 Kc7 39. Ka6 Kb8 40. b5 {Bu varyantta anlaşılıyor ki beyaz piyonu e3 karesinde iken siyahın karşı oyunu
 kısa düşüyor.} e5 {Siyah şimdi ilerlemeye başlayabilir fakat Beyaz şah
 çok hızlı.} 41. b6 axb6 42. Kxb6 f6 43. Kc6 Ka7 44. Kd5 Kb6 45. Ke6 $18 {
 Piyon e3 karesinde iken şah rahatlıkla siyah piyonları alabilir.Çünkü
