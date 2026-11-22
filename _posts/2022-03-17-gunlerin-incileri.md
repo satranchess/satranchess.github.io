@@ -114,7 +114,7 @@ tehdidi var.} 22... Nb8 23. Rh3 {Ardından Rb3 ve Re1 ile beyazın kısa sürede
 (2553)-Sarkar,J (2426) Reykjavik 2016}) (16... Nc5 17. e5 dxe5 18. Nc6 Rxf4 19. Rhf1 Qc7 20. Bxc5 Rxf1 21.
 Bxe7 Rxd1+ 22. Qxd1 Bb7 23. Bd6 Qb6 24. Ba3 Qc7 25. Qh1 {1-0 (25) Cipka,I (2378)-Siigur,J (2466) ICCF email
 2012}) 17. Ndb5 Qa5 (17... Nc5 {bir başka seçenek idi, ancak siyahın hala hamlelerini oynarken hiç
-düşünmediğini belirtelim. Belli ki hazırlığını takip ediyor.} 18. Bxc5 dxc5 19. Kxb2 O-O) 18. Kxb2 Qb4+ 19. Kc1 axb5 20. Kd2 {[D]
+düşünmediğini belirtelim. Belli ki hazırlığını takip ediyor.}) 18. Kxb2 Qb4+ 19. Kc1 axb5 20. Kd2 {[D]
 
 Buraya kadar zamanını hiç kullanmayan siyah burada yarım saat kadar düşünüyor. Belli ki kendisi için asıl oyun
 yeni başlıyor. Son derece karmaşık bu konumda rollerin birden değişebilecek olması ve açılan a ve
