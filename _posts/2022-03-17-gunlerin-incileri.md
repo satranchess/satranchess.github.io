@@ -110,8 +110,7 @@ Sarkar, Rejkjavik 2016 partisi şöyle devam etmiş:
 [D]} (16... Qc7 17. h4 h5 18. g5 Ng4 19. Be1 Qb6 {*Analiz diyagramı: 19...Vb6 sonrası konum*
 
 [D]} 20. Nd5 $1 {Sicilya Savunması için tipik bir feda.} 20... exd5 21. Bxb4 Qxb4 22. exd5 {Şimdi Qxe7-Nc6
-tehdidi var.} 22... Nb8 23. Rh3 {Ardından Rb3 ve Re1 ile beyazın kısa sürede kazanan bir saldırısı var.
-Yeniden oyuna dönelim.} 23... Qa5 24. Rb3 Qa1+ 25. Kd2 Qa5+ 26. c3 Qc7 27. Re1 {1-0 (27) Tari,A
+tehdidi var.} 22... Nb8 23. Rh3 {Ardından Rb3 ve Re1 ile beyazın kısa sürede kazanan bir saldırısı var.} 23... Qa5 24. Rb3 Qa1+ 25. Kd2 Qa5+ 26. c3 Qc7 27. Re1 {1-0 (27) Tari,A
 (2553)-Sarkar,J (2426) Reykjavik 2016}) (16... Nc5 17. e5 dxe5 18. Nc6 Rxf4 19. Rhf1 Qc7 20. Bxc5 Rxf1 21.
 Bxe7 Rxd1+ 22. Qxd1 Bb7 23. Bd6 Qb6 24. Ba3 Qc7 25. Qh1 {1-0 (25) Cipka,I (2378)-Siigur,J (2466) ICCF email
 2012}) 17. Ndb5 Qa5 (17... Nc5 {bir başka seçenek idi, ancak siyahın hala hamlelerini oynarken hiç
