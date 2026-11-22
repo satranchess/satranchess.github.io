@@ -128,11 +128,11 @@ kalelerini daha fazla etkinleştirmesini engelleyen 22…Qa8 hamlesi gerekliydi.
 Ba6 veya Bb7 ile devam edebilir ve oyun hayli belirsiz olurdu. Şimdi ise konum hiç beklenmedik bir şekilde
 çöküyor. Burada ilginç olan şu ki 22.Qxb5 hamlesine 22…Qc7 iyi bir tercihken şimdi hatalı bir hamle oluyor
 Belki de güçlü büyükustanın hazırlığında bunun da olduğu ve **varyantları karıştırdığı** söylenebilir. Çok iyi
-bilinen bir açılışta bile tehlikeleri anlamak kolay olmuyor!} (22... Qa8 {[%cal Gc8b7,Gb7a6]}) 23. Ra1 {[D]}
+bilinen bir açılışta bile tehlikeleri anlamak kolay olmuyor!} 23. Ra1 {[D]}
 23... Rd8 $2 {Hemen kaybediyor. Beyazın Ra7 hamlesini kesmek için 23…Nc5 gerekliydi, fakat bu durumda bile
 artık beyazın iyi bir oyunu olacaktı. Örneğin 23…Nc5 24.Bxc5 dxc5 25.e5 ve beyazın net kalite fazlasıyla
 teknik olarak kazanç bir konumu vardır. Beyaz şah kendine e1-f1 üzerinden şah kanadında güvenli bir yer
-bulabilir.} (23... Nc5 24. Bxc5 dxc5 25. e5 {[%cal Gd2e1,Ge1f1]}) 24. Ra7 Qc6 {[D]} 25. Nd5 $1 {Vezirini
+bulabilir.} (23... Nc5 24. Bxc5 dxc5 25. e5 {Siyahın yeterli kompanzasyonu olmasa bile oyun sürerdi.}) 24. Ra7 Qc6 {[D]} 25. Nd5 $1 {Vezirini
 kaybetmek üzere olan siyah oyunu terk etti. Eğer at alınmazsa Nb4 vardır. Daha önce incelediğimiz Günün İncisi
 partilerinden farklı olarak açılış hamlelerinin çok daha büyük önem arz ettiği bir oyunu incelemiş olduk.
 Buradan bize bir ders çıkması gerekirse, kendimize seçtiğimiz açılışları hazırlık düzeyimize göre seçmemiz
