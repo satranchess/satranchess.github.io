@@ -103,7 +103,7 @@ verir.
 [D]
 
 Şimdi beyazın b2-piyonunu feda ettiği siyahınsa piyonu almak için kalite feda etmesi gereken ilginç bir konuma
-gidiyoruz. 🙂} (16. Nb3 Nc5) 16... Rxb2 {Yenilik! Elbette satranç motorlarının en beğendiği hamlelerden. Daha
+gidiyoruz. 🙂} (16. Nb3 Nc5 {Siyah için elverişlidir.}) 16... Rxb2 {Yenilik! Elbette satranç motorlarının en beğendiği hamlelerden. Daha
 önce 16…Qc7 ve 16…Nc5 hamleleri uygulanmış. Olası tehlikelere dikkat çekmek için bir oyunu analım. Tari -
 Sarkar, Rejkjavik 2016 partisi şöyle devam etmiş:
 
