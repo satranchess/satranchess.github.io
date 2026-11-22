@@ -259,8 +259,7 @@ istiyor. Giri ise 20.Rae1 hamlesiyle e-dikeyinin açılması durumunda Re7 fikir
 Giri’nin kaçırdığı ikinci hamle. Oyundan sonra belirttiği gibi kendisine göre “**üst üste kaçırılan iki hamle
 çok iyi bir konumu eşit hale getiriyor**.” Siyah atın Nd8-Ne6 ile merkeze doğru dönüşünü uman beyaz şimdi bir
 şeyler yapmak zorunda zira b5 piyonu saldırı altında. Merkez mücadelesinin kanat oyunu ile birleştiğini
-gördüğümüz bu güzel oyunun zirve noktasına yavaş yavaş geliyoruz.} (22... Nd8 {[%cal Gd8e6]} 23. Qe2 {[%cal
-Gg3f5,Ge2g4]}) 23. h4 {Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan biteni şimdilik
+gördüğümüz bu güzel oyunun zirve noktasına yavaş yavaş geliyoruz.} (22... Nd8 {[%cal Gd8e6]} 23. Qe2 {Beyaz için oldukça iyidir.}) 23. h4 {Giri şah kanadı oyununun potansiyelini sezerek vezir kanadında olan biteni şimdilik
 görmezden geliyor. Elbette artık doğru hesaplama şimdiye dek hiç olmadığı kadar önemli hale geliyor.
 
 [D]} 23... Nxb5 {[%cal  Gb5a3] Çok riskli ancak mümkün. Şah kanadını kapalı tutan 23… g4! hamlesinden sonra
