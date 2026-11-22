@@ -97,8 +97,8 @@ tehdidi ortaya konmuş oldu ve şah kanadında h4 ile piyonlarını ilerletmeyi 
 
 [D]} 15... Qb6 {[%cal  Rb4d4,Rb4b2]} 16. Bf2 {[%cal Rf2b6] Önemli bir hamle! Buraya kadar her şeyin daha önce
 oynandığını ve tarafların fazla düşünmeden bu konuma ulaştıklarını not edelim. Burada d4 ve b2 kareleri
-üzerindeki çifte saldırıyı 16.Nb3 gibi pasif bir hamleyle karşılamanın siyaha oldukça rahat bir oyun
-vereceğini belirtelim.
+üzerindeki çifte saldırıyı 16.Nb3 gibi pasif bir hamleyle karşılamak siyaha oldukça rahat bir oyun
+verir.
 
 [D]
 
@@ -243,8 +243,7 @@ tehditleriyle)} 17... Ncb4 $4 {Re6 engelleniyor fakat şah-kanadı saldırısın
 sunuyor 🙂} 18. Qg6 {[%csl Rg7]} 18... Rf7 {[%cal Gf7g7]} 19. Bxh6 {[%csl Rg7]} 19... Bf5 {*Analiz diyagramı:
 19...Ff5 sonrası konum*
 
-[D]} 20. Nxf6+ {[%cal Gc4f7]} 20... Kf8 21. Bxg7+ (21. Qg5 $18) 21... Rxg7 22. Qh6 {[%cal Gf6h5,Ge1e8]}) 16.
-Ba3 {[%csl Rf8]} 16... Rf7 17. Re4 {[%cal Ga1e1] [D]
+[D]} 20. Nxf6+ {[%cal Gc4f7]} 20... Kf8 21. Bxg7+ (21. Qg5 $18) 21... Rxg7 22. Qh6 {♘h5 ve ♖e8 gibi bitirici tehditlerle.}) 16. Ba3 {[%csl Rf8]} 16... Rf7 17. Re4 {[%cal Ga1e1] [D]
 
 Stockfish’in basitçe 17.Rad1 oynamayı istediği bu anda Giri kalelerini e-dikeyinde çiftlemek istiyor. Giri’nin
 fikri siyahın exd4 alışından sonra e-dikeyinin açılacak olmasına dayanıyor.} 17... a4 {[%csl Rb3][%cal Ra4b3]
