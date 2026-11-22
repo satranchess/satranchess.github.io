@@ -168,7 +168,7 @@ hazırlığından hemen sonra zor duruma düşmesi bize bu konuda düşünmek ü
 
 ### AÇILIŞ FELSEFESİ VE PİYON YAPISI
 
-[Satrançsever](https://www.satrancdukkanim.com/default.asp?git=7&kategori=6) dergisinde kısmen değinmeye
+**Satrançsever** dergisinde kısmen değinmeye
 çalıştığım **İtalyan Açılışı**‘nda hamle sıralamasının önemini üst düzey oyunlarda sık sık görmek mümkün,
 ancak detaylara vakıf olmak hayli zor. Bu turnuva Giri’nin İtalyan Açılışı’na dair hazırlığı oldukça dikkat
 çekici.} 8... a5 {[%csl Rb5] Bu piyon sürüşünün son yıllardaki kullanımı İtalyan Açılışı’nın gelişimine ve
@@ -186,9 +186,9 @@ Tabatabaei’ye kaşı kullandığı bir başka b-piyonu sürüşünü ileride e
 özellikle son yıllarda oynanan oyunlarla incelemesi ve oynaması oldukça öğretici fikirler barındırıyor. …Be6
 ile karşılaşılması halinde bu file karşı verilebilecek tepkilerin zenginliği açılışın ayrıca öğrenilmesi zor
 noktalarından. İlk olarak **Karpov - Yusupov Bugojno 1986**‘da
-[gördüğüm](https://www.chessgames.com/perl/chessgame?gid=1068476) e6-karesi üzerindeki değişim sonrası oluşan
+[gördüğüm](https://lichess.org/game/OYMxo1Qn) e6-karesi üzerindeki değişim sonrası oluşan
 piyon yapısı günümüze kadar en önemli örneğini **2016 Carlsen - Karjakin Dünya Satranç Şampiyonası**nın kritik
-[10. tur](https://www.chessgames.com/perl/chessgame?gid=1848571) oyununda verdi. Ayrıca mevcut durumda 8…a5
+[10. tur](https://lichess.org/game/OYMxo1Qn) oyununda verdi. Ayrıca mevcut durumda 8…a5
 hamlesinin zafiyetini vurgulayan 10.Bb5 daha çok tercih edilmektedir.} 10... d5 {Önceki hamleyle uyumlu bu
 ilerleme yerine 10… Bb6 hamlesinin daha çok oynanmasının nedeni Nf1 hamlesini bekleyerek Giri’nin birazdan
 göreceğimiz 12.Ne4 hamlesini engelleme çabası. Aynı zamanda İtalyan Açılışı’nda pek çok kez görüldüğü üzere
