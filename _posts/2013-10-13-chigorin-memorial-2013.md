@@ -85,9 +85,10 @@ Yanda görülen konum Siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şi
 [SetUp "1"]
 [FEN "3q1rk1/7r/p3Pp1Q/2pp1RP1/1p6/1PbB2B1/P5PK/8 w - - 0 36"]
 
-{Siyahın 35…Rh7 hamlesi ardından oluşan konum. Siyah 36.Qg6+ Rg7 ile savunmayı ümit ediyor. Fakat beyaz taşlarla oynayan Akopian’ın çok daha iyi bir fikri var.
 
-BEYAZ OYNAR KAZANIR!}
+Siyahın 35…Rh7 hamlesi ardından oluşan konum. Siyah 36.Qg6+ Rg7 ile savunmayı ümit ediyor. Fakat beyaz taşlarla oynayan Akopian’ın çok daha iyi bir fikri var.
+
+BEYAZ OYNAR KAZANIR!
 
 </pgn>
 {% endraw %}
