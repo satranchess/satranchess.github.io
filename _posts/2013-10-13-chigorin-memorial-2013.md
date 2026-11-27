@@ -51,15 +51,11 @@ sadece savunmaya mahkum oluyor. Çoğu zaman olduğu gibi bu da saldırmaktan ç
 18. f4 $1 Qd8 19. f5 Ne5 20. f6 gxf6 21. Qh4 Ng6 22. Qh6 Qf8 23. Nh5 Qxh6 24. Bxh6 Bc6 25. Nxf6 Bb6 26.
 Ng4 Be8 27. h4 Nxh4 $2
 
-Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.
+{Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.}
 
 28. Bxe6 $1 Ra7 29. Bd5 Ng6 30. Nf6 Re7 31. Nxe8 Rxe8 32. Rxf7 1-0
 </pgn>
 {% endraw %}
-
-Turnuvaya üçüncü sırada başlayan Alekseev, ilk turda kendisini zor durumda buluyor.
-
-Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şimdi “merkezde kalmış şaha karşı” hücum etmesi gerekiyor. Beyaz ise haklı olarak konumum yeterince üstün olduğunu düşünerek burada
 
 {% raw %}
 <pgn>
@@ -68,7 +64,11 @@ Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyaz�
 [WhiteElo "2203"]
 [BlackElo "2709"]
 [SetUp "1"]
-[FEN "3qk2r/3nbpp1/p5p1/1p1Q4/B1r1p3/2N1B3/PP6/R3R1K1 w k - 0 20"]
+[FEN "3qk2r/3nbpp1/p5p1/1p1Q4/B1r1p3/2N1B2P/PP6/R3R1K1 w k - 0 21"]
+
+Turnuvaya üçüncü sırada başlayan Alekseev, ilk turda kendisini zor durumda buluyor.
+
+Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şimdi “merkezde kalmış şaha karşı” hücum etmesi gerekiyor. Beyaz ise haklı olarak konumum yeterince üstün olduğunu düşünerek burada
 
 20. Bb3 {ile fırsatı kaçırıyor ve süper büyükustaya} 20... Rh5 21. Qd2 Rc8 22. Nxe4 Ne5 23. Qxd8+ $6 Rxd8
 {hamleleri sonrasında zorlu ve uzun süren bir mücadeleyle yarım puanı alma fırsatı veriyor. Oysa beyazın çok
