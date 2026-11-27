@@ -50,8 +50,6 @@ sadece savunmaya mahkum oluyor. Çoğu zaman olduğu gibi bu da saldırmaktan ç
 
 18. f4 $1 Qd8 19. f5 Ne5 20. f6 gxf6 21. Qh4 Ng6 22. Qh6 Qf8 23. Nh5 Qxh6 24. Bxh6 Bc6 25. Nxf6 Bb6 26.
 Ng4 Be8 27. h4 Nxh4 $2 *
-</pgn>
-{% endraw %}
 
 Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.
 
