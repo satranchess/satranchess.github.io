@@ -53,7 +53,7 @@ Ng4 Be8 27. h4 Nxh4 $2
 
 {Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.}
 
-28. Bxe6 $1 Ra7 29. Bd5 Ng6 30. Nf6 Re7 31. Nxe8 Rxe8 32. Rxf7 1-0
+28. Bxe6 $1 Ra7 29. Bd5 Ng6 30. Nf6 Re7 31. Nxe8 Rxe8 32. Rxf7 {1-0}
 </pgn>
 {% endraw %}
 
