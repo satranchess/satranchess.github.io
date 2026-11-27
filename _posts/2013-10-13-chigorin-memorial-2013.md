@@ -46,10 +46,10 @@ siyahın karşı oyun fikrinin gösterilmesi açısından öğretici. Bu yüzden
 başlamadan bitiriyor.}) 15... Ng6 16. axb5 axb5 17. Rxa8 Rxa8 {Siyahın a-hattı üzerinden giriş noktaları
 bulunmadığından, 15.f4’e göre vezir kanadında elde ettiği yeterli görünmüyor. Bu yüzden siyah şah kanadında
 sadece savunmaya mahkum oluyor. Çoğu zaman olduğu gibi bu da saldırmaktan çok daha zor. Bundan sonra beyaz
-“rutin” bir şekilde saldırıyor.
+“rutin” bir şekilde saldırıyor.}
 
 18. f4 $1 Qd8 19. f5 Ne5 20. f6 gxf6 21. Qh4 Ng6 22. Qh6 Qf8 23. Nh5 Qxh6 24. Bxh6 Bc6 25. Nxf6 Bb6 26.
-Ng4 Be8 27. h4 Nxh4 $2 *
+Ng4 Be8 27. h4 Nxh4 $2
 
 Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.
 
