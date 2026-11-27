@@ -48,22 +48,12 @@ bulunmadığından, 15.f4’e göre vezir kanadında elde ettiği yeterli görü
 sadece savunmaya mahkum oluyor. Çoğu zaman olduğu gibi bu da saldırmaktan çok daha zor. Bundan sonra beyaz
 “rutin” bir şekilde saldırıyor.
 
-18.} 18. f4 $1 Qd8 19. f5 Ne5 20. f6 gxf6 21. Qh4 Ng6 22. Qh6 Qf8 23. Nh5 Qxh6 24. Bxh6 Bc6 25. Nxf6 Bb6 26.
+18. f4 $1 Qd8 19. f5 Ne5 20. f6 gxf6 21. Qh4 Ng6 22. Qh6 Qf8 23. Nh5 Qxh6 24. Bxh6 Bc6 25. Nxf6 Bb6 26.
 Ng4 Be8 27. h4 Nxh4 $2 *
 </pgn>
 {% endraw %}
 
 Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.
-
-{% raw %}
-<pgn>
-[White "Solak"]
-[Black "Kostrikina"]
-[WhiteElo "2613"]
-[BlackElo "2140"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "r3b2k/5p1p/1b1pp2B/1p6/3pP1Nn/1B1P4/1PP3P1/5RK1 w - - 0 28"]
 
 28. Bxe6 $1 Ra7 29. Bd5 Ng6 30. Nf6 Re7 31. Nxe8 Rxe8 32. Rxf7 1-0
 </pgn>
