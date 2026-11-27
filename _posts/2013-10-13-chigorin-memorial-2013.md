@@ -57,6 +57,10 @@ Ng4 Be8 27. h4 Nxh4 $2
 </pgn>
 {% endraw %}
 
+Turnuvaya üçüncü sırada başlayan Alekseev, ilk turda kendisini zor durumda buluyor.
+
+Yanda görülen konum Siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şimdi “merkezde kalmış şaha karşı” hücum etmesi gerekiyor. Beyaz ise haklı olarak konumum yeterince üstün olduğunu düşünerek burada 21.♗b3 oynuyor.
+
 {% raw %}
 <pgn>
 [White "Belenkaya"]
@@ -65,10 +69,6 @@ Ng4 Be8 27. h4 Nxh4 $2
 [BlackElo "2709"]
 [SetUp "1"]
 [FEN "3qk2r/3nbpp1/p5p1/1p1Q4/B1r1p3/2N1B2P/PP6/R3R1K1 w k - 0 21"]
-
-{Turnuvaya üçüncü sırada başlayan Alekseev, ilk turda kendisini zor durumda buluyor.
-
-Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şimdi “merkezde kalmış şaha karşı” hücum etmesi gerekiyor. Beyaz ise haklı olarak konumum yeterince üstün olduğunu düşünerek burada}
 
 21. Bb3 {Fırsatı kaçırıyor.} (21. Nxe4! O-O (21…Rxa4 22. Nd6+ Bxd6 23.Bg5 + {Beyazın fikrini gösteren devam yolu.}) 22.Bb3 {Devamyolu oyundakinden çok daha iyiydi ve bir puanı kazanmak için daha az pürüzlü bir yolu olurdu.})   21... Rh5 22. Qd2 Rc8 23. Nxe4 Ne5 24. Qxd8+ $6 Rxd8
 {Oyunda oynanan bu hamleler siyah taşlarla oynayan büyükustaya zor da olsa berabere yapma fırsatı sunmuştu.} 
