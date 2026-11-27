@@ -103,10 +103,10 @@ BEYAZ OYNAR KAZANIR!}
 [SetUp "1"]
 [FEN "3r4/5pkp/6p1/p2Bp3/Q2nPq2/8/P1r2PPP/1R3RK1 b - - 0 29"]
 
-{[D]Beyazın 29.Rf1 hamlesinden sonra oluşan konum, siyah oyunu bitiren devamyolunu buluyor.
+{Beyazın 29.Rf1 hamlesinden sonra oluşan konum, siyah oyunu bitiren devamyolunu buluyor.
 
 SİYAH OYNAR KAZANIR!}
-
+{[D]}
 </pgn>
 {% endraw %}
 
