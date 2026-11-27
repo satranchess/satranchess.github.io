@@ -29,8 +29,8 @@ oynamalıyım. Vezir d2 karesinde daha kötü, çünkü (uzun roktan sonra) kale
 e2’deyken e-hattı üzerinde tehlikeli bir atak unsuru olabilir. İtiraf etmeliyim ki, bu hamleyi yaparak filimin
 diagonalini geçici olarak kapatıyorum, fakat eski antrenörüm Vladik Nevednichy’nin söylediği gibi; fil, attan
 farklı olarak, başlangıç karesinde gayet iyi yerleşmiş olabilir! Şunu da belirtmeliyim ki, bu konumda mantıklı
-f4 ve ardından Qf3 oynama planının, bazı dezavantajları bulunuyor: [D] [D] Beyaz şah merkezde kaldı ve siyahın
-konumu muhtemelen daha iyi.) [D] [D] Beyazın kaliteye karşı yeterli karşı oyunu bulunuyor, fakat bundan
+f4 ve ardından Qf3 oynama planının, bazı dezavantajları bulunuyor: [D] Beyaz şah merkezde kaldı ve siyahın
+konumu muhtemelen daha iyi.) [D] Beyazın kaliteye karşı yeterli karşı oyunu bulunuyor, fakat bundan
 fazlası değil. Bu pozisyonu dikkatlice analiz ettim ve siyahın şanslarının kötü olmadığına karar verdim.
 Bunların yanında, bu devamyolunda siyahın başka ilginç seçenekleri de bulunuyor.} (7. f4 Qc7 8. Qf3 h6 9. Bxf6
 (9. Bh4 $6) 9... g5 $1 (9... Nxf6 10. f5 Qc5 11. O-O-O g5 $1 12. fxg6 {Yoksa siyah, siyah karelerden çok iyi
@@ -38,12 +38,12 @@ oyun elde edecek.} 12... Bg4 13. gxf7+ Kxf7 14. Qd3 Bxd1 15. Nxd1) 10. fxg5 hxg5
 Qe2 Ng4 14. Bg1 Bh6) 7... g6 {[D] Hikaru’dan bu hamleyi bekliyordum ve bu hamleye karşı iyi bir pozisyonel
 yenilik hazırladım. Merak etsem de, Hikaru’nun bundan sonra bu varyantı tekrarlayacağını sanmıyorum.} 8. O-O-O
 Bg7 9. h4 $1 {S[D] iyahın şimdiden çok ciddi sorunları var. O rok atamıyor ve …h6 hamlesi ciddi sorunlara yol
-açıyor. Nakamura’nun oyunda oynadığı hamle onun en iyi seçeneğiydi.} 9... h5 {9…h6 [D] [D] Siyah e5’deki güçlü
+açıyor. Nakamura’nun oyunda oynadığı hamle onun en iyi seçeneğiydi.} 9... h5 {9…h6 [D] Siyah e5’deki güçlü
 filini uzun süre burada tutamaz. Bu yüzden ve ayrıca, gelişim avantajı ve biraz zayıflamış şah kanadı
 sebebiyle beyazın kesinlikle üstünlüğü vardır. Beyazın …Nf6 veya …Nb6 hamlesinden sonra f4 sürmesi sonucunda
 oluşacak taktik karışıklıklar, gelişimdeki büyük avantajı yüzünden onun faydasına olacaktır.} (9... O-O $2 10.
 h5 (10. Bxf6 $1 Bxf6 (10... Nxf6 {11.e5!± Burada vezirin …}) 11. h5 g5 12. Nd5 Be5 13. g3) 10... Nxh5 {Nf5+-})
-10. Kb1 {H[D] emen f4 sürmek istemedim çünkü siyah Nh7 oynuyor. Buna ancak siyah rok attıktan sonra izin
+10. Kb1 {Hemen f4 sürmek istemedim çünkü siyah Nh7 oynuyor. Buna ancak siyah rok attıktan sonra izin
 verebilirim.} 10... Qc7 {11.f4 oynayabilirim ve f5 sürdüğümde siyahın şah kanadındaki beyaz karelerde ciddi
 sıkıntıları olacak. [D] Bu hamleyle Bh3 hamleleriyle ile ordumu tamamen harekete geçirmek olabilir.} (10...
 O-O 11. f4 {Şimdi güvenli bir şekilde} 11... Ng4 (11... Nh7 {12.g4±}) 12. f5 e5 {karesini siyaha bırakıyor
