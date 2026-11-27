@@ -88,7 +88,7 @@ Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyaz�
 {Siyahın 35…Rh7 hamlesi ardından oluşan konum. Siyah 36.Qg6+ Rg7 ile savunmayı ümit ediyor. Fakat beyaz taşlarla oynayan Akopian’ın çok daha iyi bir fikri var.
 
 BEYAZ OYNAR KAZANIR!}
-{[D]}
+
 </pgn>
 {% endraw %}
 
@@ -106,7 +106,7 @@ BEYAZ OYNAR KAZANIR!}
 {Beyazın 29.Rf1 hamlesinden sonra oluşan konum, siyah oyunu bitiren devamyolunu buluyor.
 
 SİYAH OYNAR KAZANIR!}
-{[D]}
+
 </pgn>
 {% endraw %}
 
@@ -128,13 +128,14 @@ Beşinci turu oynanacak olan Chigorin Memorial’da 4/4 puan ile zirvede bulunan
 [SetUp "1"]
 [FEN "4r1k1/pp3ppp/1b6/3q1r2/1P1B4/P2Q1NP1/3P2KP/R6R b - - 0 1"]
 
-*
+{Açılışta beyazın işleri hiç iyi gitmedi ve eğer bir şans yakalayabilirse kalelerini oyuna getirerek durumu eşitlemeye çalışacak.
+
+SİYAH OYNAR KAZANIR!}
+
 </pgn>
 {% endraw %}
 
-Açılışta beyazın işleri hiç iyi gitmedi ve eğer bir şans yakalayabilirse kalelerini oyuna getirerek durumu eşitlemeye çalışacak.
 
-SİYAH OYNAR KAZANIR!
 
 {% raw %}
 <pgn>
@@ -145,11 +146,12 @@ SİYAH OYNAR KAZANIR!
 [SetUp "1"]
 [FEN "r2q1rk1/1p1bbppp/4p3/pP1n4/P1R5/3B1Q2/1B1N1PPP/5RK1 w - - 0 1"]
 
-*
+{Klasikleri iyi incelemenin meyveleri. Beyaz taşların hepsi şah kanadına yönlenmiş ve bitirici vuruşa hazır halde bekliyorlar. Kazanca giden fikir, ilk kez Nimzowitsch – Tarrasch, St. Petersburg 1914 maçında Tarrasch tarafından uygulandı!}
+
 </pgn>
 {% endraw %}
 
-Klasikleri iyi incelemenin meyveleri. Beyaz taşların hepsi şah kanadına yönlenmiş ve bitirici vuruşa hazır halde bekliyorlar. Kazanca giden fikir, ilk kez Nimzowitsch – Tarrasch, St. Petersburg 1914 maçında Tarrasch tarafından uygulandı!
+
 
 BEYAZ OYNAR KAZANIR!
 
