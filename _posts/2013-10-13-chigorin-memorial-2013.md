@@ -70,7 +70,7 @@ Ng4 Be8 27. h4 Nxh4 $2
 
 Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şimdi “merkezde kalmış şaha karşı” hücum etmesi gerekiyor. Beyaz ise haklı olarak konumum yeterince üstün olduğunu düşünerek burada}
 
-21. Bb3 {ile fırsatı kaçırıyor} (21. Nxe4! O-O (21…Rxa4 22. Nd6+ Bxd6 23.Bg5 + {Beyazın fikrini gösteren devam yolu.}) {Devamyolu oyundakinden çok daha iyiydi ve bir puanı kazanmak için daha az pürüzlü bir yolu olurdu.}  21... Rh5 22. Qd2 Rc8 23. Nxe4 Ne5 24. Qxd8+ $6 Rxd8
+21. Bb3 {ile fırsatı kaçırıyor} (21. Nxe4! O-O (21…Rxa4 22. Nd6+ Bxd6 23.Bg5 + {Beyazın fikrini gösteren devam yolu.}) 22.Bb3) {Devamyolu oyundakinden çok daha iyiydi ve bir puanı kazanmak için daha az pürüzlü bir yolu olurdu.}  21... Rh5 22. Qd2 Rc8 23. Nxe4 Ne5 24. Qxd8+ $6 Rxd8
 {hamleleri sonrasında zorlu ve uzun süren bir mücadeleyle yarım puanı alma fırsatı veriyor. Oysa beyazın çok
 daha iyi bir devamyolu var:} 
 
