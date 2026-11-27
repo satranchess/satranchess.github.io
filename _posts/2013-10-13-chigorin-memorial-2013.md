@@ -53,7 +53,7 @@ Ng4 Be8 27. h4 Nxh4 $2
 
 {Siyah daha önce muhtemelen daha iyi savunabilirdi, fakat bu hamle tamamen kaybediyor.}
 
-28. Bxe6 $1 Ra7 29. Bd5 Ng6 30. Nf6 Re7 31. Nxe8 Rxe8 32. Rxf7 {1-0}
+28. Bxe6 $1 Ra7 29. Bd5 Ng6 30. Nf6 Re7 31. Nxe8 Rxe8 32. Rxf7 {Siyah terk etti.}
 </pgn>
 {% endraw %}
 
@@ -71,7 +71,7 @@ Ng4 Be8 27. h4 Nxh4 $2
 Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyazın şimdi “merkezde kalmış şaha karşı” hücum etmesi gerekiyor. Beyaz ise haklı olarak konumum yeterince üstün olduğunu düşünerek burada}
 
 21. Bb3 {Fırsatı kaçırıyor.} (21. Nxe4! O-O (21…Rxa4 22. Nd6+ Bxd6 23.Bg5 + {Beyazın fikrini gösteren devam yolu.}) 22.Bb3 {Devamyolu oyundakinden çok daha iyiydi ve bir puanı kazanmak için daha az pürüzlü bir yolu olurdu.})   21... Rh5 22. Qd2 Rc8 23. Nxe4 Ne5 24. Qxd8+ $6 Rxd8
-{Oyunda oynanan bu hamleler büyükustaya berabere yapma fırsatı sunmuştu.} 
+{Oyunda oynanan bu hamleler siyah taşlarla oynayan büyükustaya zor da olsa berabere yapma fırsatı sunmuştu.} 
 
 </pgn>
 {% endraw %}
@@ -85,10 +85,10 @@ Yukarıda görülen konumda siyahın 20…hxg6 hamlesinden sonra oluştu. Beyaz�
 [SetUp "1"]
 [FEN "3q1rk1/7r/p3Pp1Q/2pp1RP1/1p6/1PbB2B1/P5PK/8 w - - 0 36"]
 
-{[D]Siyahın 35…Rh7 hamlesi ardından oluşan konum. Siyah 36.Qg6+ Rg7 ile savunmayı ümit ediyor. Fakat beyaz taşlarla oynayan Akopian’ın çok daha iyi bir fikri var.
+{Siyahın 35…Rh7 hamlesi ardından oluşan konum. Siyah 36.Qg6+ Rg7 ile savunmayı ümit ediyor. Fakat beyaz taşlarla oynayan Akopian’ın çok daha iyi bir fikri var.
 
 BEYAZ OYNAR KAZANIR!}
-
+{[D]}
 </pgn>
 {% endraw %}
 
