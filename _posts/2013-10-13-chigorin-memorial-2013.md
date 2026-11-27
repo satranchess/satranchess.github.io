@@ -89,7 +89,7 @@ BEYAZ OYNAR KAZANIR!
 [SetUp "1"]
 [FEN "3q1rk1/7r/p3Pp1Q/2pp1RP1/1p6/1PbB2B1/P5PK/8 w - - 0 36"]
 
-36.Qxh7! Kxh7 37.e7+! Qxe7 38.Re5+ {Siyah terk eder.}
+36. Qxh7! Kxh7 37. e7+! Qxe7 38. Re5+ {Siyah terk eder.}
 
 
 </pgn>
@@ -108,7 +108,7 @@ SİYAH OYNAR KAZANIR!
 [SetUp "1"]
 [FEN "3r4/5pkp/6p1/p2Bp3/Q2nPq2/8/P1r2PPP/1R3RK1 b - - 0 29"]
 
-29...Rxd5 {Beyaz terk eder!} 
+29... Rxd5 {Beyaz terk eder!} 
 
 </pgn>
 {% endraw %}
