@@ -38,7 +38,7 @@ Bana kalırsa turnuvaya ülkemiz adına katılan Dragan Solak‘ın ilk turdaki 
 [SetUp "1"]
 [FEN "r4r1k/2qbnppp/p2pp3/1pb4Q/3pP3/1B1P2N1/PPPB1PPP/R4RK1 w - - 0 15"]
 
-{Oyunun kritik konumlarından biri. Beyazın plana ihtiyacı var. Taş gelişimini tamamlayan beyaz işe başlamak için şah kanadını tercih edecek gibi görünüyor. Bu sebeple İlk akla gelen hamle 15.f4 hamlesi. Fakat beyazın bu hamleyi doğrudan oynamadan, siyahın karşı oyununu düşünerek bu operasyona başladığını görmek öğretici. Satrançta “prophylaxis”, önlemsellik ilkesini uygulamaya güzel bir örnek.}
+{Oyunun kritik konumlarından biri. Beyazın plana ihtiyacı var.}
 
 15. a4 $1 {Şah kanadından doğrudan saldırıya başlama fikri;} (15. f4 a5 16. a4 bxa4 17. Bxa4 Bxa4 18. Rxa4 Bb6
 {hamleleri ardından siyaha vezir kanadından karşı oyun verebilirdi. Elbette bu varyant zorunlu değil fakat
